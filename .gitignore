@@ -1,0 +1,5 @@
+mallet-2.0.7/
+mallet.zip
+*.mallet
+.ipynb_checkpoints/
+.DS_Store

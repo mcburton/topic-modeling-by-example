@@ -1,0 +1,46 @@
+Rating: 4.5/5 (2 votes cast)
+Image via Wikipedia
+A list of principles for designing on-line communities created by Dr. Sorin A. Matei and his students registered in various versions of the Online Interaction Graduate Seminar at Purdue University
+Online / virtual community design principles
+Design guidelines are not guarantees. Many are necessary for online community development but they don’t guarantee that communities will form. Good design principles are necessary but not sufficient. The following list provides some key principles to consider and implement when designing and online community:
+Policies and codes of conduct are necessary and should be shaped around the nature of the content and the community. E.g. A learning or educational community requires copyright policies. Write policy statements carefully – write for readability and use language, tone, and genre that stimulates the community feel that you desire to create.’Community Self-Rule: A system should be established to monitor and sanction members’ behavior carried out by the community members themselves rather than by an external authority. Let users resolve conflicts themselves whenever possible. Current examples of this include “terms of use” pages or agreements, and the option to have other users report violations of terms of use upon discovering them.
+Recognize that technology doesn’t make the community but use it intentionally to create a framework that supports, reinforces, and helps shape the community toward the intended goal. How you implement technology can either provide for, refine, or undermine your community goals. (To incorporate the note below — technology doesn’t make the community, but it must be dependable and functional so as not to disrupt the community’s flow.)
+Select appropriate barriers/boundaries. Barriers/boundaries are important and should be chosen intentionally. The level of barrier required depends on the nature of the community. One must ensure that barriers serve to frame the community members appropriately and not exclude unintentionally.
+Encourage your hosts and leaders to model the behavior you wish exemplified in the community. (Corollary: Unless you wish to have users dominate each other discourage over-control by leaders, moderators, and hosts).
+Front-load the community with members who are interesting, interested and engaging.
+Encourage interested community members to take leadership roles when appropriate. Outline a path by which they may do so.
+Hosting is about good hospitality – encouraging valuable, friendly, and open connections, handling disputes, answering questions, and helping find solutions to their needs within the community’s context. Remember that respect is essential to leadership.
+Owning One’s Space: Members must have the ability to change and modify their own environment. This includes bringing real-world behaviors online, such as allowing people to create private spaces. Users should still be able to connect to other peoples’ private spaces when invited.
+Reward–have a system of virtual rewards set up where users can praise each others’ contributions.
+Economic Exchange may be used to make the virtual world resemble the physical world. Consider allowing individuals to exchange goods and services (even virtual goods and services).
+Online communities require some persistence, institutional memory, and continuity in order to develop a strong identity.
+Cultivate a sense of accountability and continuity. Accountability and continuity include encouragement of the use of real names or persistent screen names whenever possible. Furthermore, continuity allows for the development of community norms. Encourage this through the use of groups.
+Diversity allows for or facilitates continuity — make the community interesting. Value the various ideas, personalities, and points of view. However, core groups (like the Dead Heads in the WELL) provide a solid base for community growth in the early phases.
+Provide room to grow. The need for balance and continuity must be balanced with a need to allow flexibility and dynamic development and interaction. Communities are organisms. They require room to grow.
+The community should facilitate flow. Those who visit the site should enjoy their stay and want to spend time in the site.
+Dissent is good as it illustrates that people care enough about the community to fight about it. Don’t be overly zealous in squashing disagreements between users.
+Translate offline community principles to online communities carefully. Thinking about good community offline can help formulate principles for online community so long as you translate the principles in regards to the advantages and limitations of the medium. Human beings are human beings regardless of their location.
+If at all possible, provide the community members with opportunities for offline interaction in addition to the virtual interaction.
+Purpose – it is vitally important to establish a correct understanding of the purpose. It must have a clearly defined scope so that the community design will not suffer scope creep. The purpose must be communicated clearly to the community audience, preferably on a welcome page.
+Legal disclaimers/policies – are necessary for some types of communities, such as copyright rules, privacy policy, and so on. Be sure these are easily accessible from the welcome page.
+Codes of conduct – a correct balance of “just enough” and “not too much” is required to foster cooperation and trust. They should specify acceptable behaviors and appropriate consequences for violating them. Accessibility to these should be very obvious throughout the community (e.g. a button on the upper left or right side). These should evolve when necessary along with the group and a mechanism for feedback provided.
+Active – communities must remain active to survive. New information must be generated and new conversations started. If the community falters, moderators must be ready to step in quickly to propose topics and post new items before participants begin to leave.
+Software – must be chosen with care, and with an eye to future requirements. Must be stable and reliable require little to no downtime.
+Interface – Must be reasonably easy to use, with main features obvious even to the computer semi-literate, and advanced features available to entertain the more experienced users. Tutorials aimed at different levels of users and different roles should be provided.
+Identity – how much self disclosure is required or allowed is an important decision especially because it affects trust building. Allowing users a measure of choice encourages self-disclosure reciprocity.
+Participant levels – recognize that all community members are not the same. They vary in technical expertise and personality. Some are active and others are lurkers. Provide for the variety of needs and target features for all of your main groups, not just some of them.
+Level of anonymity- whether or not members will be required to provide their real name and other demographic information should be based on the purpose of the community and the nature of the information provided/exchanged. This decision also relates to whether or not participants should be required to log-in.
+Promoting the community - making potential participants in your target group aware of your community is essential. Designers must continually promote the community in order to keep new members coming in, particularly in closed communities.
+Virtual communities also need:
+Rituals–as embodied in initiations, shared and sharing histories, and creation of community “myths” or narratives.
+Visuality–that allows members to connect specific, unique visual cues such as icons, avatars, or even simply color themes, to certain users or administrators. This aids in the building of group identity, while selecting a visual presence can serve as initiation for new members. While our readings don’t address this, the increasing ability to integrate images, video, and other new media applications make visual presence an important part of community building today and probably into the future.
+Derived from:
+Matei, S. A. and Britt, B. C. (2011). Virtual sociability: from community to communitas (Selected Papers from the Purdue Online Interaction Seminar)
+Wegner, E., McDermott, R., Snyder W. (2002). Cultivating Communities of Practice. Cambridge, MA: Harvard Business Press.
+Powazek, D. (2002). Design for Community. Chapters 5-9
+Preece, J. (2000). Online Communities: Designing Usability and Supporting Sociability. Chapter 9
+Williams, G.A. (1994) Online Community Building Concepts. Retrieved November 4, 2006 from [1]
+Godwin, M. (1994) Nine Principles for Making Virtual Communities Work. Retrieved November 4, 2006 from [2]
+Suler, J. (1996) Making Virtual Communities Work. Retrieved November 4, 2006 from [3]
+Kollack, P. (1996) Design Principles for Online Communities. Retrieved November 4, 2006 from [4]
+Browse other articles on the same topic from this site:

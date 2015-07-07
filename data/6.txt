@@ -1,0 +1,25 @@
+Comments Off
+Editors’ Note: Several recent pieces by Mia Ridge and Trevor Owens have been focused on Crowdsourcing and Cultural Heritage. Excerpts and links to the original pieces are below.
+Frequently Asked Questions about Crowdsourcing in Cultural Heritage
+By Mia Ridge
+….What kind of cultural heritage stuff can be crowdsourced?
+I wrote this list of ‘Activity types and data generated’ over a year ago for my Masters dissertation on crowdsourcing games for museums, and it should be read in the light of discussion about the difference between crowdsourcing and user-generated content and in the context of things people can do with museums, but it’ll do for now:
+ActivityData generated
+Tagging (e.g. steve.museum, Brooklyn Museum Tag! You’re It; variations include two-player ‘tag agreement’ games like Waisda?, extensions such as guessing games e.g. GWAP ESP Game, Verbosity, Tiltfactor Guess What?; structured tagging/categorisation e.g. GWAP Verbosity, Tiltfactor Cattegory)Tags; folksonomies; multilingual term equivalents; structured tags (e.g. ‘looks like’, ‘is used for’, ‘is a type of’).
+Debunking (e.g. flagging content for review and/or researching and providing corrections).Flagged dubious content; corrected data.
+Recording a personal storyOral histories; contextualising detail; eyewitness accounts.
+Linking (e.g. linking objects with other objects, objects to subject authorities, objects to related media or websites; e.g. MMG Donald).Relationship data; contextualising detail; information on history, workings and use of objects; illustrative examples.
+Stating preferences (e.g. choosing between two objects e.g. GWAP Matchin; voting on or ‘liking’ content).Preference data; subsets of ‘highlight’ objects; ‘interestingness’ values for content or objects for different audiences. May also provide information on reason for choice.
+Categorising (e.g. applying structured labels to a group of objects, collecting sets of objects or guessing the label for or relationship between presented set of objects).Relationship data; preference data; insight into audience mental models; group labels.
+Creative responses (e.g. write an interesting fake history for a known object or purpose of a mystery object.)Relevance; interestingness; ability to act as social object; insight into common misconceptions.
+You can also divide crowdsourcing projects into ‘macro’ and ‘micro’ tasks – giving people a goal and letting them solve it as they prefer, vs small, well-defined pieces of work, as in the ”Umbrella of Crowdsourcing” at The Daily Crowdsource and there’s a fair bit of academic literature on other ways of categorising and describing crowdsourcing.
+The Crowd and The Library
+by Trevor Owens
+Libraries, archives and museums have a long history of participation and engagement with members of the public. In a series of blog posts I am going to work to connects these traditions with current discussions of crowdsourcing. Crowdsourcing is a bit of a vague term, one that comes with potentially exploitative ideas related to uncompensated or undercompensated labor. In this series of I’ll try to put together a set set of related concepts; human computation, the wisdom of crowds, thinking of tools and software as scaffolding, and understanding and respecting end users motivation, that can both help clarify what crowdsourcing can do for cultural heritage organizations while also clarifying a clearly ethical approach to inviting the public to help in the collection, description, presentation, and use of the cultural record.
+Human Computation and Wisdom of Crowds in Cultural Heritage
+By Trevor Owens
+Libraries, archives and museums have a long history of participation and engagement with members of the public. In my last post, I charted some problems with terminology, suggesting that the cultural heritage community can re-frame crowdsourcing as engaging with an audience of committed volunteers. In this post, get a bit more specific about the two different activities that get lumped together when we talk about crowdsourcing. I’ve included a series of examples and a bit of history and context for good measure.
+For the most part, when folks talk about crowdsourcing they are generally talking about two different kinds of activities, human computation and the wisdom of crowds.
+Human Computation
+Human Computation is grounded in the fact that human beings are able to process particular kinds of information and make judgments in ways that computers can’t. To this end, there are a range of projects that are described as crowdsourcing that are anchored in the idea of treating people as processors. The best way to explain the concept is through a few examples of the role human computation plays in crowdsourcing.
+Comments

@@ -1,0 +1,23 @@
+Comments Off
+Editors’ Note: Many scholars working in the Digital Humanities are thinking about the theory, design, and social and pedagogical impact of games. The posts below cover some of the variety of issues within this field. Further discussion will occur at THATCamp Games, January 20-22, 2012 at the University of Maryland-College Park. Please Tweet @dhnow or email dhnow [at] pressforward [dot] org if you have more to suggest. *updated 12/1/11*
+Shawn Graham, Lies & Gamification, November 29, 2011
+ Gamification - love it or hate it, any time you use some sort of game mechanic, you’ve done it. Which makes ‘being a student’ the ultimate game of all. Write an essay, do a mid term, ace the final, level up to the next course, forget the previous course’s content…I’ve written before about ‘gamifying my historian’s craft‘, about why I gamified the course website, what my ‘achievements’ were, and how they tied to the course content, and my larger paedegogical goals…. I’m just finishing up a second round of my gamified HIST2809, ‘The Historian’s Craft’ course….But I wanted more. Perhaps what I needed, in addition to gamification of the practical hands-on practice part of being an historian, was some game based learning. Read Full Post Here.
+Gabe Zichermann, The Six Rules of Gamification, November 29, 2011
+While every experience is (and should be) experientially different, there are six new rules that I’ve distilled from my work. We can use these as an excellent jumping off point for the gamification design process:
+Understand what constitutes a “win” for the organization/sponsor
+Unpack the player’s intrinsic motivation and progress to mastery
+Design for the emotional human, not the rational human.
+Develop scalable, meaningful intrinsic and extrinsic rewards
+Use one of the leading platform vendors to scale your project (don’t roll your own)
+Most interactions are boring: make everything a little more fun
+Read Full Post Here.
+Geoff Kaufman, Mind/Games #1: Reducing Implicit Bias with Games, November 23, 2011
+Given that one of the major goals of Tiltfactor’s current research is to design games aimed at reducing implicit bias held toward (or by) women in science, technology, engineering, and math (STEM), I thought it would be worthwhile to take a step back and discuss what psychologists have discovered about implicit bias – and how games might be an especially powerful means of reducing or combating it. Read Full Post Here.
+Gabe Zichermann, Kids, Brains and Games: a Ted Talk, November 21, 2011
+Because gamified design relies heavily on behavioral economics and psychology (as well as game design and loyalty), I’ve found myself spending a great deal of time in familiar (but substantially updated) territory: thinking about the inherent skills and abilities of people and how to motivate them to change. Much of the science has been radically rethought (including brain plasticity, the extent of which has only recently been revealed), but much of it is fundamentally the same. If we see the complex interplay of hereditary and environmental (or intrinsic and extrinsic) factors on a continuum, we will be best able to design gamified experiences that motivate the change we want to see. Read Full Post Here.
+Maryland Institute for Technology in the Humanities, “Archive Ahoy!”: A Dive into the World of Game Preservation, November 4, 2011
+While the preservation process of digital games up to now has been mostly ad-hoc, currently there is a huge interest among libraries to build an archive of digital games. By asking what the artifact is, and what aspects of the game must be documented, [Preserving Virtual Worlds 2] is coming up with a set of best practices for the preservation of digital games for those institutions that seek to archive and collect these significant digital materials. Read Full Post Here.
+Geoffrey Rockwell, Ritsumeikan Center for Game Studies, October 26, 2011
+Michael Douma, What is Gamification?, October 20, 2011
+Gameplay has a lot to teach us about motivating participation through joy. ‘Gamification’ is a new term, coined in 2008, for adapting game mechanics into non-game setting — such as building online communities, education and outreach, marketing, or building educational apps. Here are some ideas for how to do it. Read Full Post Here.
+Comments

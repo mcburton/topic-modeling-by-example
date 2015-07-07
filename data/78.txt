@@ -1,0 +1,9 @@
+Please use this identifier to cite or link to this item: http://hdl.handle.net/2123/8103
+Title: Found: Data, Textuality, and the Digital Humanities
+Authors: Ramsay, Stephen
+Issue Date: 2011
+Abstract: Computational processes generate lists: lists of numbers, lists of words, lists of coordinates, lists of properties. We transform these lists into more exalted forms -- visualizations, maps, information systems, software tools -- but the list remains the fundamental data structure of computing, from which most other structures are derived. Whenever we treat the world as data, we are nearly always creating lists. But what sort of *texts* are these, and can we consider them the same way that we consider other texts within the humanities? In this paper, I offer some meditations on the nature of lists, and suggest that it is the paucity of information they provide -- and the ways in which that paucity licenses narrative and explanation -- that allows us to imagine computational representations as texts that can play a fruitful role in the wider context of humanistic inquiry.
+URI: http://hdl.handle.net/2123/8103
+Appears in Collections:Sustainable data from digital research: Humanities perspectives on digital scholarship
+Files in This Item:
+Items in Sydney eScholarship Repository are protected by copyright, with all rights reserved, unless otherwise indicated.

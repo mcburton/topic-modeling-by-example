@@ -1,0 +1,3 @@
+The Center for Digital Scholarship recently completed a NEH Digital Humanities Start-Up Grant to create a set of experimental tools for analyzing TEI texts using the SEASR framework.
+SEASR lets users arrange and manipulate small computational “components” in series to allow data to be ingested, analyzed, transformed, and visualized. CDS produced about three dozen of these components to explore how collections of literary texts can be studied using these tools. More information, downloads, and samples are available at http://teicomponents.wordpress.com/.
+Download the TEI components for SEASR either from the Brown Digital Repository or GitHub.

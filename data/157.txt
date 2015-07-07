@@ -1,0 +1,18 @@
+Comments Off
+Editors’ Note:
+In the past month scholars have been writing more extensively about the intersections between digital humanities, hacking, and theory. Below are several pieces exploring the place of theory in digital humanities work, each with comments and links to earlier discussions. This conversation also has led to the creation of @THATCampTheory, being planned for 2012.
+Natalia Cecire: American Nerds Go to THATCamp, November 3, 2011
+“But one concern continues to resurface in all of these posts, as well as in the Twitter conversation around my initial post, namely that theory, too, can be a site of power, one that has played all too well with the academic star system in the past, leaving people who now greatly benefit from DH (junior academics, people at teaching-oriented institutions, geographically peripheral institutions) in the cold.” Read Full Post Here.
+Jean Bauer: Who You Calling Untheoretical?, November 3, 2011
+“When we create these systems we bring our theoretical understandings to bear on our digital projects including (but not limited to) decisions about: controlled vocabulary (or the lack thereof), search algorithms, interface design, color palettes, and data structure.” Read Full Post Here.
+Ben Schmidt: Theory First, November 3, 2011
+“The promise and danger of the digital is that it lets us displace these texts, even though though by only a hair’s breadth, out of the systems of the past. Where we want to put it: that’s the question. Digital humanities would be a disaster if it simply rewrote our cultural heritage to fit neatly into present categories. That’s why we need theory, which is all about reconfiguring the way we look at the world in terms of difficult to see structures that mask the truth: systems and lifeworld, doxa and habitus. There’s a powerful significance there, and we need it.” Read Full Post Here.
+Amanda Phillips: #transformDH – A Call to Action Following ASA 2011, October 26, 2011
+“It’s starting to feel like we’re reaching a critical mass of people who are ready to see the “Digital Humanities” (used here in the most expansive sense possible) begin to diversify itself in terms of inclusion, approaches, theorization, and application to social justice issues.” Read Full Post Here.
+Ted Underwood: On Transitive and Intransitive Uses of the Word ‘theorize’, October 25, 2011
+“Because digital approaches make it possible to ask and answer different kinds of questions, there’s going to be a reciprocal interaction between humanistic goals and digital methods, not, as Cecire puts it, a “merely paratactic, additive concatenation.” We’re going to need to theorize about methods and goals at the same time. Together. Intransitively.” Read Full Post Here.
+Roger Whitson: Hacking THATCamp Theory, October 23, 2011
+“I feel that we shouldn’t use THATCamp to create yet another philosophical or theoretical meditation on technology; we get that enough from academic conferences and (especially) books. THATCamp Theory should turn the theoretical texts we know and love into alien sandboxes for technological and collaborative creativity.” Read Full Post Here.
+Natalia Cecire: When DH was in Vogue; or THATCamp Theory, October 19, 2011
+“And so far, despite the best of intentions, DH has not done a good job of theorizing either that disciplinary shift or its political implications—let alone “what is an author.” That’s why I think we should probably get over that aversion to “yack.” It doesn’t have to replace “hack”; the two are not antithetical.” Read Full Post Here.
+Comments

@@ -1,0 +1,197 @@
+Dene Grigar, Lori Emerson, and Kathi Inman Berens
+Impact Report for the Electronic Literature Exhibit
+ at the 2012 Modern Language Association Convention
+Electronic Literature Exhibit
+MLA 2012, January 5-8, 2012
+ Curated by Dene Grigar, Lori Emerson, and Kathi Inman Berens
+Introduction
+ by Dene Grigar
+ Associate Professor and Director, The Creative Media & Digital Culture Program,
+ Washington State University Vancouver
+ The Electronic Literature Exhibit at the 2012 Modern Language Association Convention was a watershed moment for both the MLA and for e-literature. Never before in its 129 year history had the organization held an exhibit in conjunction with its annual convention; never before had born digital works reached so many literature and humanities scholars.
+ My curators, Kathi Inman Berens and Lori Emerson, and I, knew going into the project that the exhibit would be impactful and, so, were not necessarily surprised by the positive outcome later reflected in our Impact Report. The story that I find more interesting about curating the exhibit is the preparation we undertook in order to make the right kind of impact. My comments in this introduction to the report, therefore, focus on the research methodology upon which we built the exhibit, the multisensory appeal we tried to design into it, and the ethical choices we felt we had to make in order to lay the groundwork for other electronic literature exhibits we hope will come in the future at other conferences specializing in literature, humanities, and writing. Research Methodology
+ Curating works of multimedia, such as electronic literature, is a form of scholarship whose methodology lies in action research. It is research through practice and involves an understanding of the creative process. The work we curators did to create the exhibit was "systematic", "inquiry-based", "knowledge-directed", and "communicable". (Vannotti 1) Evidence of this approach can be seen on the project's archival website. One can find, for example, on the "Resources" page, a thorough literature review of the major books published on the topic of electronic literature. Links to major databases of literary works are also available to scholars interested in learning more about the topic. On the "Scholarship" page we offer information about the beginning of the field, particularly in the U.S., and suggest ways to begin a study of electronic literature. Each "Curatorial Statement" is intended to convey our vision of the exhibit, explain our methodology for selecting work, and provide a context for the exhibit.
+ As scholars we felt it important to show others our own exploration into electronic literature, so on the "Scholarship" page we offer evidence of our own involvement in research into and creative practice of electronic literature. This archive was made available before, during, and now after the exhibit and is itself archived in several databases associated with electronic literature. We purposefully created it so that it would show the scholarship we all undertook in order to develop an effective exhibit and, at the same time, serve as a scholarly record itself. Multisensory Appeal
+ Curating is a form of stewardship in the sense that artists who place so much creative energy into the production of a work rely on curators to show the work at its best and to help interpret it so that others can engage with it meaningfully. For Kathi, Lori, and I this responsibility implied that we had to take great care in the design of the exhibit. Visitors to the exhibit, for example, would have entered a large space with 10 black matching computer monitors sitting atop black gallery pedestals. They would have noticed that the gray color of the walls provided a neutral backdrop that made it possible for the works of electronic literature to "pop" from computer screen. On the wall above the tops of the computer screens hung large posters. These posters followed the color and design scheme of the website and each listed the artists and works found on a particular station. Visitors could see the poster for Computer Station #1 located near the station and know what to expect on the computer of that station.
+ The stations were laid out in pairs of two so that all them, together, were in the shape of an X. This design gave us five main areas (one pair at each of four ends and one pair in the center) and allowed us to spread out the stations and provide ample room in which visitors could move around the space. The pedestals themselves were high enough so that one could comfortably stand and engage with the work without leaning over and becoming fatigued. Pedestals also meant that people could perambulate about the space, stand and talk among the stations, to duck in and out of the exhibit space easily and quickly between conference sessions. Headphones were available at each station so that the sound contained in some of the works that offered it remained in the visitor's ears and did not disrupt other visitors in the space.
+ Approaching the various computer stations, visitors would have noticed that the screens were imaged with the same design, and that the layout of the works available for viewing was all the same. Visiting one computer station and engaging with the works meant that one could visit all of the rest of the stations and comfortably understand quickly how to navigate the interface and access works.
+ Five undergraduate docents were on hand to reset stations and keep the computer screens cleaned up so that all computers were always ready for use. The docents also greeted visitors as they walked into the space and assisted them with the technology and the works when needed. Many times the docents would ask visitors about the kind of literature they liked to read and then would lead visitors to the station that most likely fit the visitors' interests.
+ The works on the stations themselves were organized so that they would make sense to a new audience of viewers. In this regard, we avoided categorizing works by genre. A flash narrative could have been confused with short fiction rather than understood as a story created with Flash software. We also felt that structuring and, then, naming the 10 categories to fit terminology that our audience may have already understood would help to make the experience with interacting works more familiar. Thus, we opted to organize electronic literature with a gameful approach under the rubric of Literary Games, for instance, and called those that were narrative in nature Multimodal Narrative.
+ Our user-friendly design encouraged visitors to return often and to linger long. It also fostered conversation, first, among visitors as they viewed the works nearby on the pairs of computers and, second, with the docents as the docents walked around the stations and checked on the visitors. Ethical Choices
+ Finally, curating is a form of judgment that requires a clear sense of ethics so that the choices made are respected and taken seriously. Invited shows, as the Electronic Literature exhibit was, can be very tricky. As Vice President of the Electronic Literature Organization, I knew very well as friends and close colleagues, for example, many of the artists that Kathi, Lori, and I would be inviting to our exhibit. And so it was important to develop criteria for selection and communicate those criteria so that others would understand our choices.
+ Looking at the archival site at the list of works in the exhibit and the information we relayed about them, one can see that we picked a wide variety of work, both national and international, to reflect the broad interests of humanities scholars. Second, we contextualized the exhibit historically and, so, showed works dating back to the origins of electronic literature in the U.S. Third, we exhibited works that had already been published in online journals, been written about by scholars, showed in exhibits previously, or won awards. Put briefly, the works invited to show in the exhibit had already been evaluated for their excellence and importance.
+ One other critical choice we made was not to show our own creative work. Speaking frankly, curating one's own work is not a common practice in the art world; speaking logically, it is not a common practice because it is difficult to think about other work in an exhibit if one's own work needs attention.
+ As suggested by the data found in the Impact Report, the exhibit did much to forward electronic literature in the minds of scholars, especially those who had never experienced it or knew of its existence and to promote digital born literature to the digital humanities. But also important, no one visiting the exhibit could have walked away unaware of that there was a strong sense of scholarship underpinning our show, that attention had been paid to the tiniest detail, and that much care and contemplation went into the choices of the works shown. We were delighted that the MLA invited us back to curate an exhibit for the 2013 convention to be held in Boston and that the Library of Congress, having learned about the MLA 2012 exhibit, invited us to host a showcase featuring an exhibit, a keynote, panel discussion, and literary readings.
+ There was, indeed, a method to our madness, and the Impact Report reflects how, sometimes, madness matters...
+ 1. Stefano Vannotti, "Let Us Do What We Do Best: But How Can We Produce Knowledge by Designing Interfaces?", in Christa Sommerer, Laurent Mignonneau, and Dorothée King, eds., Interface Cultures: Artistic Aspects of Interaction, New Brunswick, NJ: Transaction Publishers, 2008. pp. 51-60.. Impact Report for the Electronic Literature Exhibit
+ at the 2012 Modern Language Association Convention
+Overview
+ This report is intended to provide stakeholders involved in the Electronic Literature Exhibit, held in Seattle, WA from January 5th to 8th at the 2012 Modern Languages Association Convention with information concerning the Exhibit's impact. Impact, from our perspective, is tied to the overarching mission of the Exhibit, which we articulated as "to expand scholarship and creative output in the area of Electronic Literature by introducing Humanities scholars to the art form". In order to achieve this mission, we identified, at the outset of the development of the Exhibit, four goals. These were to:
+Introduce scholars to a broad cross-section of born digital literary writing, both historic and current
+Provide scholarship and resources to scholars for the purpose of further study of Electronic Literature
+Encourage those interested in the creative arts to produce Electronic Literature
+Promote Electronic Literature in a manner that may encourage younger generations to engage with reading literary works
+ All activities relating to the Exhibit -- from the inclusion of five student docents who assisted visitors at the Exhibit, to the "Readings and Performances" event on Friday night at the Hugo House, to the four-platform social media marketing plan and archival work undertaken by undergraduates in the Creative Media & Digital Culture Program, to inclusion of undergraduate works of Electronic Literature in the Exhibit, to the ongoing web archive of the site -- have been developed to help us meet these goals.
+ Assessment of success in attaining these goals is built on information in four areas:
+References to the exhibit by humanities scholar
+Inclusion of the web archive in scholarly databases
+New scholarship and creative output generating from it
+Physical and virtual engagement of visitors with the Exhibit and its online archive  We view this report as "preliminary" because print-based data is not yet available for inclusion. Thus, this phase of our report includes data stemming from electronic publications and media; they serve as the first step in the process of analysis and evaluation of the success of the Exhibit. For the most part, the data covers a short period of time surrounding the Exhibit, from mid-November 2011 when the web archive was launched to mid-January 2012 after the closing of the Exhibit.  1. References to the Exhibit by Humanities Scholars
+ Cheryl Ball
+ "Review of Profession 2011 section on 'Evaluating Digital Scholarship'", Kairos1 16.2. Spring 2012
+ http://kairos.technorhetoric.net/16.2/loggingon/lo-profession.html
+Retrieved: 28 Jan. 2012
+ "Editor's Choice: Round Up of AHA and MLA Conferences," Digital Humanities Now2. 9 Jan. 2012
+ http://digitalhumanitiesnow.org/2012/01/ec-round-up-of-aha-and-mla-conferences/
+ Retrieved: 28 Jan. 2012
+ Korey Jackson
+ "Once More with Feeling: How MLA Found Its Heart," HASTAC3 16 Jan. 2012
+ http://hastac.org/blogs/kbjack/2012/01/16/back-mla-report-not-badgood-fact
+Retrieved: 28 Jan. 2012
+ Reprinted in Mpublishing: U of Michigan Library, 16 Jan. 2012
+ http://publishing.umich.edu/2012/01/16/mpub-mla/
+Retrieved: 28 Jan. 2012
+ Judy Malloy
+ "MLA 2012 to Feature Exhibition of Electronic Literature," Authoring Software. 28 Dec. 2011
+ http://www.narrabase.net/elit_software_news.html#dec28_2011
+Retrieved: 28 Jan. 2012
+ Laurie N. Taylor
+ "E-Lit Exhibit at MLA; Exhibits, Peer Review, and What Counts," 2 Jan. 2012
+ http://laurientaylor.org/2012/01/02/elit-exhibit-mla-exhibits-peer-review-what-counts/
+Retrieved: 28 Jan. 20122. Inclusion of the Web Archive in Scholarly Databases
+ Electronic Literature as a Model of Creativity and Innovation in Practice (ELMCIP) Knowledge Base4
+ http://elmcip.net/event/electronic-literature-exhibit-0
+Electronic Literature Organization Directory5
+ http://directory.eliterature.org/3. New Scholarship and Creative Output Generating from the Exhibit
+ Kathi Inman Berens
+ "Haptic Play as Narrative in Mobile Electronic Literature"
+ Forthcoming in ebr: electronic book review, Spring 2012
+ Dene Grigar
+ "Born Digital Literature: Understanding Literary Works for the Electronic Medium"
+ Book proposal in progress
+ Dene Grigar, Lori Emerson, and Kathi Inman Berens
+ "Curating Electronic Literature"
+ Forthcoming in Rhizomes, Spring 2012
+ http://www.rhizomes.net/4. Physical and Virtual Engagement of Visitors with the Exhibit and Its Online Archive
+Electronic Literature Exhibit at the MLA 2012
+ Visits: 503; attendance at Readings and Performances event held at The Hugo House on Friday, January 6, 2012: 107 6
+Electronic Literature (Main Archival Site)
+ http://dtc-wsuv.org/mla2012
+ 1673 total visits from 10 Nov. 2011- 18 Jan. 2012; 1733 total visits as of 27 Jan. 2012
+ Visitors to the site came from: the US, Sweden, Canada, Spain, Norway, the UK, Italy, Albania, Australia, Denmark, Greece, Puerto Rico, France, Germany, India, Belgium, the Czech Republic, Austria, Philippines, Colombia, and Algeria.
+ Kathi Inman Berens' Curatorial Statement
+ http://kathiiberens.com/2011/12/06/curatorial-statement/
+ 539 total visits from 6 Dec.- 8 Dec. 2011 - 18 Jan. 2012
+ Lori Emerson's Curatorial Statement
+ http://loriemerson.net/2011/12/05/performing-e-literature-e-literature-performing/
+ 388 total visits from 5 Dec. 2011-18 Jan. 2012
+ "Electronic Literature Readings and Performances"
+ Poster
+ http://twitpic.com/81ek4y. 440 total visits
+ Storify archive of the event
+ http://storify.com/kathiiberens/e-literature-exhibit-at-mla12/ 128 from 10 Jan. 2012-28 Jan. 2012
+ Facebook and Mini-Site
+ http://www.facebook.com/wsuv.mla.elit2012
+ 145 Total Likes; 43,444 "Friends of Fans"
+ Friends came from US, Canada, New Zealand, Australia, Mexico, Singapore, Ethiopia, the UK, and The Bahamas. 28 Dec.12 2011 - 16 Jan. 2012
+ Twitter
+ https://twitter.com/#!/mlaelit2012
+ 72 Followers as of 27 Jan. 2012
+ "Invisible Seattle Visible Again"
+ Press release created by Washington State University
+ Vancouver's Marketing Department. 3 Jan. 2012
+ http://news.wsu.edu/pages/publications.asp?Action=Detail&PublicationID=29434
+Retrieved: 28 Jan. 2012
+ Reprinted in WSU News as "Ahead of Their Time," 3 Jan. 2012
+ http://news.wsu.edu/pages/publications.asp?Action=Release&PublicationID=29434
+Retrieved: 28 Jan. 2012
+ Reprinted also in WSU's College of Liberal Arts website
+ 1. Kairos: A Journal of Rhetoric, Technology, and Pedagogy began in 1996 and since that time has grown to 45,000 readers per month; additionally, it is referenced electronically (i.e. "backlinked") by 2500 sites.
+ 2. DH Now has 2794 Followers on Twitter. Its site had 14,500 visits with 5000 unique visitors, and 48,000 total page views in Nov. 2011. See  http://www.ucl.ac.uk/infostudies/melissa-terras/DigitalHumanitiesInfographic.pdf
+ 3. HASTAC (Humanities Arts Science & Technology Advanced Collaboratory) says in its September 6, 2011 report that it has 7150 members and that its site has seen 350,000 unique visitors to its forums since 2009. See  http://hastac.org/about
+ 4. ELMCIP is a "collaborative research project funded by Humanities in the European Research Area (HERA) JRP for Creativity and Innovation and involves seven European academic research partners and one non-academic partner." Its mission is to "investigate how creative communities of practitioners form within a transnational and transcultural context in a globalized and distributed communication environment. Focusing on the electronic literature community in Europe as a model of networked creativity and innovation in practice, ELMCIP is intended both to study the formation and interactions of that community and also to further electronic literature research and practice in Europe. The partners include: The University of Bergen, Norway (PL Scott Rettberg, Co-I Jill Walker Rettberg), the Edinburgh College of Art, Scotland (PI Simon Biggs, Co-I Penny Travlou), Blekinge Institute of Technology, Sweden (PI Maria Engberg, Co-I Talan Memmott), The University of Amsterdam, Netherlands (PI Yra Van Dijk), The University of Ljubljana, Slovenia (PI Janez Strechovec), The University of Jyväskylä, Finland (PI Raine Koskimaa), and University College Falmouth at Dartington, England (PI Jerome Fletcher), and New Media Scotland."
+ 5. "The Electronic Literature Organization was founded in 1999 to foster and promote the reading, writing, teaching, and understanding of literature as it develops and persists in a changing digital environment. A 501c(3) non-profit organization, the ELO includes writers, artists, teachers, scholars, and developers."
+ 6. It should be noted that Canada's Poet Laureate Fred Wah, who lives in British Columbia, drove to Seattle specifically to visit the exhibit and attend the "Readings and Performances" associated with the exhibit.
+ Dene Grigar is Associate Professor and Director, The Creative Media & Digital Culture Program, Washington State University Vancouver
+ Lori Emerson is an Assistant Professor in the Department of English at the University of Colorado at Boulder.
+ Kathi Inman Berens teaches social media at the University of Southern California's Annenberg School of Communication  Authoring Systems
+ for Electronic
+ Literature and
+ New Media Authoring Software
+ homeAuthoring Software
+ Focus Pages
+Computer-Mediated
+ Collaborative Writing
+Twitter
+MUDs and MOOs
+Poetry Generators
+The Electronic Manuscript. Authoring Software Index
+Writers and Artists
+ Talk about Their Work
+ and the Software They
+ use to Create Their Work
+Mark Amerika
+Stefan Muller Arisona
+Mark Bernstein: __Interview wirh Mark Bernstein
+Alan Bigelow
+Jay Bushman
+J. R. Carpenter
+ __Chronicles of Pookie and JR
+ __Entre Ville
+ __STRUTS
+M.D. Coverley
+ __Egypt: The Book of
+ Going Forth by Day
+ __Tin Towns
+Steve Ersinghaus
+Caitlin Fisher
+Chris Funkhouser
+Susan M. Gibb
+Dene Grigar
+Fox Harrell
+Dylan Harris
+William Harris
+Ian Hatcher
+Adriene Jenik
+Chris Joseph
+Rob Kendall
+Antoinette LaFarge
+Deena Larsen
+Donna Leishman
+Judy Malloy
+Mark C. Marino
+Mez
+Ethan Miller
+Nick Montfort
+ __Lost One
+ __Nick Montfort and
+Stephanie Strickland
+Sea and Spar Between
+Judd Morrissey
+Stuart Moulthrop
+ __Under Language
+ and Deep Surface
+ __Interview with
+ Stuart Moulthrop
+Alexander Mouton
+Karen O'Rourke
+Regina Pinto
+Andrew Plotkin
+Kate Pullinger
+Sonya Rapoport:
+ __Interview with
+ Sonya Rapoport
+Aaron Reed
+Scott Rettberg
+Jim Rosenberg
+Stephanie Strickland
+ __Nick Montfort and Stephanie Strickland
+Sea and Spar Between
+ __Stephanie Strickland and Cynthia Lawson Jaramillo
+Vniverse and slippingglimpse
+Sue Thomas
+Eugenio Tisselli
+Noah Wardrip-Fruin
+Joel Weishaus
+Nanette Wylde Judy Malloy,
+ Editor, Authoring Software

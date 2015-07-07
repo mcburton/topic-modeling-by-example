@@ -1,0 +1,15 @@
+The Journal of Digital Humanities is a comprehensive, peer-reviewed, open access journal that features the best scholarship, tools, and conversations produced by the digital humanities community in the previous quarter.
+"Modern humanities scholarship is a direct engagement with a deracinated, Google-ised, Wikipedia-ised, electronic text."
+Tim Hitchcock
+An ego network from wikipedia.org
+Reviews
+Review of WordSeer, produced by Aditi Muralidharan, Marti Hearst, and Bryan Wagner
+ Amy Earhart
+Review of Bookworm, produced by Benjamin Schmidt, Martin Camacho, et al.
+ Boone B. Gorges
+Review of QueryPic, produced by Tim Sherratt
+ Jeremy Boggs,
+David McClure,
+Eric Rochester,
+ and Wayne Graham
+Newspaper strip visualization

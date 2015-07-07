@@ -1,0 +1,12 @@
+This visualization explores the ups and downs of the Bible narrative, using sentiment analysis to quantify when positive and negative events are happening:
+Full size download (.png, 4000×4000 pixels).
+Things start off well with creation, turn negative with Job and the patriarchs, improve again with Moses, dip with the period of the judges, recover with David, and have a mixed record (especially negative when Samaria is around) during the monarchy. The exilic period isn’t as negative as you might expect, nor the return period as positive. In the New Testament, things start off fine with Jesus, then quickly turn negative as opposition to his message grows. The story of the early church, especially in the epistles, is largely positive.
+Methodology
+Sentiment analysis involves algorithmically determining if a piece of text is positive (“I like cheese”) or negative (“I hate cheese”). Think of it as Kurt Vonnegut’s story shapes backed by quantitative data.
+I ran the Viralheat Sentiment API over several Bible translations to produce a composite sentiment average for each verse. Strictly speaking, the Viralheat API only returns a probability that the given text is positive or negative, not the intensity of the sentiment. For this purpose, however, probability works as a decent proxy for intensity.
+The visualization takes a moving average of the data to provide a coherent story; the raw data is more jittery. Download the raw data (400 KB .zip).
+Update October 10, 2011
+As requested in the comments, here’s the data arranged by book with a moving average of five verses on either side. (By comparison, the above visualization uses a moving average of 150 verses on either side.)
+Full size download (.png, 2680×4000 pixels).
+Update December 28, 2011: Christianity Today includes this visualization in their December issue (“How the Bible Feels”).
+ This entry was posted on Monday, October 10th, 2011 at 12:43 pm and is filed under Sentiment, Visualizations. You can follow any responses to this entry through the RSS 2.0 feed. Both comments and pings are currently closed.

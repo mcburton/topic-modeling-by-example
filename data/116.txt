@@ -1,0 +1,261 @@
+Names can shape fields. In the proposal for a panel to be held at the MLA this week, Lori Emerson argued that the introduction of the term “electronic literature” by the founding of the Electronic Literature Organization in 1999, in fact founded the field by creating “a name, a concept, even a brand with which a remarkably diverse range of digital writing practices could identity: electronic literature,” as Lori explains in a blog post. Seen in this perspective, the first book on electronic literature is Loss Glazier’s Digital Poetics in 2001. This renders invisible the very rich theory and practice of electronic literature before 2001 (as Mark Bernstein has pointed out), which I dislike, but Lori is correct in that a name that a field agrees upon is important in terms of establishing a creative and scholarly field.
+The discussion did lead me to wonder when the term electronic literature first became common. Did the ELO really invent it? Fortunately we live in an age where this sort of question can easily be answered, at least partially, so I asked Google.
+Google has digitised around 4% of all books ever published (as described by the Culturomics research team in Michel et.al. 2011), and Google’s Ngram viewer allows us to graph the occurrence of terms over time in all those books. Here is a graph showing the rise and fall of “hypertext fiction” (the red line) and the rises of “electronic literature” (the blue line) and “digital poetry” (the yellow line). “Digital literature” (green) is also fairly common, but “e-poetry” just gives us a flat purple line along the bottom of the graph.
+Google's ngram viewer allows us to graph the frequency with which different terms for electronic literature were used in books published between 1985 and 2008. The terms are "hypertext fiction", "electronic literature", "digital literature", "digital poetry" and "e-poetry".
+As expected, hypertext fiction (the blue line) was the more popular term in the 1990s, but it also retained its dominance for several years into the 2000s. This could show that the new term “electronic literature” took time to gain general acceptance, or it could also simply be a by-product of the slow pace of scholarship and book publishing. By 2008, the term “electronic literature” is still not as popular as “hypertext fiction” was at its peak, although the combined use of all these terms is growing steadily. It is interesting to see how high the use of “hypertext fiction” remains, even after the dominance of “electronic literature, and the rapid rise of “digital poetry” is particularly striking.
+A problem with this graph is that the term “electronic literature” was frequently used in the 1980s and 1990s to describe research literature that is in electronic form, and so there are a lot of false positives, especially in this period. In fact, almost all uses of the term before the late 1990s are in this non-literary sense of the word. However, by clicking through and looking at the individual hits for each year I did find a few notable exceptions.
+Jay Bolter published an article in 1985 called “The Idea of Literature in the Electronic Medium” (in the journal Topic: Computers in the Libreral Arts, vol. 39, p 23-34) which consistently uses the term electronic literature exactly as we do today. However, he writes as though there are no works of electronic literature yet. In fact, there were works by Roy Ascott (1983), bp nichols (1984), Robert Pinsky (1984) and no doubt others, but these works were not easily accessible or gathered by a shared community. In the article Bolter imagines a future electronic literature, writing that the adventure games of 1985 hold promise, but need better writers:
+Electronic literature will never attract serious notice, if it remains at the level of the current adventure game. By the same token, no one would snow consider the motion picture an important art form, if it had remained at the artistic level of the nickelodeon. (page 25)
+Bolter goes on to describe a system for allowing writers to write in a word processor (rather than typing into the program code itself) and a children’s version of the Odyssey that “enlists interactive participation”, much as the adventure game does. The described work would require readers to attempt to solve the problems Odysseus faces, changing the course of the story in doing so. He also proposes detective stories and quest literature as suitable genres for treatment in electronic literature.
+I was surprised at how clearly Bolter states that “such literature is growing out of th computer games that are so popular today” (page 32), given how strongly authors of the late 1980s and early 1990s worked to distance themselves from games. But he also notes that the Oulipo’s works and concrete poetry are natural allies to the computer, and the possibility of generative electronic literature.
+Bolter also uses the term “electronic literature” in his seminal book Writing Space (1991), although by this time, hypertext fiction had become the dominant genre and therefore the more common term.
+A 1992 article in ThePrint Collector’s Newslettermentions that Eastgate publishes electronic literature. In 1995, Robert Kendall uses the term in an article that presents an overview of electronic literature at the time, presciently titled “Writing for the New Millennium: The Birth of Electronic Literature.” So the term “electronic literature” was in use well before 1999 when the ELO was founded.
+A few other interesting finds included a notice in Billboard 14 April 1979 of a conference at UCLA:
+I would love to know what kind of electronic literature this was. It’s both exciting and frustrating to have such easy access to such a wealth of partial information!
+I’ve written an essay on the early days of electronic literature that will be published in an upcoming special issue of Dichtung Digital that will include a lot of great papers on communities of electronic literature. The graph and some of the discussion are from that essay.
+Related posts:
+anthology on archiving electronic literature
+archiving and documenting electronic literature
+Call for Papers and Works: Seminar on Electronic Literature in Europe
+03. January 2012 by Jill
+ Categories: Electronic literature | 3 comments
+Sorry, but comments from before December 2010 are lost in the database and I've not yet figured out how to display them properly.
+Related posts:
+anthology on archiving electronic literature
+archiving and documenting electronic literature
+Call for Papers and Works: Seminar on Electronic Literature in Europe
+I’m watching a presentation by Albert László Barabási on his book BURSTS: The Hidden Pattern Behind Everything We Do, and he’s telling some fascinating stories.
+For instance, had you heard of Hasan Elahi, a media artist who after being investigated by the FBI for suspected terrorism (due to unusual travel patterns, among other things) put his entire life online at Tracking Transcience? Here’s a piece Elahi wrote in the New York Times about this project, or you can watch him talk about the project for TED. Actually the information is not very easy for a viewer to put together (he calls it user-unfriendly), but he has fed in a lot of images, his bank records, location, and so forth. The images are very sparse, void of people, factual. There are photos of every toilet he uses, for instance, or every taco he eats near a railway station, all time, location and date-stamped. But apparently, in BURST, Barabási analyses Elahi’s data to see how typical his patterns of movement are.
+The reason for the title of BURSTS is that it turns out our behaviour is conglomerated in bursts (around 16 mins into the talk). We have periods where we send lots of emails, or talk on the phone a lot, or visit the library a lot, or even have sex a lot, and then there are gaps where we do these things much less. This actually follows power laws, and is not purely random.
+Barabasi also analysed anonymised mobile phone data to analyse how people move around (around 24 mins into the video). He found that if you know the past movements of a person, you can predict their next location with a 93% accuracy. Another interesting point is that there is nobody whose predictability (in terms of location) is less than 80%. (That might actually explain why Foursquare and Gowalla and so on get a little boring after a while.) But ultimately, Barabási argues, with enough data, we might be able to predict all kinds of human behaviour – collapses of stock markets, wars, major historical events, and so on.
+BURST has rather poor reviews on Amazon, where it is criticised for having too much story and too little science. Regardless of whether or not you read the book, his 30 minute talk on it is interesting.
+Related posts:
+facebook protects us from having our data scraped – but that also stops us from MOVING our data
+personal data visualisation: dopplr, dailybooth, flickr and trixietracker
+no human intervention
+04. January 2012 by Jill
+ Categories: Uncategorized | 3 comments
+Sorry, but comments from before December 2010 are lost in the database and I've not yet figured out how to display them properly.
+Related posts:
+facebook protects us from having our data scraped – but that also stops us from MOVING our data
+personal data visualisation: dopplr, dailybooth, flickr and trixietracker
+no human intervention
+In those feverishly exciting early years of blogging Liz Lawley (a.k.a. mamamusings) was one of my favorite blogging buddies, and I’m excited to see she’s decided to blog more again, rather than leaving ideas and conversations on Facebook or Twitter. Some obvious problems with having most of our conversations on Facebook or Twitter is the forced brevity, that conversations happen in a non-public forum (good in some cases, bad for research though) and that its hard to search or access old conversations, even one’s own, and certainly other peoples’.
+I’m going to blog more often, too. When I make time to blog, I not only feel more engaged with my research and teaching and have more interesting ideas, I also quite simply enjoy my job a lot more. Not too surprising, really…
+Related posts:
+tweeting vs blogging – and the prompts of social network sites
+research blogging as writing in the moment
+another way of making money blogging
+04. January 2012 by Jill
+ Categories: Uncategorized | 5 comments
+Sorry, but comments from before December 2010 are lost in the database and I've not yet figured out how to display them properly.
+Related posts:
+tweeting vs blogging – and the prompts of social network sites
+research blogging as writing in the moment
+another way of making money blogging
+I have the unusual luxury of two whole weeks at the office before teaching begins and while I do have quite a few other things to do, I’m happy to have time to really think about how I want to teach this semester’s course.
+Benedikte Irgens, who teaches Japanese here at UiB, linked on Facebook to this article about the use of clickers in teaching medicine at the University of Oslo. An immediate discussion broke out about whether or not clickers can be useful in teaching in the humanities, where we often want critical thinking and reflection rather than true/false answers, and so I remembered that Liz Lawley uses clickers, and she writes that
+instead of using this for multiple-choice quizzing, I use this for things like “Choose Your Own Lecture,” in which students pick which path I take through the lecture material, or for polling the students on what they thought about a required reading or video, or for letting them vote on whether we should end class early on a beautiful day and go outside. It’s not perfect, but it’s a way to discourage passivity.
+Next I found a whole book, by Derek Bruff, about creative ways of using them precisely to foster classroom discussion and higher-order thinking. So now of course I want to try out clickers in the classroom, being a nut for trying out new and interesting teaching tricks. But I think not this semester.
+Reading about clickers led me to another post on Derek Bruff’s blog about structured Twitter assignments, where he gives a couple of examples of ways teachers have used Twitter in teaching. It’s key, Bruff argues, that students have clear deliverables and aren’t just asked to Tweet whatever they feel like, and also that “student tweets are aggregated and analysed” and not just ignored. An examples is Mark Sample’s use of Storify to gather student tweets about watching Blade Runner, or using Poll Everywhere, as Corbette Doyle has done, to have students vote on which questions (previously posed on Twitter) should be addressed in an upcoming class.
+I like the idea of requiring questions on the readings before class and gathering them somehow. Corbette Doyle used HootSuite, which seems to gather Tweets from your students and let you (and the students) easily read them. I’m not sure how much added value this really gives you in comparison to simply using a Twitter hash tag or a Facebook group for class discussions.
+Related posts:
+teaching nightmare
+students teaching with blogs
+stealing from dr. crazy: teaching close reading and using grading sheets
+05. January 2012 by Jill
+ Categories: Teaching | 2 comments
+Sorry, but comments from before December 2010 are lost in the database and I've not yet figured out how to display them properly.
+Related posts:
+teaching nightmare
+students teaching with blogs
+stealing from dr. crazy: teaching close reading and using grading sheets
+Our research librarian just sent a list of all the books the University Library bought for Digital Culture in 2011. There are 97 books on the list, which says something about how fast this field is growing, and browsing the titles I really wish I had time to read them all. Sorry about the plain text and truncated titles – if you’re interested you’ll easily find more info about the books at your library or bookstore. I <3 our library!
+Most of these books are new, some are older, and of course we already had a lot of books before 2011. Leave a comment if you see glaring omissions and I’ll suggest the library buy those books as well.
+Peer-to-Peer video : the economics, policy, and culture of
+Ethnographies of the videogame : gender,/ Thornham, Helen
+Computer-Mediated Communication for Ling/ Bodomo, Adams B.
+SpecLab : digital aesthetics and project/ Drucker, Johanna
+Remixthebook / Amerika, Mark
+Games and gaming : an introduction to ne/ Hjorth, Larissa
+How to do things with videogames / Bogost, Ian
+The Reconstruction of space and time : mobile communicatio
+The Digital condition : class and cultur/ Wilkie, Rob
+Hello Avatar : rise of the networked gen/ Coleman, B.
+Programmed visions : software and memory/ Chun, Wendy Hui
+The digital origins of dictatorship and / Howard, Philip N
+Uncreative writing : managing language i/ Goldsmith, Kenne
+Digital Media : Technological and Social Challenges of the
+Context providers : conditions of meaning in media arts
+Race after the internet
+Digital folklore : to computer users, with love and respec
+@ is for activism : dissent, resistance / Hands, Joss
+Against expression : an anthology of conceptual writing
+Cybernetic revolutionaries : technology / Medina, Eden
+Reading Machines : Toward and Algorithmi/ Ramsay, Stephen
+Online gaming in context : the social and cultural signifi
+The new digital storytelling : creating / Alexander, Bryan
+Text and Genre in Reconstruction : Effects of Digitalizati
+Cyber_reader : critical writings for the digital era
+Gender-Technology Relations : Exploring / Corneliussen, Hi
+Networks Without a Cause : A Critique of/ Lovink, Geert
+Mobile interface theory : embodied space/ Farman, Jason
+Between Page and Screen : Remaking Liter/ Wurth, Kiene Bri
+Understanding Digital Humanities / Berry, David M.
+Gender and sexuality in online game cult/ Sundén, Jenny
+Digital storytelling : capturing lives, / Lambert, Joe
+Memory bytes : history, technology, and digital culture
+New Directions in Digital Poetry : Poetr/ Funkhouser, C. T
+Hypertext and the Female Imaginary / Odin, Janishree
+The Virtual representation of the past
+The Principles of Beautiful Web Design / Beaird, Jason
+Artistic bedfellows : histories, theories, and conversatio
+Legend-Tripping Online Supernatural Folk/ Kinsella, Michae
+A Networked self : identity, community, and culture on soc
+Understanding video games : the essentia/ Egenfeldt-Nielse
+Cybertext poetics : the critical landsca/ Eskelinen, Markk
+Throughout : Art and Culture Emerging with Ubiquitous Comp
+Aesthetics : a comprehensive anthology
+human readable messages / Breeze, Mez
+Collaborative Research in the Digital Humanities
+Leet Noobs : The Life and Death of an Ex/ Chen, Mark
+Det mørke nettet / Strømmen, Øyvind
+Interface criticism : aesthetics beyond buttons
+New Media art
+Art of the digital age / Wands, Bruce
+Collaborative circles : friendship dynam/ Farrell, Michael
+Internet and surveillance : the challenges of Web 2.0 and
+Hyperworks : on digital literature and c/ Gunder, Anna
+The fundamentals of digital art / Colson, Richard
+The Ethics of emerging media : information, social norms,
+Technology, literature and culture / Goody, Alex
+Gaming matters : art, science, magic, an/ Ruggill, Judd Et
+Art practice in a digital culture
+Literatures in the digital era : theory and praxis
+Divining a digital future : mess and myt/ Dourish, Paul
+Media archaeology : approaches, applications, and implicat
+Mobile communication : bringing us together and tearing us
+The Handbook of science and technology studies
+The Video game theory reader. 2
+The secret war between downloading and u/ Lunenfeld, Peter
+The American literature scholar in the digital age
+The Aesthetics of net literature : writing, reading and pl
+Digital art and meaning : reading kineti/ Simanowski, Robe
+Beyond Barbie and Mortal Kombat : new perspectives on gend
+Alone together : why we expect more from/ Turkle, Sherry
+Beyond the screen : transformations of literary structures
+Digital poetics : the making of e-poetri/ Glazier, Loss Pe
+Code/space : software and everyday life / Kitchin, Rob
+Digital content creation : perceptions, practices, and per
+Castells and the media : theory and medi/ Howard, Philip N
+Local transcendence : essays on postmode/ Liu, Alan
+Premediation : affect and mediality afte/ Grusin, Richard
+Net locality : why location matters in a/ Gordon, Eric
+Cognitive surplus : creativity and gener/ Shirky, Clay
+Making is connecting : the social meanin/ Gauntlett, David
+Tales from Facebook / Miller, Daniel,
+Digital cultures / Doueihi, Milad
+Digital planet : tomorrows’s technology / Beekman, George
+The philosophy of software : code and me/ Berry, David M.
+A Networked self : identity, community, and culture on soc
+A small world : smart houses and the dre/ Heckman, Davin
+Switching codes : thinking through digital technology in t
+Regards croisés : perspectives on digital literature
+Post-cinematic affect / Shaviro, Steven
+The Handbook of internet studies
+Handbook of research on effective electronic gaming in edu
+Archivierung von digitaler Literatur : Probleme-Tendenzen-
+Teaching narrative theory
+Related posts:
+the nordic digital culture network
+apply to do a PhD in digital culture at our department!
+don’t let em google our books!
+06. January 2012 by Jill
+ Categories: Uncategorized | 6 comments
+Sorry, but comments from before December 2010 are lost in the database and I've not yet figured out how to display them properly.
+Related posts:
+the nordic digital culture network
+apply to do a PhD in digital culture at our department!
+don’t let em google our books!
+I read Mark Andrejevic‘s article on “Social Network Exploitation” yesterday (in Paparcharissi (ed) A Networked Self, Routledge 2011), and its marxist critique of the ways companies might and/or do exploit our use of social media is excellently chilling. I’m going to be teaching this article this semester, and have a half-written blog post on it, so more of that later.
+But anyway, inspired by Andrejevic’s article, I poked around a bit and found two interesting conferences this spring:
+Critique, Democracy, and Philosophy in 21st Century Information Society: Towards Critical Theories of Social Media is an academic conference to be held in Uppsala near Stockholm on May 2-4. Andrejevic is on the list of speakers, as are many other interesting thinkers, including Christian Fuchs, Trebor Scholz, Ursula Huws, Andrew Feenberg and Charles Ess. I’m not impressed that only two of the listed 14 speakers are women – you’d think balanced representation would be key in a critique of social media, and I certainly hope they improve upon that before the program is final. They do also have an open call for papers, with abstracts due Feb 29. Here’s some of the topic description:
+This conference deals with the question of what kind of society and what kind of Internet are desirable, what steps need to be taken for advancing a good Internet in a sustainable information society, how capitalism, power structures and social media are connected, what the main problems, risks, opportunities and challenges are for the current and future development of Internet and society, how struggles are connected to social media, what the role, problems and opportunities of social media, web 2.0, the mobile Internet and the ubiquitous Internet are today and in the future, what current developments of the Internet and society tell us about potential futures, how an alternative Internet can look like, and how a participatory, commons-based Internet and a co-operative, participatory, sustainable information society can be achieved.
+Unlike Us 2 is an event to be held in Amsterdam on March 8-10 which is hosted by a “research network of artists, designers, scholars, activists and programmers who work on ‘alternatives in social media’”, with the subtitle “Understanding Social Media Monopolies and their Alternatives.” David Berrytweeted this one to me after I mentioned the Uppsala conference, and he is one of the confirmed speakers. So is Anne Helmond, whose research blog I’ve been following for years. There are also some interesting videos from the first Unlike Us event on their blog.
+Andrejevic’s chapter, and in fact the whole of Papacharissi’s anthology, is available as a PDF on Scribd, which is presumably not even remotely legal, so I won’t link.
+Related posts:
+social media study group
+french discussions about social media
+connecting students working on social media at uib
+06. January 2012 by Jill
+ Categories: social media | Tags: conferences, critical studies | 3 comments
+Sorry, but comments from before December 2010 are lost in the database and I've not yet figured out how to display them properly.
+Related posts:
+social media study group
+french discussions about social media
+connecting students working on social media at uib
+This post is in Norwegian, asking readers to contribute their thoughts on the challenges to digital content and services in Norway on behalf of DIGITutvalget.
+DIGITutvalget er nedsatt av Fornyingsdepartementet for å identifisere hindringer og barrierer for vekst i den norske digitaløkonomien, og i dag er jeg på vei til Oslo for å delta i utvalgets fjerde møte. På vei til det første møtet skrev jeg litt om hvem som er med i utvalget og om mandatet,
+Mandatet til DIGITutvalget er bredt, og vi er interessert i å høre dine meninger både om hva som er det viktigste i mandatet og om hva du mener er de største hindringene og utfordringene for de som vil skape verdier i den digitale sektoren i Norge. Har du innspill, tar vi gjerne imot dem – ikke som kommentar her eller på Twitter, men først og fremst i dette skjemaet.
+Related posts:
+launch for digitale fortellinger
+digitale fortellinger
+Åpen høring
+10. January 2012 by Jill
+ Categories: Uncategorized | Leave a comment
+Sorry, but comments from before December 2010 are lost in the database and I've not yet figured out how to display them properly.
+Related posts:
+launch for digitale fortellinger
+digitale fortellinger
+Åpen høring
+I love Jenny Holzer’s truisms, but I think I like @JennyHolzerMom even better!
+I’ve decided to drastically lower my threshold for what I think of as blog worthy. Just because I already retweeted one of these tweets doesn’t mean it’s not also useful to put it up on my blog. It might entertain you–and I will almost certainly forget about it if I leave it in the immediate yet forgettable Twitter-verse.
+How much substance do you think a blog post needs?
+Related posts:
+some respect, i’m your mother!
+kate hayles’ mother was a computer
+the game system as mother
+10. January 2012 by Jill
+ Categories: Digital Art | Tags: fake, truisms, twitter | Leave a comment
+Sorry, but comments from before December 2010 are lost in the database and I've not yet figured out how to display them properly.
+Related posts:
+some respect, i’m your mother!
+kate hayles’ mother was a computer
+the game system as mother
+This semester just properly started with our program’s orientation meeting today. It’s great to see so many new and familiar faces!
+I’m teaching a new to me course this semester: DIKULT251: Critical Perspectives on Technology and Society with Bachelor Thesis, and I’ve just completed the schedule for the semester. There are still some gaps to fill in, though. Luckily, it’s a perfectly-sized seminar class, with around 12-15 students, we’ll be able to adapt our discussions to the students’ interests.
+I’m combining general social media theory with digital methods workshops from the Digital Methods Initiative in Amsterdam, and am excited about this practical aspect to the course. More details on that will follow.
+I’m sure a lot of ideas from the course will leak into this blog, and vice versa. If you have any ideas or suggestions, let me know!
+Related posts:
+new semester
+planning next semester
+stage-fright / glow
+12. January 2012 by Jill
+ Categories: Teaching | Leave a comment
+Sorry, but comments from before December 2010 are lost in the database and I've not yet figured out how to display them properly.
+Related posts:
+new semester
+planning next semester
+stage-fright / glow
+In an effort to teach less next semester (since I’m administrating far, far more) I’ve outsourced 2/3 of the course I usually teach on digital media aesthetics to Rune Klevjer, videogame expert and Scott Rettberg, electronic literature guru. Then I’m picking up three weeks (so six lectures) in HUIN106, an undergraduate course on “Digital culture and norms”, which is co-taught by Hilde, who does a section on gender and technology and Magne, who does history of computing and open source. In total it means I might actually get away with really only spending 18.75 hours a week on teaching and administration, the way I’m supposed to. Hooray!
+I’m looking forward to teaching into HUIN106. It was really rather nice figuring out what goes into the dossier, which had to get to the bookshop today for copyright clearance and copying. I’m going to do online communities, using the very pedagogical-looking overviews in Gunnar Liest¯l and Terje Rasmussen’s book. I figure we’ll look at MUDs and Usenet and chatrooms and all the rest of it. Then we’ll use Steven Johnson’s bit about the desktop metaphor to talk about how interfaces affect us, and we’ll look at Unix, Windows and Mac and compare that and then relate it back to the different interfaces for online communities. Bolter’s chapter on “Writing the Self”, along with Angela Thomas on how teenaged girls represent themselves online will take us into the self-expression side of things (I really must read Goffman, I promise I will this summer), which will lead on into blogs, and then on into ideas about democracy and power in online communities, and for that we’ll read the second chapter in Liest¯l and Rasmussen’s book, and my article on links and power, and Susan Herring et. al. on blogs.
+Here are the articles and book chapters going into the dossier:
+Liest¯l, Gunnar og Terje Rasmussen. Kapittel 8 og 9 (ìVirtuelle fellesskapî og ìDigitalt demokratiî) fra Digitale medier: en innf¯ring. Oslo: Universitetsforlaget, 2003. 97-125.
+Johnson, Steven. ìThe Desktopî, fra Interface Culture: How New Technology Transforms the Way We Create and Communicate. New York: HarperEdge, 1997. 42-75.
+Bolter, Jay David. Kapittel 9 og 10 (ìWriting the Selfî og ìWriting Cultureî) fra Writing Space: Computers, Hypertext, and the Remediation of Print. Mahwah, NJ: Lawrence Erlbaum, 2001.
+Thomas, Angela. “Digital Literacies of the Cybergirl.” E-Learning 1.3 (2004): 358-82.
+Walker, Jill. “Links and Power: The Political Economy of Linking on the Web.” Library Trends 53.4 (2005): 524-29.
+Herring, Susan C., Inna Kouper, Lois Ann Scheidt og Elijah Wright. ìWomen and Children Last: The Discursive Construction of Weblogs.î Laura J. Gurak, Smiljana Antonijevic, Laurie Johnson, Clancy Ratliff, og Jessica Reyman (red.) Juni 2004.
+.
+There’s no social software as such in there, or social network stuff. I might slip an online text in somewhere, I guess, and I’ll certainly show some of this in class.
+Related posts:
+planning image
+new semester
+what norwegians do online
+02. June 2005 by Jill
+Leave a comment
+Sorry, but comments from before December 2010 are lost in the database and I've not yet figured out how to display them properly.
+Related posts:
+planning image
+new semester
+what norwegians do onlineContinue reading at http://jilltxt.net/?p=1424 .

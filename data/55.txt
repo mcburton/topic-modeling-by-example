@@ -1,0 +1,7 @@
+Barbara Taranto
+ Digital Program Director
+ New York Public Library
+The New York Public Library recently launched its first foray into crowd sourcing metadata by exposing 40,000 image pages of turn of the century restaurant and cruise ship menus: “What’s On the Menu?” The goal of the project was to widely distribute the transcription of the menu items into a structured and reusable form. The site was exceedingly popular in its first few months.
+Recent activity has flattened somewhat, raising issues regarding the public’s appetite for these projects. More importantly, the menus project raised hard questions about the quality of the crowd sourced content, the longevity of the data, and the disposition of the data (e.g. What is it? Is it good enough for our purposes? Should we keep it? If yes, where does it belong?).
+This presentation will discuss these issues and propose some alternative views on metadata, user-generated content, and the intersection of the two.
+http://menus.nypl.org/

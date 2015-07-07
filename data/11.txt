@@ -1,0 +1,3249 @@
+2012
+ Ahn, J., Plaisant, C., Shneiderman, B. (June 2012)
+A Task Taxonomy for Network Evolution Analysis
+ HCIL-2012-13
+ [Link to Report]
+ Sopan, A. (May 2012)
+Monitoring Scientific Conference: Real-time Visualization and Retrospective Analysis of the Backchannel Conversation
+ HCIL-2012-12
+ [Link to Report]
+ Dunne, C., Shneiderman, B. (May 2012)
+Motif Simplification: Improving Network Visualization Readability with Fan and Parallel Glyphs
+ HCIL-2012-11
+ [Link to Report]
+ Liu, R., Chao, T., Plaisant, C., Shneiderman, B. (April 2012)
+ManyLists : Product Comparison Tool Using Spatial Layouts with Animated Transitions
+ HCIL-2012-10
+ [Link to Report]
+ Pantazos, K., Tarkan, S., Plaisant, C., Shneiderman, B. (April 2012)
+Promoting Timely Completion of Multi-Step Processes - A Visual Approach to Retrospective Analysis
+ HCIL-2012-09
+ [Video] [Link to Report]
+ Wongsuphasawat, K. (April 2012)
+Interactive Exploration of Temporal Event Sequences
+ Ph.D Dissertation from the Department of Computer Science
+ HCIL-2012-08
+ [Link to Report]
+ Tao, C., Wongsuphasawat, K., Clark, K., Plaisant, C., Chute, C. (April 2012)
+Towards Event Sequence Representation, Reasoning and Visualization for HER Data
+ Published in: Proc. 2nd ACM International Health Informatics Symposium, ACM Press, New York (2012), 801-805.
+ HCIL-2012-07
+ [Link to Report]
+ Monroe, M., Wongsuphasawat, K., Plaisant, C., Shneiderman, B., Millstein, J., Gold, S. (April 2012)
+Exploring Point and Interval Event Patterns: Display Methods and Interactive Visual Query
+ HCIL-2012-06
+ [Video] [Link to Report]
+ Cheng, H., Plaisant, C., Shneiderman, B. (April 2012)
+Identifying and Measuring Associations of Temporal Events
+ HCIL-2012-05
+ [Video] [Link to Report]
+ Guerra Gómez, J., Buck-Coleman, A., Plaisant, C., Shneiderman, B. (April 2012)
+TreeVersity: Interactive Visualizations for Comparing Two Trees with Structure and Node Value Changes
+ HCIL-2012-04
+ [Link to Report]
+ Chao, T., Plaisant, C., Shneiderman, B. (January 2012)
+Twinlist: Overview and general implementation description
+ HCIL-2012-03
+ [Link to Report]
+ Sopan, A., Rey, P., Ahn, J., Plaisant, C., Shneiderman, B. (February 2012)
+The Dynamics of Web-Based Community Safety Groups: Lessons Learned from the Nation of Neighbors
+ HCIL-2012-02
+ [Link to Report]
+ Hara, K., Hajiaghayi, M., Bederson, B. (January 2012)
+FluTCHA: Using Fluency to Distinguish Humans from Computers
+ HCIL-2012-01
+ [Link to Report]
+2011
+ Chao, T. (November 2011)
+Visual techniques for medical reconciliation: spatial metaphor, animated explanation, and flexible decision-making
+ HCIL-2011-33
+ [Link to Report]
+ Sopan, A. (December 2011)
+Application of ManyNets to Analyze Dynamic Networks and Compare Online Communities: A case study with Nation of Neighbors
+ HCIL-2011-32
+ [Link to Report]
+ Lam, H., Bertini, E., Isenberg, P., Plaisant, C., Carpendale, S. (December 2011)
+Empirical Studies in Information Visualization: Seven Scenarios
+ Published in: IEEE Transactions on Visualization and Computer Graphics, 30 Nov. 2011. IEEE computer Society Digital Library. IEEE Computer Society, http://doi.ieeecomputersociety.org/10.1109/TVCG.2011.279 [Published Version]
+ HCIL-2011-31
+ [Link to Report]
+ Guerra Gómez, J., Shneiderman, B. (December 2011)
+Understanding social relationships from photo collection tags
+ HCIL-2011-30
+ [Link to Report]
+ Guerra Gómez, J. (December 2011)
+MySocialTree: Browsing the Facebook Feed using hierarchies
+ HCIL-2011-29
+ [Link to Report]
+ Rotman, D., Preece, J., Hammock, J., Procita, K., Hansen, D., Parr, C., Lewis, D., Jacobs, D. (November 2011)
+Dynamic Changes in Motivation in Collaborative Citizen-Science Projects
+ In Proc. CSCW 2012. February 11-15, 2012, Seattle, Washington.
+ HCIL-2011-28
+ [Link to Report]
+ Norman, K. (November 2011)
+Assessing the Components of Skill Necessary for Playing Video Games
+ HCIL-2011-27
+ [Link to Report]
+ Quinn, A., Bederson, B. (November 2011)
+Appsheet: Efficient use of web workers to support decision making
+ HCIL-2011-26
+ [Link to Report]
+ Hu, C., Resnik, P., Kronrod, Y., Bederson, B. (September 2011)
+Deploying MonoTrans Widgets in the Wild
+ To appear in Proceedings of CHI 2012.
+ HCIL-2011-25
+ [Link to Report]
+ Rodrigues, E., Milic-Frayling, N., Smith, M., Shneiderman, B., Hansen, D. (October 2011)
+Group-In-a-Box Layout for Multi-faceted Analysis of Communities
+ Published in Proc. IEEE Conference on Social Computing, IEEE Press, Piscataway, NJ (October 2011).
+ HCIL-2011-24
+ [Link to Report]
+ Foss, E., Hutchinson, H., Druin, A., Brewer, R., Lo, P., Sanchez, L., Golub, E.
+Childrens Search Roles at Home: Implications for Designers, Researchers, Educators, and Parents
+ HCIL-2011-23
+ [Link to Report]
+ Guerra Gómez, J., Buck-Coleman, A., Plaisant, C., Shneiderman, B. (October 2011)
+Interactive Visualizations for Comparing Two Trees With Structure and Node Value Changes
+ HCIL-2011-22
+ [Link to Report]
+ Yeh, T., Wongsuphasawat, K., Shneiderman, B., Davis, L. (September 2011)
+Making GUIs Narcissistic: Toolkit for Managing Space and Occlusion by Visual Introspection
+ HCIL-2011-21
+ [Link to Report]
+ Claudino, L., Khamis, S., Liu, R., London, B., Pujara, J., Plaisant, C., Shneiderman, B. (September 2011)
+Facilitating Medication Reconciliation with Animation and Spatial layout
+ To appear in Proceedings of the Workshop on Interactive Healthcare Systems (WISH2011).
+ HCIL-2011-20
+ [Link to Report]
+ Rotman, D., Procita, K., Hansen, D., Parr, C., Preece, J. (July 2011)
+Supporting Content Curation Communities: The Case of the Encyclopedia of Life
+ HCIL-2011-19
+ [Link to Report]
+ Bonsignore, E., Hansen, D., Kraus, K., Ruppel, M. (August 2011)
+Alternate Reality Games as a Platform for Practicing 21st Century Literacies
+ HCIL-2011-18
+ [Link to Report]
+ Hansen, D., Jacobs, D., Lewis, D., Biswas, A., Rotman, D., Preece, J. (July 2011)
+Odd Leaf Out: Improving visual recognition with games
+ HCIL-2011-17
+ [Link to Report]
+ Dunne, C., Shneiderman, B., Gove, R., Klavans, J., Dorr, B. (July 2011)
+Rapid Understanding of Scientific Paper Collections: Integrating Statistics, Text Analytics, and Visualization
+ To appear in JASIST: Journal of the American Society for Information Science and Technology.
+ HCIL-2011-16
+ [Link to Report]
+ Tarkan, S., Plaisant, C., Shneiderman, B., Hettinger, A. (July 2011)
+Improving Timely Clinical Lab Test Result Management: A Generative XML Process Model to Support Medical Care
+ HCIL-2011-15
+ [Link to Report]
+ Khurana, U., Nguyen, V., Cheng, H., Ahn, J., Chen, X., Shneiderman, B. (June 2011)
+Visual Analysis of Temporal Trends in Social Networks Using Edge Color Coding and Metric Timelines
+ To appear in Proc. IEEE Conference on Social Computing 2011 (October 2011, Boston, MA), IEEE Press, Piscataway, NJ.
+ HCIL-2011-14
+ [Link to Report]
+ Violi, N., Shneiderman, B., Hanson, A., Rey, P. (June 2011)
+Motivation for Participation in Online Neighborhood Watch Communities: An Empirical Study Involving Invitation Letters
+ To appear in Proc. IEEE Conference on Social Computing 2011 (October 2011, Boston, MA), IEEE Press, Piscataway, NJ.
+ HCIL-2011-13
+ [Link to Report]
+ Gove, R., Gramsky, N., Kirby, R., Sefer, E., Sopan, A., Dunne, C., Shneiderman, B., Taieb-Maimon, M. (June 2011)
+NetVisia: Heat Map and Matrix Visualization of Dynamic Social Network Statistics and Content
+ In SocialCom '11:Proc. IEEE 3rd International Conference on Social Computing (October 2011), 19-26. [Published Version]
+ HCIL-2011-12
+ [Link to Report]
+ Gove, R. (May 2011)
+Understanding Scientific Literature Networks: Case Study Evaluations of Integrating Visualizations and Statistics
+ M.S. Thesis from the Department of Computer Scienc
+ HCIL-2011-11
+ [Link to Report]
+ Walsh, G., Brown, Q., Druin, A., Amos, C. (April 2011)
+Social Networking as a Vehicle to Foster Cross-Cultural Awareness
+ To appear in IDC 2011.
+ HCIL-2011-10
+ [Link to Report]
+ Ahn, J., Plaisant, C., Shneiderman, B. (April 2011)
+A Task Taxonomy of Network Evolution Analysis
+ HCIL-2011-09
+ [Link to Report]
+ Markowitz, E., Bernstam, E., Herskovic, J., Zhang, J., Shneiderman, B., Plaisant, C., Johnson, T. (April 2011)
+Medication Reconciliation: Work Domain Ontology, Prototype Development, and a Predictive Model
+ Submitted to AMIA 2011 under review.
+ HCIL-2011-07
+ [Link to Report]
+ Tarkan, S., Plaisant, C., Shneiderman, B., Hettinger, A. (March 2011)
+Reducing Missed Laboratory Results: Defining Temporal Responsibility, Generating User Interfaces for Test Process Tracking, and Retrospective Analyses to Identify Problems
+ Submitted to AMIA 2011 under review
+ HCIL-2011-06
+ [Link to Report]
+ Shneiderman, B. (March 2011)
+Foreword: The Expanding Impact of Human-Computer Interaction
+ Foreword for Jacko, J. (Editor), Handbook of Human-Computer Interaction: 3rd Edition, Taylor & Francis (to appear 2012).
+ HCIL-2011-05
+ [Link to Report]
+ Guha, M., Druin, A., Fails, J. (Feburary 2011)
+How Children Can Design the Future
+ Published at HCII 2011.
+ HCIL-2011-04
+ [Link to Report]
+ Shneiderman, B. (March 2011)
+Technology-Mediated Social Participation: The Next 25 Years of HCI Challenges
+ Keynote: Proc. HCI International Conference, Springer (to appear July 2011).
+ HCIL-2011-03
+ [Link to Report]
+ Gove, R., Dunne, C., Shneiderman, B., Klavans, J., Dorr, B. (January 2011)
+Evaluating Visual and Statistical Exploration of Scientific Literature Networks
+ In VL/HCC'11:Proc. 2011 IEEE Symposium on Visual Languages and Human-Centric Computing (2011), 217-224. [Published Version]
+ HCIL-2011-02
+ [Link to Report]
+ Wang, T., Wongsuphasawat, K., Plaisant, C., Shneiderman, B. (January 2011)
+Extracting Insights from Electronic Health Records: Case Studies, a Visual Analytics Process Model, and Design Recommendations
+ Published in Journal of Medical Systems (2011) PMID 21541691. [Published Version]
+ HCIL-2011-01
+ [Link to Report]
+2010
+ Norman, K. (December 2010)
+Development of Instruments to Measure ImerseAbility of Individuals and ImmersiveNess of Video Games
+ HCIL-2010-33
+ [Link to Report]
+ Ho, P., Wang, T., Wongsuphasawat, K., Plaisant, C., Shneiderman, B., Smith, M., Roseman, D. (December 2010)
+Monitoring and Improving Quality of Care with Interactive Exploration of Temporal Patterns in Electronic Health Records
+ HCIL-2010-32
+ [Link to Report]
+ Bonsignore, E. (February 2010)
+The Use of StoryKit: Design Implications for Intergenerational Mobile Storytelling
+ HCIL-2010-31
+ [Link to Report]
+ Golbeck, J., Robles, C., Turner, K. (November 2010)
+Predicting Personality with Social Media
+ HCIL-2010-30
+ [Link to Report]
+ Guha, M. (July 2010)
+Understanding the Social and Cognitive Experiences of Children Involved in Technology Design Processes
+ HCIL-2010-29
+ [Link to Report]
+ Ahn, J., Taieb-Maimon, M., Sopan, A., Plaisant, C., Shneiderman, B. (November 2010)
+Temporal Visualization of Social Network Dynamics: Prototypes for Nation of Neighbors
+ Proc. Of Social Computing, Behavioral-Cultural Modeling and Prediction conference, pp. 309-316, 2011. [Published Version]
+ HCIL-2010-28
+ [Link to Report]
+ Bederson, B., Quinn, A. (November 2010)
+Web Workers Unite, Addressing Challenges of Online Laborers
+ HCIL-2010-27
+ [Link to Report]
+ Quinn, A., Bederson, B. (November 2010)
+Human Computation, Charting The Growth Of A Burgeoning Field
+ HCIL-2010-26
+ [Link to Report]
+ Norman, K., Norman, K. (November 2010)
+Comparison of Relative Versus Absolute Pointing Devices
+ Submitted to the UMD DRUM system as Tech Report LAPDP2010TR04.
+ HCIL-2010-25
+ [Link to Report]
+ Sharma, P., Khurana, U., Scharrenbroich, M., Locke, J. (June 2010)
+Speeding up Network Layout and Centrality Measures with NodeXL and the Nvidia CUDA Technology
+ HCIL-2010-24
+ [Link to Report]
+ Elsayed, T., Ture, F., Lin, J. (October 2010)
+Brute-Force Approaches to Batch Retrieval: Scalable Indexing with MapReduce, or Why Bother?
+ HCIL-2010-23
+ [Link to Report]
+ Wongsuphasawat, K., Guerra Gómez, J., Plaisant, C., Wang, T., Taieb-Maimon, M., Shneiderman, B. (September 2010)
+LifeFlow: Visualizing an Overview of Event Sequences
+ In Proceedings of the 2011 annual conference on Human factors in computing systems (CHI '11). ACM, New York, NY, USA, 1747-1756. DOI=10.1145/1978942.1979196 [Published Version]
+ HCIL-2010-22
+ [Link to Report]
+ Hu, C., Bederson, B., Resnik, P. (September 2010)
+MonoTrans2: An Asynchronous Human Computation System to Support Monolingual Translation
+ HCIL-2010-21
+ [Link to Report]
+ Golbeck, J., Hansen, D. (September 2010)
+Computing Political Preference among Twitter Followers
+ HCIL-2010-20
+ [Link to Report]
+ Rind, A., Wang, T., Aigner, W., Miksch, S., Wongsuphasawat, K., Plaisant, C., Shneiderman, B. (September 2010)
+Interactive Information Visualization for Exploring and Querying Electronic Health Records: A Systematic Review
+ For a copy of the paper please contact plaisant@cs.umd.edu
+ HCIL-2010-19
+ [Link to Report]
+ Walsh, G. (May 2010)
+Developing DisCo: A distributed co-design, on-line tool
+ Submitted to the College of Information Studies doctoral program in fulfillment of the integrative paper requirement for admission to candidacy at the University of Maryland.
+ HCIL-2010-18
+ [Link to Report]
+ Guerra Gómez, J., Wongsuphasawat, K., Wang, T., Pack, M., Plaisant, C. (August 2010)
+Analyzing Incident Management Event Sequences with Interactive Visualization
+ In Proceedings of the Transportation Research Board 90th annual meeting, The National Academies, Washington, DC (2011) [Published Version]
+ HCIL-2010-17
+ [Link to Report]
+ Shneiderman, B., Dunne, C., Sharma, P., Wang, P. (August 2010)
+Innovation Trajectories for Information Visualizations: Comparing Treemaps, Cone Trees, and Hyperbolic Trees
+ To appear in Information Visualization.
+ HCIL-2010-16
+ [Link to Report]
+ Wang, T. (May 2010)
+Interactive Visualization Techniques for Searching Temporal Categorical Data
+ Ph.D Dissertation from the Department of Computer Science
+ HCIL-2010-15
+ [Link to Report]
+ Huang, D., Lin, J.
+Scaling Populations of a Genetic Algorithm for Job Shop Scheduling Problems using MapReduce
+ HCIL-2010-14
+ [Link to Report]
+ Hansen, D., Smith, M., Shneiderman, B.
+EventGraphs: Charting Collections of Conference Connections
+ Accepted to the Social Networking and Communities Mini-Track of the Forty-Forth Annual Hawaii International Conference on System Sciences (HICSS), Jan 4-7, 2011. Kauai, Hawaii.
+ HCIL-2010-13
+ [Link to Report]
+ Wang, T., Wongsuphasawat, K., Plaisant, C., Shneiderman, B. (June 2010)
+Visual Information Seeking in Multiple Electronic Health Records: Design Recommendations and A Process Model
+ Published in Proceedings of the 1st ACM International Informatics Symposium (IHI '10) (2010) 46-55. [Published Version]
+ HCIL-2010-12
+ [Link to Report]
+ Quinn, A., Bederson, B., Yeh, T., Lin, J. (May 2010)
+CrowdFlow: Integrating Machine Learning with Mechanical Turk for Speed-Cost-Quality Flexibility
+ HCIL-2010-09
+ [Link to Report]
+ Yeh, T., White, B., Davis, L., Katz, B. (May 2010)
+Searching the Web Using Screenshots
+ HCIL-2010-08
+ [Link to Report]
+ Resnik, P., Hu, C., Buzek, O., Bederson, B. (May 2010)
+Using Monolingual Human Computation to Improve Language Translation via Targeted Paraphrase
+ Will appear in the proceedings of the 2010 Conference on Empirical Methods on Natural Language Processing (EMNLP 2010).
+ HCIL-2010-07
+ [Link to Report]
+ Rios-Berrios, M., Sharma, P., Lee, T., Schwartz, R., Shneiderman, B. (May 2010)
+TreeCovery : Coordinated Dual Treemap Visualization for Exploring the Recovery Act
+ HCIL-2010-06
+ [Link to Report]
+ Gregory, M., Shneiderman, B. (May 2010)
+Shape Identification in Temporal Data Sets
+ HCIL-2010-05
+ [Link to Report]
+ Sopan, A., Noh, A., Lee, G., Rosenfeld, P., Karol, S., Shneiderman, B. (May 2010)
+Community Health Map: A Geospatial and Multivariate Data Visualization Tool for Public Health Datasets
+ HCIL-2010-04
+ [Link to Report]
+ Guha, M., Druin, A., Fails, J. (April 2010)
+ Investigating the Impact of Design Processes on Children
+ In press, IDC 2010, Barcelona, Spain
+ HCIL-2010-03
+ [Link to Report]
+ Fails, J., Druin, A., Guha, M. (April 2010)
+Mobile Collaboration: Collaboratively Reading and Creating Childrens Stories on Mobile Devices
+ In press, IDC 2010, Barcelona, Spain
+ HCIL-2010-02
+ [Link to Report]
+ Sopan, A., Freire, M., Taieb-Maimon, M., Golbeck, J., Shneiderman, B., Shneiderman, B. (April 2010)
+Exploring Data Distributions: Visual Design and Evaluation
+ Published in International Journal of Human-Computer Interaction (Volume 28, Issue 7, 2012). [Published Version]
+ HCIL-2010-01
+ [Link to Report]
+2009
+ Filippova, D., Shneiderman, B. (January 2009)
+Interactive Exploration of Multivariate Categorical Data: Exploiting Ranked Criteria to Reveal Patterns and Outliers
+ HCIL-2009-38
+ [Link to Report]
+ Kang, H., Kang, H., Plaisant, C., Plaisant, C., Elsayed, T., Elsayed, T., Oard, D., Oard, D. (December 2009)
+Making Sense of Archived E-mail: Exploring the Enron Collection with NetLens
+ Published in Journal of the American Society for Information Science and Technology, 61 , 4 (2010) 723-744. [Published Version]
+ HCIL-2009-37
+ [Link to Report]
+ Hansen, D.
+Overhearing the Crowd: An Empirical Examination of Conversation Reuse in a Technical Support Community
+ Published in Proceedings of the Fourth International Conference on Communities and Technologies (University Park, PA, USA, June 25 - 27, 2009). C&T '09. ACM, New York, NY, 155-164. [Published Version]
+ HCIL-2009-36
+ [Link to Report]
+ Wang, T., Wongsuphasawat, K., Plaisant, C., Shneiderman, B. (June 2010)
+Exploratory Search Over Temporal Event Sequences: Novel Requirements, Operations, and a Process Model
+ in Proc. Of Third Workshop on Human-Computer Interaction and Information Retrieval (HCIR 2009).
+ HCIL-2009-35
+ [Link to Report]
+ Fails, J. (August 2009)
+MOBILE COLLABORATION FOR YOUNG CHILDREN: READING AND CREATING STORIES
+ HCIL-2009-34
+ [Link to Report]
+ Druin, A., Foss, E., Hutchinson, H., Golub, E., Hatley, L. (December 2009)
+Children's Roles using Keyword Search Interfaces at Home
+ New York Times Article: [Published Version]
+ Published in ACM CHI 2010 Conference on Human Factors in Computing Systems
+ HCIL-2009-33
+ [Link to Report]
+ Golbeck, J., Grimes, J., Rogers, A. (December 2009)
+Twitter Use by the U.S. Congress
+ HCIL-2009-32
+ [Link to Report]
+ Zalinger, J., Freier, N., Freire, M., Shneiderman, B.
+Reading Ben Shneidermans Email: Identifying Narrative Elements in Email Archives
+ HCIL-2009-31
+ [Link to Report]
+ Freire, M., Plaisant, C., Shneiderman, B., Golbeck, J. (September 2009)
+ManyNets: An Interface for Multiple Network Analysis and Visualization
+ In Proceedings of the 28th international conference on Human factors in computing systems (CHI '10). ACM, New York (2010) 213-222 [Published Version]
+ HCIL-2009-30
+ [Link to Report]
+ Walsh, G., Druin, A., Guha, M., Foss, E., Golub, E., Hatley, L., Bonsignore, E., Franckel, S. (October 2009)
+Layered Elaboration: A New Technique for Co-Design with Children
+ HCIL-2009-29
+ [Link to Report]
+ Bederson, B., Hu, C., Resnik, P. (October 2009)
+Translation by Iterative Collaboration between Monolingual Users
+ Published as:
+ Bederson, B.B., Hu, C., & Resnik, P. (2010) Translation by Iteractive Collaboration between Monolingual Users, Proceedings of Graphics Interface (GI 2010), 39-46.
+ HCIL-2009-28
+ [Link to Report]
+ Golbeck, J., Hu, C. (October 2009)
+Impact of Visualization Methods on Interaction with Search Results
+ HCIL-2009-27
+ [Link to Report]
+ Golbeck, J. (October 2009)
+A Single Strong Disagreement Ruins a Recommender: Improving Recommendation Accuracy with a Simple Statistic
+ HCIL-2009-26
+ [Link to Report]
+ Walsh, G., Golbeck, J. (October 2009)
+Curator: A Game with a Purpose for Collection Recommendation
+ HCIL-2009-25
+ [Link to Report]
+ Golbeck, J. (October 2009)
+The More People I Meet, The More I Like My Dog: A Study of Pet-Oriented Social Networks on the Web
+ HCIL-2009-24
+ [Link to Report]
+ Quinn, A., Bederson, B. (October 2009)
+A Taxonomy of Distributed Human Computation
+ A more recent version of this report is available as HCIL-2010-26.
+ HCIL-2009-23
+ [Link to Report]
+ Quinn, A., Bederson, B., Bonsignore, E., Druin, A. (October 2009)
+StoryKit: Designing a Mobile Application for Story Creation By Children And Older Adults
+ HCIL-2009-22
+ [Link to Report]
+ Bederson, B. (October 2009)
+The Promise of Zoomable User Interfaces
+ HCIL-2009-21
+ [Link to Report]
+ Wongsuphasawat, K., Plaisant, C., Taieb-Maimon, M., Shneiderman, B. (October 2009)
+Querying Event Sequences by Exact Match or Similarity Search: Design and Empirical Evaluation
+ HCIL-2009-20
+ [Link to Report]
+ Bonsignore, E., Dunne, C., Rotman, D., Smith, M., Capone, T., Hansen, D., Shneiderman, B. (August 2009)
+First steps to NetViz Nirvana: Evaluating social network analysis with NodeXL
+ In SIN '09: Proc. International Symposium on Social Intelligence and Networking. IEEE Computer Society Press.
+ HCIL-2009-19
+ [Link to Report]
+ Shneiderman, B. (July 2009)
+iParticipate.gov: A National Initiative for Social Participation
+Science 323 (March 13, 2009), 1426-1427. [Published Version]
+ HCIL-2009-18
+ [Link to Report]
+ Hansen, D., Rotman, D., Bonsignore, E., Milic-Frayling, N., Rodrigues, E., Smith, M., Shneiderman, B. (September 2009)
+Do You Know the Way to SNA?: A Process Model for Analyzing and Visualizing Social Media Data
+ HCIL-2009-17
+ [Link to Report]
+ Bederson, B., Quinn, A., Druin, A. (May 2009)
+Designing the Reading Experience for Scanned Multi-lingual Picture Books on Mobile Phones
+ HCIL-2009-16
+ [Link to Report]
+ Druin, A., Bederson, B., Quinn, A. (May 2009)
+Designing Intergenerational Mobile Storytelling
+ HCIL-2009-15
+ [Link to Report]
+ Wang, T., Deshpande, A., Shneiderman, B. (May 2009)
+A Temporal Pattern Search Algorithm for Personal History Event Visualization
+ Wang, T.; Deshpande, A.; Shneiderman, B.; , "A Temporal Pattern Search Algorithm for Personal History Event Visualization," Published in Knowledge and Data Engineering, IEEE Transactions on, vol.PP, no.99, pp.1, 0.
+ doi: 10.1109/TKDE.2010.257 [Published Version]
+ HCIL-2009-14
+ [Link to Report]
+ Dunne, C., Shneiderman, B. (May 2009)
+Improving Graph Drawing Readability by Incorporating Readability Metrics: A Software Tool for Network Analysts
+ HCIL-2009-13
+ [Link to Report]
+ Vuillemot, R., Clement, T., Plaisant, C., Kumar, A. (April 2009)
+Whats Being Said Near "Martha"? Exploring Name Entities in Literary Text Collections
+ Vuillemot, R.; Clement, T.; Plaisant, C.; Kumar, A.; , "What's being said near "Martha"? Exploring name entities in literary text collections," IEEE Symposium on Visual Analytics Science and Technology, VAST 2009 (2009) 107-114.
+ doi: 10.1109/VAST.2009.5333248 [Published Version]
+ HCIL-2009-12
+ [Link to Report]
+ Smith, M., Shneiderman, B., Milic-Frayling, N., Rodrigues, E., Barash, V., Dunne, C., Capone, T., Perer, A., Gleave, E. (April 2009)
+Analyzing (Social Media) Networks with NodeXL
+Proc. Communities & Technologies Conference, Springer (June 2009).
+ HCIL-2009-11
+ [Link to Report]
+ Costello, L., Grinstein, G., Plaisant, C., Scholtz, J. (April 2009)
+Advancing User-Centered Evaluation of Visual Analytic Environments through Contests
+Information Visualization, 8 (2009) 230-238 [Published Version]
+ HCIL-2009-10
+ [Link to Report]
+ Wang, T., Plaisant, C., Shneiderman, B., Spring, N., Roseman, D., Marchand, G., Mukherjee, V., Smith, M. (April 2009)
+Temporal Summaries: Supporting Temporal Categorical Searching, Aggregation and Comparison
+ Published in IEEE Transactions on Visualization and Computer Graphics (2009) 1049-1056 [Published Version]
+ HCIL-2009-09
+ [Link to Report]
+ Wongsuphasawat, K., Shneiderman, B. (April 2009)
+Finding Comparable Temporal Categorical Records: A Similarity Measure with an Interactive Visualization
+ Is to appear in Proceedings of IEEE VAST 2009.
+ HCIL-2009-08
+ [Link to Report]
+ Hu, C., Rose, A., Bederson, B. (March 2009)
+Locating Text in Scanned Books
+ Published as:
+ Hu, C., Rose, A., Bederson, B.B.* (2009) Locating Text in Scanned Books. In Proceedings of the Joint Conference on Digital Libraries (JCDL 2009), Poster.
+ HCIL-2009-07
+ [Link to Report]
+ Bederson, B., Quinn, A., Druin, A. (March 2009)
+Designing the Reading Experience for Scanned Multi-lingual Picture Books on Mobile Phones
+ Published as:
+ Bederson, B.B., Quinn, A., Druin, A. (2009) Designing the Reading Experience for Scanned Multi-lingual Picture Books on Mobile Phones. In Proceedings of the Joint Conference on Digital Libraries (JCDL 2009), Short Paper, ACM Press, New York, NY, 305-308.
+ HCIL-2009-06
+ [Link to Report]
+ Chen, R., Rose, A., Bederson, B. (March 2009)
+How People Read Books Online: Mining and Visualizing Web Logs for Use Information
+ HCIL-2009-05
+ [Link to Report]
+ Druin, A., Foss, E., Hatley, L., Golub, E., Guha, M., Fails, J., Hutchinson, H. (February 2009)
+How Children Search the Internet with Keyword Interfaces
+ HCIL-2009-04
+ [Link to Report]
+ Tarkan, S., Sazawal, V., Druin, A., Foss, E., Golub, E., Hatley, L., Khatri, T., Massey, S., Walsh, G., Torres, G. (January 2009)
+Designing a Novice Programming Environment with Children
+ HCIL-2009-03
+ [Link to Report]
+ Druin, A., Bederson, B., Rose, A., Weeks, A. (January 2009)
+From New Zealand to Mongolia: Co-Designing and Deploying a Digital Library for the Worlds Children
+ This article in currently "In Press" and will be published in a special issue of: Children, Youth and Environments (http://www.colorado.edu/journals/cye/): Children in Technological Environments: Interaction, Development, and Design, Editors: N.G. Freier & P. H. Kahn
+ HCIL-2009-02
+ [Link to Report]
+ Lin, J., Bahety, A., Konda, S., Mahindrakar, S. (January 2009)
+Low-Latency, High-Throughput Access to Static Global Resources within the Hadoop Framework
+ HCIL-2009-01
+ [Link to Report]
+2008
+ Shneiderman, B. (July 2009)
+ Copernican challenges face those who suggest that collaboration, not computation are the driving energy for socio-technical systems that characterize Web 2.0.
+Science 319 (March 7, 2008), 1349-1350. [Published Version]
+ HCIL-2008-42
+ [Link to Report]
+ Golbeck, J. (December 2008)
+Weaving a Web of Trust
+Science, Vol 321, September 19, 2008.
+ HCIL-2008-41
+ [Link to Report]
+ Golbeck, J., Rothstein, M. (December 2008)
+Linking Social Networks on the Web with FOAF
+ HCIL-2008-40
+ [Link to Report]
+ Golbeck, J. (December 2008)
+Trust and Nuanced Profile Similarity in Online Social Networks
+ HCIL-2008-39
+ [Link to Report]
+ Hendler, J., Golbeck, J. (December 2008)
+Metcalfe's Law, Web 2.0, and the Semantic Web
+ HCIL-2008-38
+ [Link to Report]
+ Golbeck, J., Halaschek-Wiener, C. (December 2008)
+Trust-Based Revision for Expressive Web Syndication
+ HCIL-2008-37
+ [Link to Report]
+ Golbeck, J. (December 200)
+The Dynamics ofWeb-based Social Networks: Membership, Relationships, and Change
+ HCIL-2008-36
+ [Link to Report]
+ Aris, A., Shneiderman, B., Qazvinian, V., Radev, D. (December 2008)
+Visual Overviews for Discovering Key Papers and Influences Across Research Fronts
+ Published in Journal of the American Society for Information Systems and Technology 60, 11 (November 2009), 2219-2228.
+ HCIL-2008-35
+ [Link to Report]
+ Grinstein, G., Plaisant, C., Laskowski, S., O'Connell, T., Scholtz, J., Whiting, M. (November 2008)
+VAST 2008 Challenge: Introducing mini-challenges
+ VAST 2008 Challenge: Introducing mini-challenges, VAST '08. IEEE Symposium on Visual Analytics Science and Technology (2008)195-196 [Published Version]
+ HCIL-2008-34
+ [Link to Report]
+ Clement, T., Plaisant, C., Vuillemot, R. (November 2008)
+The Story of One: Humanity scholarship with visualization and text analysis
+ in Proc. Of the Digital Humanities Conference (DH 2009)
+ HCIL-2008-33
+ [Link to Report]
+ Jong, C., Rajkumar, P., Siddiquie, B., Clement, T., Plaisant, C., Shneiderman, B. (November 2008)
+Interactive Exploration of Versions across Multiple Documents
+ to appear in Proc. of the Digital Humanities Conference (DH 2009)
+ HCIL-2008-32
+ [Link to Report]
+ Hutchinson, H., Druin, A., Bederson, B. (November 2008)
+Supporting Elementary-Age Childrens Searching and Browsing: Design and Evaluation Using the International Childrens Digital Library
+ Published as:
+ Hutchinson, H., Bederson, B.B., Druin, A., (2007) Supporting Elementary-Age Children's Searching and Browsing: Design and Evaluation Using the International Children's Digital Library, Journal of the American Society for Information Science and Technology, John Wiley & Sons, 58 (11), 1618-1630.
+ HCIL-2008-31
+ [Link to Report]
+ Lieberman, M., Taheri, S., Guo, H., Mir-Rashed, F., Yahav, I., Aris, A., Shneiderman, B. (October 2008)
+Visual Exploration Across Biomedical Databases
+ Published in IEEE/ACM Transactions on Computational Biology and Bioinformatics (March/April 2011). [Published Version]
+ HCIL-2008-30
+ [Link to Report]
+ Aris, A. (August 2008)
+Visualizing and Exploring Networks Using Semantic Substrates
+ Ph.D. Dissertation from the Department of Computer Science
+ HCIL-2008-29
+ [Link to Report]
+ Lin, J. (July 2008)
+Scalable Language Processing Algorithms for the Masses: A Case Study in Computing Word Co-occurrence Matrices with MapReduce
+Proceedings of the 2008 Conference on Empirical Methods in Natural Language Processing (EMNLP 2008), pages 419-428, October 2008, Honolulu, Hawaii. [Published Version]
+ HCIL-2008-28
+ [Link to Report]
+ Shneiderman, B. (June 2008)
+Extreme Visualization: Squeezing a Billion Records into a Million Pixels
+Proc. ACM SIGMOD 2008 Conference, ACM, New York (June 2008).
+ HCIL-2008-27
+ [Link to Report]
+ Filippova, D., Lee, J., Olea, A., VanDaniker, M., Wongsuphasawat, K. (May 2008)
+Exploring Clusters in Geospatial Datasets
+ HCIL-2008-26
+ [Link to Report]
+ Parr, C. (May 2008)
+Ecological Informatics Internet
+Jorgensen, S.E., ed. Encyclopedia of Ecology. Oxford, UK: Elsevier.
+ HCIL-2008-25
+ [Link to Report]
+ Parr, C. (May 2008)
+Open Sourcing Ecological Data
+BioScience, 4, 309-310.
+ HCIL-2008-24
+ [Link to Report]
+ Parafiynyk, A., Parr, C., Sachs, J., Finin, T. (May 2008)
+Adding Semantics to Social Websites for Citizen Science
+ Proceedings of the AAAI 2007 Semantic e-Science workshop., Vancouver, Canada.
+ HCIL-2008-23
+ [Link to Report]
+ Lee, B., Robertson, G., Czerwinski, M., Parr, C. (May 2008)
+CandidTree: Visualizing Structural Uncertainty in Similar Hierarchies
+Information Visualization, 6, 233-246.
+Proceedings of Interact 2007, Lecture Notes in Computer Science 4663, 250-263
+ HCIL-2008-21
+ [Link to Report]
+ Guha, M., Druin, A., Fails, J. (May 2008)
+Designing with and for children with special needs: An inclusionary model
+To appear in Interaction Design and Children, June 2008.
+ HCIL-2008-20
+ [Link to Report]
+ Liao, C., Guimbretière, F., Loeckenhoff, C. (May 2008)
+Pen-top Feedback for Paper-based Interfaces
+Proceedings of ACM UIST06, pp. 291 -220. [Published Version]
+ HCIL-2008-19
+ [Link to Report]
+ Liao, C., Guimbretière, F., Anderson, R., Linnell, N., Prince, C., Razmov, V. (May 2008)
+PaperCP: Exploring the Integration of Physical and Digital Affordances for Active Learning
+Proceedings of INTERACT 07, pp 15 - 28. [Published Version]
+ HCIL-2008-18
+ [Link to Report]
+ Yeh, R., Liao, C., Klemmer, S., Guimbretière, F., Lee, B., Kakarodov, B., Stamberger, J., Paepcke, A. (May 2008)
+ButterflyNet: A Mobile Capture and Access System for Field Biology Research
+Proceedings of ACM CHI 06, pp. 571- 580 [Published Version]
+ HCIL-2008-17
+ [Link to Report]
+ Liao, C., Guimbretière, F., Hinckley, K., Hollan, J. (May 2008)
+PapierCraft: A Gesture-Based Command System for Interactive Paper
+ACM Transactions on Computer-Human Interaction (TOCHI) archive,Volume 14 , Issue 4 (January 2008) [Published Version]
+ HCIL-2008-16
+ [Link to Report]
+ Quinn, A., Hu, C., Arisaka, T., Rose, A., Bederson, B. (May 2008)
+Readability of Scanned Books in Digital Libraries
+Proceeding of the Twenty-Sixth Annual SIGCHI Conference on Human Factors in Computing Systems (Florence, Italy, April 05 - 10, 2008). CHI '08. ACM, New York, NY, 705-714. [Published Version]
+ HCIL-2008-15
+ [Link to Report]
+ Golub, E., Druin, A., Komlodi, A., Resnik, P., Preece, J., Fails, J., Hou, W., Barin, T., Clamage, A. (May 2008)
+Exploring Cross-Language Communication for Children via a Word Guessing Game
+ HCIL-2008-14
+ [Link to Report]
+ Plaisant, C., Lam, S., Shneiderman, B., Smith, M., Roseman, D., Marchand, G., Gillam, M., Feied, C., Handler, J., Rappaport, H. (May 2008)
+Searching Electronic Health Records for Temporal Patterns in Patient Histories: A Case Study with Microsoft Amalga
+ AMIA Annual Symposium Proceedings (2008) 601-605. [Published Version]
+ HCIL-2008-13
+ [Link to Report]
+ Druin, A. (April 2008)
+Designing Online Interactions: What Kids Want and What Designers Know
+Interactions Magazine, May/June 2008. [Published Version]
+ HCIL-2008-12
+ [Link to Report]
+ Druin, A. (April 2008)
+Lifelong Interactions: My Father's Kitchen Table
+ HCIL-2008-11
+ [Link to Report]
+ Aris, A., Shneiderman, B. (April 2008)
+A Node Aggregation Strategy to Reduce Complexity of Network Visualization using Semantic Substrates
+ HCIL-2008-10
+ [Link to Report]
+ Hu, C., Quinn, A., Rose, A., Bederson, B., Arisaka, T. (February 2008)
+Enhancing Readability of Scanned Picture Books
+ HCIL-2008-09
+ [Link to Report]
+ Lin, J., Smucker, M. (February 2008)
+How Do Users Find Things with PubMed? Towards Automatic Utility Evaluation with User Simulations
+Proceedings of the 31th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2008),pages 19-26, July 2008, Singapore. [Published Version]
+ HCIL-2008-07, LAMP-TR-148
+ [Link to Report]
+ Kules, B., Wilson, M., Schraefel, M., Shneiderman, B. (February 2008)
+From Keyword Search to Exploration: How Result Visualization Aids Discovery on the Web
+ HCIL-2008-06
+ [Link to Report]
+ Friedler, S., Tan, Y., Peer, N., Shneiderman, B. (February 2008)
+Enabling teachers to explore grade patterns to identify individual needs and promote fairer student assessment
+ To appear in Computers & Education in 2008
+ HCIL-2008-05
+ [Link to Report]
+ Plaisant, C., Grinstein, G., Scholtz, J., Whiting, M., O'Connell, T., Laskowski, S., Chien, L., Tat, A., Wright, W., Gorg, C., Liu, Z., Parekh, N., Singhal, K., Stasko, J. (January 2008)
+Evaluating Visual Analytics: The 2007 Visual Analytics Science and Technology Symposium Contest
+IEEE Computer Graphics and Applications, 28, 2, 12-21 (2008) [Published Version]
+ HCIL-2008-04
+ [Link to Report]
+ Perer, A., Shneiderman, B. (January 2008)
+Integrating Statistics and Visualization: Case Studies of Gaining Clarity during Exploratory Data Analysis
+ Proceedings of ACM CHI 2008, pp.265-274 [Published Version]
+ HCIL-2008-03
+ [Link to Report]
+ Hawes, T., Lin, J., Resnik, P. (January 2008)
+Elements of a Computational Model for Multi-Party Discourse: The Turn-Taking Behavior of Supreme Court Justices
+ Journal of the American Society for Information Science and Technology, 2009, in press. [Published Version]
+ HCIL-2008-02, LAMP-TR-147
+ [Link to Report]
+ Lin, J. (January 2008)
+PageRank without hyperlinks: Reranking with PubMed related article networks for biomedical text retrieval
+BMC Bioinformatics, 2008, 9:270 [Published Version]
+ HCIL-2008-01, LAMP-TR-146
+ [Link to Report]
+2007
+ Shneiderman, B. (July 2009)
+Creativity Support Tools: Accelerating Discovery and Innovation
+Communications of the ACM 50, 12 (December 2007), cover story, 20-32. [Published Version]
+ HCIL-2007-31
+ [Link to Report]
+ Bederson, B. (November 2007)
+No Road, Drive: The ICDL Goes to the Mongolian Countryside
+ International Children's Digital Library [Published Version]
+ In Maryland International Spring 08 Edition [Published Version]
+ HCIL-2007-30
+ [Link to Report]
+ Tue Dao, H., Bazinet, A., Berthier, R., Shneiderman, B.
+NASDAQ Velocity and Forces: An Interactive Visualization of Activity and Change
+ HCIL-2007-29
+ [Link to Report]
+ Wang, T., Plaisant, C., Quinn, A., Stanchak, R., Shneiderman, B., Murphy, S. (January 2008)
+Aligning Temporal Data by Sentinel Events: Discovering Patterns in Electronic Health Records
+Proc. of ACM Conference on Human Factors in Computing Systems (2008) 457-466 [Published Version]
+ HCIL-2007-28
+ [Link to Report]
+ Aris, A., Shneiderman, B. (December 2007)
+Designing Semantic Substrates for Visual Network Exploration
+Information Visualization, 6, 4 (2007), 281-300. [Published Version]
+ HCIL-2007-27
+ [Link to Report]
+ Perer, A., Shneiderman, B. (December 2007)
+Systematic Yet Flexible Discovery: Guiding Domain Experts through Exploratory Data Analysis
+Proceedings of the International Conference on Intelligent User Interfaces, (IUI 2008).
+ HCIL-2007-26
+ [Link to Report]
+ Namata, G., Staats, B., Getoor, L., Shneiderman, B. (November 2007)
+A dual-view approach to interactive network visualization
+Proceedings of the sixteenth ACM conference on Conference on information and knowledge management, 2007, p.939 - 942. [Published Version]
+ HCIL-2007-25
+ [Link to Report]
+ Karlson, A. (November 2007)
+Interface and Interaction Design for One-Handed Mobile Computing
+ Ph.D. Dissertation from the Department of Computer Science
+ HCIL-2007-24
+ [Link to Report]
+ Shneiderman, B. (November 2007)
+Crisis and opportunity in computer science
+Communications of the ACM 48, 11, November 2005, p. 27 - 28. [Published Version]
+ HCIL-2007-23
+ [Link to Report]
+ Shneiderman, B. (November 2007)
+A Telescope for High-Dimensional Data
+Computing Science & Engineering 8, 2, March - April 2006, pp. 48 - 53. [Published Version]
+ HCIL-2007-22
+ [Link to Report]
+ Shneiderman, B., Bederson, B., Drucker, S. (November 2007)
+Find that photo! Interface strategies to annotate, browse, and share
+Communications of the ACM, 49, 4, April 2006, p. 69 - 71. [Published Version]
+ HCIL-2007-21
+ [Link to Report]
+ Shneiderman, B. (November 2007)
+Discovering Business Intelligence Using Treemap Visualizations
+ b-eye April 11, 2006. [Published Version]
+ HCIL-2007-20
+ [Link to Report]
+ Shneiderman, B., Preece, J. (November 2007)
+PUBLIC HEALTH: 911.gov
+Science 315, 5814, 16 February 2007, p. 944. [Published Version]
+ HCIL-2007-19
+ [Link to Report]
+ Shneiderman, B. (November 2007)
+Human Responsibility for Autonomous Agents
+Intelligent Systems 22, 2, March - April 2007, p. 60 - 61. [Published Version]
+ HCIL-2007-18
+ [Link to Report]
+ Shneiderman, B. (November 2007)
+25 years of CHI conferences: capturing the exchange of ideas
+ACM Interactions 14, 2, March - April 2007, p. 24-31. [Published Version]
+ HCIL-2007-17
+ [Link to Report]
+ Gregory, M., Don, A., Zheleva, E., Tarkan, S., Plaisant, C., Shneiderman, B. (October 2007)
+Shape Search in Temporal Data to Facilitate Knowledge Discovery: A User Interface to find Spikes, Sinks and Slopes
+ HCIL-2007-16
+ [Link to Report]
+ Druin, A., Xie, B., Fails, J., Massey, S., Golub, E., Schneider, K., Kruskal, A. (September 2007)
+Connecting Generations: Developing Co-Design Methods for Older Adults and Children
+ HCIL-2007-15
+ [Link to Report]
+ Karlson, A., Bederson, B. (September 2007)
+One-Handed Touchscreen Input for Legacy Applications
+ One-Handed Touchscreen Input for Legacy Applications. Proceedings of ACM CHI 2008, pp. 1399-1408 [Published Version]
+ HCIL-2007-14
+ [Link to Report]
+ Chipman, L. (September 2007)
+Collaborative Technology for Young Children's Outdoor Education
+ Ph.D. Dissertation from the Department of Computer Science
+ HCIL-2007-13
+ [Link to Report]
+ Golub, E. (August 2007)
+PhotoCropr: A first step towards computer-supported automatic generation of photographically interesting cropping suggestions
+ HCIL-2007-12
+ [Link to Report]
+ Bederson, B., Clamage, A., Plaisant, C. (January 2008)
+Enhancing In-Car Navigation Systems with Personal Experience
+Proceedings of the Transportation Research Board 87th annual meeting, The National Academies, Washington, DC (2008) 1-11[ Published Version] Also Journal of the Transportation Research Board of the National Academies, 2064 (2008) 33-42 [Published Version]
+ HCIL-2007-11
+ [Link to Report]
+ Lin, J., DiCuccio, M., Grigoryan, V., Wilbur, W. (July 2007)
+Exploring the Effectiveness of Related Article Search in PubMed
+ Information Processing & Management, 44(5):1771-1783, 2008. [Published Version]
+ HCIL-2007-10, CS-TR-4877, UMIACS-TR-2007-36
+ [Link to Report]
+ Perer, A., Shneiderman, B. (May 2007)
+Systematic Yet Flexible Discovery: Guiding Exploratory Data Analysis
+ HCIL-2007-09
+ [Link to Report]
+ Don, A., Zheleva, E., Gregory, M., Tarkan, S., Auvil, L., Clement, T., Shneiderman, B., Plaisant, C. (May 2007)
+Discovering interesting usage patterns in text collections: integrating text mining with visualization
+Proceedings of the sixteenth ACM conference on Conference on information and knowledge management, 2007, p. 213 - 222. [Published Version]
+ HCIL-2007-08
+ [Link to Report]
+ Preece, J., Shneiderman, B., Jaeger, P., Qu, Y. (May 2007)
+Community Response Grids for Older Adults: Motivations, Usability, and Sociability
+ HCIL-2007-07
+ [Link to Report]
+ Zhang, P., Plettenberg, L., Klavans, J., Oard, D., Soergel, D. (May 2007)
+Task-based Interaction with an Integrated Multilingual, Multimedia Information System: A Formative Evaluation
+ HCIL-2007-06
+ [Link to Report]
+ Buono, P., Plaisant, C., Simeone, A., Aris, A., Shneiderman, B., Shmueli, G., Jank, W. (April 2007)
+Similarity-Based Forecasting with Simultaneous Previews: A River Plot Interface for Time Series Forecasting
+ Similarity-Based Forecasting with Simultaneous Previews: A River Plot Interface for Time Series Forecasting,Proc. of the 11th International Conference Information Visualization (IV '07), 2007, 191-196 [Published Version]
+ HCIL-2007-05
+ [Link to Report]
+ Karlson, A., Bederson, B. (April 2007)
+Direct Versus Indirect Input Methods for One-Handed Touchscreen Mobile Computing
+ Revised version at HCIL-2007-14
+ HCIL-2007-04
+ [Link to Report]
+ Karlson, A., Bederson, B. (April 2007)
+ThumbSpace: Generalized One-Handed Input for Touchscreen-Based Mobile Devices
+ Published as:
+ Karlson, A., & Bederson, B. B.* (2007) ThumbSpace: Generalized One-Handed Input for Touchscreen-Based Mobile Devices, Proceedings of INTERACT 2007, 324-338.
+ HCIL-2007-03
+ [Link to Report]
+ Druin, A., Weeks, A., Massey, S., Bederson, B. (January 2007)
+Children's Interests and Concerns when using the International Children's Digital Library: A Four Country Case Study
+ Published as Druin, A., Weeks, A., Massey, S., & Bederson, B. B. (2007) Childrens Interests and Concerns When Using the International Childrens Digital Library: A four country case study, Proceedings of the Joint Conference on Digital Libraries (JCDL 2007), 167-176. Available in the ACM Digital Library. [Published Version]
+ HCIL-2007-02
+ [Link to Report]
+ Druin, A., Weeks, A., Bederson, B., Massey, S. (January 2007)
+Final Report on IMLS Funded Grant #LG02020026-02: APPENDICES
+ HCIL-2007-01
+ [Link to Report]
+2006
+ Kules, B., Shneiderman, B. (July 2009)
+Users can change their web search tactics: Design guidelines for categorized overviews
+Information Processing and Management 44, 2 (2008), 463-484. [Published Version]
+ HCIL-2006-29
+ [Link to Report]
+ Golub, E. (December 2006)
+Adding Societal Impact and Reflection to Information Technology Fluency Classes
+ HCIL-2006-28
+ [Link to Report]
+ Apitz, G., Bederson, B., Shneiderman, B. (December 2006)
+Interrupted Coordinated Activities
+ HCIL-2006-27
+ [Link to Report]
+ Bederson, B. (2006)
+No Hotel, Tent: The International Childrens Digital Library Goes to Mongolia
+ HCIL-2006-26
+ [HTML]  [Link to Report]
+ Perer, A., Shneiderman, B. (November 2006)
+Balancing Systematic and Flexible Exploration of Social Networks
+IEEE Transactions on Visualization and Computer Graphics, 12, 5, (October 2006), 693 - 700.
+ HCIL-2006-25
+ [Link to Report]
+ Parr, C., Lee, B., Bederson, B. (September 2006)
+Ecolens: Integration and Interactive Visualization of Ecological Datasets
+ EcoLens: Integration and Interactive Visualization of Ecological Datasets, Journal of Ecological Informatics, Elsevier, 2 (1), 61-69, 2007.
+ HCIL-2006-24
+ [HTML]  [Link to Report]
+ Guha, M., Druin, A., Montemayor, J., Chipman, L. (August 2006)
+A Theoretical Model of Children's Storytelling using Physically-Oriented Technologies (SPOT)
+Journal of Educational Multimedia and Hypermedia, 16 (4), pp. 389-410, (October 2007).
+ HCIL-2006-23
+ [HTML]  [Link to Report]
+ Zhao, H., Shneiderman, B., Plaisant, C., Lazar, J. (August 2006)
+Data sonification for users with visual impairments: A case study with geo-referenced data
+ACM Transactions on Computer Human Interaction 15, 1 (May 2008), Article 4. [Published Version]
+ HCIL-2006-22
+ [HTML]  [Link to Report]
+ Suh, B. (July 2006)
+Image Management Using Pattern Recognition Systems
+ Ph.D. Dissertation from the Department of Computer Science
+ HCIL-2006-21
+ [Link to Report]
+ Lee, B. (May 2006)
+Interactive Visualizations for Trees and Graphs
+ Ph.D. Dissertation from the Department of Computer Science
+ HCIL-2006-20
+ [Link to Report]
+ Shneiderman, B., Aris, A. (June 2006)
+Network Visualization by Semantic Substrates
+IEEE Transactions on Visualization and Computer Graphics, 12, 5, (October 2006), 733 - 740.
+ HCIL-2006-19
+ [HTML]  [Link to Report]
+ White, R., Kules, B., Bederson, B. (May 2006)
+Exploratory Search Interfaces: Categorization, Clustering and Beyond
+SIGIR Forum, volume 39, issue 2, December 2005
+ HCIL-2006-18
+ [HTML]  [Link to Report]
+ Shneiderman, B., Fischer, G., Czerwinski, M., Resnick, M., Myers, B., Candy, L., Edmonds, E., Eisenberg, M., Giaccardi, E., Hewett, T., Jennings, P., Kules, B., Nakakoji, K., Nunamaker, J., Pausch, R., Selker, T., Sylvan, E. (May 2006)
+Creativity Support Tools: Report from a U.S. National Science Foundation Sponsored Workshop
+International Journal of Human-Computer Interaction, 20 (2). 61-77
+ HCIL-2006-17
+ [Link to Report]
+ White, R., Kules, B., Drucker, S., Schraefel, M. (May 2006)
+Supporting Exploratory Search
+Communications of the ACM, 49(4), 36-39. [Published Version]
+ HCIL-2006-16
+ [Link to Report]
+ Kules, B., Kustanowitz, J., Shneiderman, B. (2006)
+Categorizing Web Search Results into Meaningful and Stable Categories using Fast-Feature techniques
+ Proceedings of the 6th ACM/IEEE-CS Joint Conference on Digital libraries (Chapel Hill, NC, USA, June 11 - 15, 2006). JCDL '06. ACM Press, New York, NY. 210-219. [Published Version]
+ HCIL-2006-15
+ [HTML]  [Link to Report]
+ Kules, B. (April 2006)
+Supporting Exploratory Web Search with Meaningful and Stable Categorized Overviews
+ Ph.D. Dissertation from the Department of Computer Science
+ HCIL-2006-14
+ [Link to Report]
+ Lee, B., Plaisant, C., Parr, C., Fekete, J., Henry, N. (May 2006)
+Task Taxonomy for Graph Visualization
+Proceedings of BELIV '06, pp.81-85.
+ HCIL-2006-13
+ [HTML]  [Link to Report]
+ Shneiderman, B., Plaisant, C. (May 2006)
+Strategies for Evaluating Information Visualization Tools: Multi-dimensional In-depth Long-term Case Studies
+Proceedings of BELIV '06, pp.38-43.
+ HCIL-2006-12
+ [HTML]  [Link to Report]
+ Parhi, P., Karlson, A., Bederson, B. (May 2006)
+Target Size Study for One-Handed Thumb Use on Small Touchscreen Devices
+Proceedings of MobileHCI 2006, ACM Press, pp. 203-210.
+ HCIL-2006-11
+ [HTML]  [Link to Report]
+ Kang, H., Plaisant, C., Lee, B., Bederson, B. (May 2006)
+NetLens: Iterative Exploration of Content-Actor Network Data
+Proceedings of IEEE Symposium on Visual Analytics Science and Technology (VAST 2006), 91 - 98.
+ HCIL-2006-10
+ [HTML]  [Link to Report]
+ Cockburn, A., Karlson, A., Bederson, B. (April 2006)
+A Review of Focus and Context Interfaces
+To appear in ACM Computing Surveys as A Review of Overview+Detail, Zooming, and Focus+Context Interfaces. ACM Computing Surveys.
+ HCIL-2006-09
+ [HTML]  [Link to Report]
+ Perer, A., Smith, M. (April 2006)
+Contrasting Portraits of Email Practices: Visual Approaches to Reflection and Analysis
+ Proceedings of  Conference on Advanced Visual Interfaces (AVI). 2006, ACM Press: Venezia, Italy, p.389-395.
+ HCIL-2006-08
+ [HTML]  [Link to Report]
+ Kim, B., Lee, B., Seo, J. (April 2006)
+Visualizing Concordance of Sets
+ HCIL-2006-07
+ [HTML]  [Link to Report]
+ Zhao, H. (April 2006)
+Interactive Sonificaton of Abstract Data - Framework, Design Space, Evaluation, and User Tool
+ Ph.D. Dissertation from the Department of Computer Science
+ HCIL-2006-06
+ [Link to Report]
+ Herrnson, P., Bederson, B. (March 2006)
+A Study of Vote Verification Technology Conducted for the Maryland State Board of Elections
+ HCIL-2006-05
+ [HTML]  [Link to Report]
+ Lee, B., Parr, C., Plaisant, C., Bederson, B., Veksler, V., Gray, W., Kotfila, C. (February 2006)
+TreePlus: Interactive Exploration of Networks with Enhanced Tree Layouts
+IEEE Transactions Transactions on Visualization and Computer Graphics, 12, 6, 1414-1426.
+ HCIL-2006-04
+ [HTML]  [Link to Report]
+ Chipman, L., Druin, A., Beer, D., Fails, J., Guha, M., Simms, S. (February 2006)
+A Case Study of Tangible Flags: A Collaborative Technology to Enhance Field Trips
+ To appear in Interaction Design and Children 2006, pp. 1-8.
+ HCIL-2006-03
+ [HTML]  [Link to Report]
+ Karlson, A., Bederson, B. (January 2006)
+Understanding Single Handed Use of Handheld Devices.
+ Lumsden, Jo (Ed.), Handbook of Research on User Interface Design and Evaluation for Mobile Technology, Idea Group Reference, 86-101, 2007.
+ HCIL-2006-02
+ [HTML]  [Link to Report]
+ Plaisant, C., Rose, J., Yu, B., Auvil, L., Kirschenbaum, M., Smith, M., Clement, T., Lord, G. (January 2006)
+Exploring Erotics in Emily Dickinson's Correspondence with Text Mining and Visual Interfaces
+Proceedings of the 6th ACM/IEEE Joint Conference on Digital Libraries, JCDL 06, 141-150 (nominated for Best Paper award) [Published Version]
+ HCIL-2006-01
+ [HTML]  [Link to Report]
+2005
+ Hutchinson, H., Bederson, B., Druin, A. (December 2005)
+The Evolution of the International Children's Digital Library Searching and Browsing Interface
+Proceedings of the 2006 Conference on Interaction Design and Children, 2006, 105-112. [Published Version]
+ HCIL-2005-33
+ [HTML]  [Link to Report]
+ Hutchinson, H. (December 2005)
+Children's Interface Design for Searching and Browsing
+ Ph.D. Dissertation from the Department of Computer Science
+ HCIL-2005-32
+ [HTML]  [Link to Report]
+ Kules, B., Shneiderman, B. (December 2005)
+Using meaningful and stable categories to support exploratory web search: Two formative studies
+ HCIL-2005-31
+ [HTML]  [Link to Report]
+ Plaisant, C., Shneiderman, B., Baker, H., Duarte, N., Haririnia, A., Klinesmith, D., Lee, H., Velikovich, L., Wanga, A., Westhoff, M. (November 2005)
+Personal Role Management: Overview and a Design Study of Email for University Students
+To appear in: Kaptelinin, V., Czerwinski, M. (Eds) Integrated Digital Work Environments: Beyond the Desktop, MIT Press, (This is an expansion on HCIL-2003-30), (2007) 143-170.
+ HCIL-2005-30
+ [HTML]  [Link to Report]
+ Shneiderman, B., Bederson, B. (October 2005)
+Maintaining Concentration to Achieve Task Completion
+Proceedings of DUX 2005, no. 9. [Published Version]
+ HCIL-2005-29
+ [Link to Report]
+ Zhao, H., Plaisant, C., Shneiderman, B. (October 2005)
+A Framework for Auditory Data Exploration and Evaluation with Geo-referenced Data Sonification
+ This report was updated and improved by TR HCIL-2006-22
+ HCIL-2005-28
+ [HTML]  [Link to Report]
+ Hutchinson, H., Druin, A., Bederson, B., Reuter, K., Rose, A., Weeks, A. (August 2005)
+How do I Find Blue Books About Dogs? The Errors and Frustrations of Young Digital Library Users
+Proceedings of HCII 2005, Las Vegas, NV (CD-ROM).
+ HCIL-2005-27
+ [HTML]  [Link to Report]
+ Perer, A., Shneiderman, B. (Sept 2005)
+Beyond Threads: Identifying Discussions in Email Archives
+ Extended Abstracts of IEEE Information Visualization (InfoVis). 2005, IEEE Press: Minneapolis, USA, p. 41 - 42.
+ HCIL-2005-26
+ [Link to Report]
+ Fails, J., Karlson, A., Shahamat, L., Shneiderman, B. (April 2006)
+A Visual Interface for Multivariate Temporal Data: Finding Patterns of Events over Time
+Proceedings of IEEE Symposium on Visual Analytics Science and Technology (VAST 2006), 167-174.
+ HCIL-2005-25
+ [HTML]  [Link to Report]
+ Hutchinson, H., Bederson, B., Druin, A. (Sept 2005)
+Interface Design for Children's Searching and Browsing
+ HCIL-2005-24
+ [HTML]  [Link to Report]
+ Lee, B., Parr, C., Plaisant, C., Bederson, B. (Sept 2005)
+Visualizing Graphs as Trees: Plant a Seed and Watch it Grow
+Proceedings of Graph Drawing 2005, pp. 516-518.
+ HCIL-2005-23
+ [HTML]  [Link to Report]
+ Seo, J., Shneiderman, B. (August 2005)
+Knowledge Discovery in High Dimensional Data: Case Studies and a User Survey for an Information Visualization Tool
+IEEE Transactions on Visualization and Computer Graphics 12, (May/June, 2006), 311-322.
+ HCIL-2005-22, CS-TR-4743, UMIACS-TR-2005-46, ISR-TR-2005-100
+ [HTML]  [Link to Report]
+ Kustanowitz, J., Shneiderman, B. (July 2005)
+Hierarchical layouts for photo libraries
+IEEE MultiMedia, 13, 4, Oct-Dec 2006, 62-72.
+ HCIL-2005-21, CS-TR-4744, UMIACS-TR-2005-47, ISR-TR-2005-101
+ [HTML]  [Link to Report]
+ Seo, J. (May 2005)
+Information Visualization Design for Multidimensional Data: Integrating the Rank-By-Feature Framework with Hierarchical Clustering
+ Ph.D. Dissertation from the Dept. of Computer Science
+ HCIL-2005-20, CS-TR-4745, UMIACS-TR-2005-48
+ [HTML]  [Link to Report]
+ Kules, B., Shneiderman, B. (May 2005)
+Catergorized Overviews for Web Search Results: Two Exploratory Studies in the U.S. Government Domain
+ HCIL-2005-19, CS-TR-4746, UMIACS-TR-2005-49
+ [Link to Report]
+ Smith, B. (May 2005)
+Multiple Small Maps as an Information Seeking Tool
+ HCIL-2005-17, CS-TR-4748, UMIACS-TR-2005-51
+ [HTML]  [Link to Report]
+ Komlodi, A., Alburo, J., Preece, J., Druin, A., Elkiss, A., Resnik, P. (May 2005)
+Evaluation a Cross-Cultural Children's Online Book Community: Sociability, Usability, and Cultural Exchange
+ To appear in Interacting with Computers
+ HCIL-2005-15, CS-TR-4749, UMIACS-TR-2005-52
+ [HTML]  [Link to Report]
+ Norman, K., Campbell, S. (May 2005)
+Pet Enumeration: Usability Testing of U.S. Census Bureau Data Collection Methods Avoiding Protected Personal Data
+ HCIL-2005-14, CS-TR-4750, UMIACS-TR-2005-53
+ [HTML]  [Link to Report]
+ Zhao, H., Plaisant, C. (May 2005)
+InterSon: Interactive Sonification for Geo-referenced Data Exploration for the Vision Impaired
+ HCIL-2005-13, CS-TR-4751, UMIACS-TR-2005-54
+ [HTML]  [Link to Report]
+ Seo, J., Shneiderman, B. (May 2005)
+Using Categorical Information in Multidimensional Data Sets: Interactive Partition and Cluster Comparison
+ HCIL-2005-12, CS-TR-4752, UMIACS-TR-2005-55, ISR-TR-2005-102
+ [HTML]  [Link to Report]
+ Liao, C., Guimbretière, F., Hinckley, K. (May 2005)
+PapierCraft: A System for Interactive Paper
+Proceedings of the 18th Annual ACM Symposium on User Interface Software and Technology, 2005, 241-244. [Published Version]
+ HCIL-2005-11, CS-TR-4753, UMIACS-TR-2005-56
+ [HTML]  [Link to Report]
+ Kang, H., Hawala, S., Zayatz, L. (April 2005)
+IDFinder: Data Visualization for Checking Re-identifiability in Microdata
+To appear in the Proc. of International Conference on Human Computer Interaction 2005
+ HCIL-2005-10, CS-TR-4704, UMIACS-TR-2005-12
+ [HTML]  [Link to Report]
+ Fails, J., Druin, A., Guha, M., Chipman, L., Simms, S. (April 2005)
+Child's Play: A Comparison of Desktop and Physical Interactive Environments
+Proceeding of the 2005 conference on Interaction design and children, 2005, 48-55. [Published Version]
+ HCIL-2005-09, CS-TR-4705, UMIACS-TR-2005-13
+ [HTML]  [Link to Report]
+ Perer, A., Shneiderman, B., Oard, D. (March 2005)
+Using Rhythms of Relationships to Understand Email Archives
+Journal of the American Society of Information Science & Technology 57, 14 (2006), 1936-1948.
+ HCIL-2005-08, CS-TR-4706, UMIACS-TR-2005-14, ISR-TR-2005-82
+ [HTML]  [Link to Report]
+ Parr, C., Espinosa, R., Myers, P. (March 2005)
+Serving Computational Ecology From a Digital Library
+ HCIL-2005-07, CS-TR-4707, UMIACS-TR-2005-15
+ [HTML]  [Link to Report]
+ Parr, C., Cummings, M. (March 2005)
+Data Sharing in Ecology and Evolution: Why Not?
+Trends in Ecology and Evolution, July 2005.
+ HCIL-2005-06, CS-TR-4708, UMIACS-TR-2005-16
+ [HTML]  [Link to Report]
+ Eaton, C., Plaisant, C., Drizd, T. (March 2005)
+Visualizing Missing Data: Classification and Empirical Study
+Proc. of INTERACT 2005, Springer, Berlin (861-872). Springer Link: http://dx.doi.org/10.1007/11555261_68
+ HCIL-2005-05, CS-TR-4709, UMIACS-TR-2005-17
+ [HTML]  [Link to Report]
+ Axelrod, A., Golbeck, J., Shneiderman, B. (February 2005)
+Generating and Querying Semantic Web Environments for Photo Libraries
+ HCIL-2005-04, CS-TR-4710, UMIACS-TR-2005-18, ISR-TR-2005-75
+ [HTML]  [Link to Report]
+ Kustanowitz, J., Shneiderman, B. (February 2005)
+Meaningful Presentations of Photo Libraries: Rationale and Applications of Bi-Level Radial Quantum Layouts
+Proc. ACM/IEEE Joint Conference on Digital Libraries,June 2005, 188-196. Winner Best Student Paper Award [Published Version]
+ HCIL-2005-03, CS-TR-4711, UMIACS-TR-2005-19, ISR-TR-2005-74
+ [HTML]  [Link to Report]
+ Plaisant, C., Shneiderman, B. (February 2005)
+Show Me! Guidelines for Producing Recorded Demonstrations
+Proceedings of 2005 IEEE Symposium on Visual Languages and Human-Centric Computing,  (VL/HCC'05), 171 - 178. [Published Version]
+ HCIL-2005-02, CS-TR-4712, UMIACS-TR-2005-20, ISR-TR-2005-72
+ [HTML]  [Link to Report]
+ Aris, A., Shneiderman, B., Plaisant, C., Shmueli, G., Jank, W. (February 2005)
+Representing Unevenly-Spaced Time Series Data for Visualization and Interactive Exploration
+Proc. of INTERACT 2005,  Springer, Berlin (835-846). Springer Link http://dx.doi.org/10.1007/11555261_66
+ HCIL-2005-01, CS-TR-4713, UMIACS-TR-2005-21, ISR-TR-2005-73
+ [HTML]  [Link to Report]
+2004
+ Baehrecke, E., Dang, N., Babaria, K., Shneiderman, B. (June 2004)
+Visualization and Analysis of Microarray and Gene Ontology Data with Treemaps
+BMC Bioinformatics 2004,5:84 (28 June 2004)
+ HCIL-2004-39, CS-TR-4714, UMIACS-TR-2005-22
+ [HTML]  [Link to Report]
+ Kules, B., Shneiderman, B. (January 2005)
+Categorized Graphical Overviews for Web Search Results: An Exploratory Study Using U.S. Government Agencies as a Meaningful and Stable Structure
+Proc. Third Annual Workshop on HCI Research in MIS, December 2004, Washington, DC Organized by AIS SIGHCI (December 2004), 20-23. http://business.wm.edu/scott.mccoy/hci04_proceedings_only.pdf
+ HCIL-2004-38, CS-TR-4715, UMIACS-TR-2005-23, ISR-TR-2005-71
+ [HTML]  [Link to Report]
+ Karlson, A., Bederson, B., SanGiovanni, J. (January 2005)
+AppLens and LaunchTile: Two Designs for One-Handed Thumb Use on Small Devices
+Proc. of SIGCHI Conference on Human Factors in Computing Systems, (CHI 2005), 201-210. [Published Version]
+ HCIL-2004-37, CS-TR-4716, UMIACS-TR-2005-24
+ [HTML]  [Link to Report]
+ Plaisant, C. (January 2005)
+Information Visualization and the Challenge of Universal Access
+In Exploring Geovisualization (Eds, J. Dykes, A. MacEachren and M.J. Kraak), Oxford: Elsevier (2005) 53-82.
+ HCIL-2004-36, CS-TR-4717, UMIACS-TR-2005-25
+ [HTML]  [Link to Report]
+ Zhao, H., Plaisant, C., Shneiderman, B. (January 2005)
+"I Hear the Pattern" - Interactive Sonification of Geographical Data Patterns
+ACM SIGCHI 2005 Extended Abstracts on Human Factors in Computing Systems [Published Version]
+ HCIL-2004-35, CS-TR-4718, UMIACS-TR-2005-26, ISR-TR-2005-64
+ [HTML]  [Link to Report]
+ Lee, B., Czerwinski, M., Robertson, G., Bederson, B. (January 2005)
+Understanding Research Trends in Conferences Using PaperLens
+Extended Abstracts of the SIGCHI Conference on Human Factors in Computing Systems, (CHI 2005), 1969-1972. [Published Version]
+ HCIL-2004-34, CS-TR-4719, UMIACS-TR-2005-27
+ [HTML]  [Link to Report]
+ Good, L., Stefik, M., Bederson, B. (November 2004)
+A Comparison of Zoomable User Interfaces and Folders For Grouping Visual Objects
+ HCIL-2004-33, CS-TR-4641, UMIACS-TR-2004-83
+ [HTML]  [Link to Report]
+ Seo, J., Shneiderman, B. (November 2004)
+Knowledge Integration Framework for Information Visualization
+ In Hemmje, M, Niederee, C., and Risse, T. (Editors), From Intergrated Publication and Information Systems to Virtual Information and Knowledge Environments, Springer Lecture Notes in Computer Science, Berlin (2005), 207-220.
+ HCIL-2004-32, CS-TR-4640, UMIACS-TR-2004-82, ISR-TR-2005-63
+ [HTML]  [Link to Report]
+ Seo, J., Shneiderman, B. (November 2004)
+A Rank-by-Feature Framework for Interactive Exploration of Multidimensional Data
+Information Visualization, 4, 2 (June 2005), 99-113.
+ HCIL-2004-31, CS-TR-4639, UMIACS-TR-2004-81, ISR-TR-2005-62
+ [HTML]  [Link to Report]
+ Plaisant, C., Fekete, J., Grinstein, G.
+Promoting Insight Based Evaluation of Visualizations: From Contest to Benchmark Repository
+ Promoting Insight Based Evaluation of Visualizations: From Contest to Benchmark Repository, ACM Transactions on Visualization and Computer Graphics , 14, 1 (2008) 120-134 [Published Version]
+ HCIL-2004-30
+ [HTML]  [Link to Report]
+ Shneiderman, B. (November 2004)
+Why Not Make User Interfaces Better Than 3D Reality?
+IEEE Computer Graphics & Applications 23, 6 (November/December 2003), 12-15.
+ HCIL-2004-29, CS-TR-4638, UMIACS-TR-2004-80, ISR-TR-2005-61
+ [HTML]  [Link to Report]
+ Marchionini, G., Haas, S., Plaisant, C., Shneiderman, B., Hert, C. (November 2004)
+Project Highlight: Toward a Statistical Knowledge Network
+Proc. National Conference on Digital Government Research, (2004), 93-94 http://www.dgrc.org/dgo2004 [Published Version]
+ HCIL-2004-28, CS-TR-4637, UMIACS-TR-2004-79, ISR-TR-2005-60
+ [HTML]  [Link to Report]
+ Shneiderman, B. (November 2004)
+Designing For Fun: How to Make User Interfaces More Fun
+ACM Interactions 11, 5 (Sept-Oct 2004), 48-50. [Published Version]
+ HCIL-2004-27, CS-TR-4636, UMIACS-TR-2004-78, ISR-TR-2005-59
+ [HTML]  [Link to Report]
+ Hochheiser, H., Shneiderman, B. (November 2004)
+Dynamic Query Tools for Time Series Data Sets, Timebox Widgets for Interactive Exploration
+Information Visualization 3, 1 (March 2004), 1-18.
+ HCIL-2004-26, CS-TR-4635, UMIACS-TR-2004-77, ISR-TR-2005-58
+ [HTML]  [Link to Report]
+ Buono, P., Aris, A., Plaisant, C., Khella, A., Shneiderman, B. (October 2004)
+Interactive Pattern Search in Time Series
+Proceedings of Conference on Visualization and Data Analysis, VDA 2005, SPIE, Washington DC (2005) 175-186.
+ HCIL-2004-25, CS-TR-4634, UMIACS-TR-2004-76, ISR-TR-2005-57
+ [HTML]  [Link to Report]
+ Hutchinson, H., Rose, A., Bederson, B., Weeks, A., Druin, A. (September 2004)
+The International Children's Digital Library: A Case Study in Designing for a Multi-Lingual, Multi-Cultural, Multi-Generational Audience
+Information Technology and Libraries, American Library Association, March 2005, 24, 1, 4-12.
+ HCIL-2004-24, CS-TR-4650, UMIACS-TR-2005-11
+ [HTML]  [Link to Report]
+ Zhao, H., Smith, B., Norman, K., Plaisant, C., Shneiderman, B. (May 2004)
+Interactive Sonification of Choropleth Maps: Design and Evaluation
+IEEE multimedia, Special issue on Interactive Sonification,  12, 2 (2005) 26 -35. [Published Version]
+ HCIL-2004-23, CS-TR-4651, ISR-TR-2005-56
+ [HTML]  [Link to Report]
+ Conroy, K., Levin, D., Guimbretière, F. (May 2004)
+ProofRite: A Paper-Augmented Word Processor
+ This paper has been submitted to UIST 2004.
+ HCIL-2004-22, CS-TR-4652
+ [HTML]  [Link to Report]
+ Apitz, G., Guimbretière, F. (May 2004)
+CrossY A Crossing Based Drawing Application
+Proc. Of the 17th annual ACM Symposium on User Interface Software and Technology (2004) Sante Fe, NM, USA, 3-12. [Published Version]
+ HCIL-2004-21, CS-TR-4653
+ [HTML]  [Link to Report]
+ Khella, A., Bederson, B. (May 2004)
+Pocket PhotoMesa: A Zooming Image Browser for PDA's
+Proc. of Mobile and Ubiquitous Multimedia (MUM 2004), ACM Press, p.19-24.
+ HCIL-2004-20, CS-TR-4654
+ [HTML]  [Link to Report]
+ Plaisant, C. (May 2004)
+The Challenge of Information Visualization Evaluation
+ Proc. of Conf. on Advanced Visual Interfaces AVI'04 (2004), p.109-116. [Published Version]
+ HCIL-2004-19, CS-TR-4655
+ [HTML]  [Link to Report]
+ Kustanowitz, J., Shneiderman, B. (May 2004)
+Motivating Annotation for Digital Photographs: Lowering Barriers While Raising Incentives
+ HCIL-2004-18, CS-TR-4656, ISR-TR-2005-55
+ [HTML]  [Link to Report]
+ Norman, K., Panizzi, E. (May 2004)
+Levels of Automation and User Participation in Usability Testing
+ HCIL-2004-17, CS-TR-4657
+ [HTML]  [Link to Report]
+ Druin, A. (May 2004)
+The Role of Books, Libraries, Technology, and Culture in Children's Lives: An International case study
+ HCIL-2004-16, CS-TR-4658
+ [HTML]  [Link to Report]
+ Suh, B., Bederson, B. (April 2004)
+Semi-Automatic Photo Annotation Strategies Using Event Based Clustering and Clothing Based Person Recognition
+Interacting With Computers, Elsevier, 19, 4 (Jul. 2007), 524-544. [Published Version]
+ HCIL-2004-15, CS-TR-4659
+ [HTML]  [Link to Report]
+ Klein, C., Bederson, B. (April 2004)
+Benefits of Animated Scrolling
+Proceedings of Extended Abstracts of Human Factors in Computing Systems (CHI 2005) ACM Press, Short Paper, pp. 1965-1968.
+ HCIL-2004-14, CS-TR-4660
+ [HTML]  [Link to Report]
+ Seo, J., Shneiderman, B. (October 2004)
+A Rank-by-Feature Framework for Unsupervised Multidimensional Data Exploration Using Low Dimensional Projections
+Proc. IEEE Information Visualization Symposium, IEEE Press, Austin, TX (October 2004), 65-72. [Published Version]
+ HCIL-2004-13, CS-TR-4661, ISR-TR-2005-54
+ [HTML]  [Link to Report]
+ Lazar, J., Jones, A., Shneiderman, B. (April 2004)
+Workplace user frustration with computers: An exploratory investigation of the causes and severity
+Behaviour & Information Technology 25 3 (May-June 2006), 239-251.
+ HCIL-2004-12, CS-TR-4662, ISR-TR-2005-53
+ [HTML]  [Link to Report]
+ Chintalapani, G., Plaisant, C., Shneiderman, B. (April 2004)
+Extending the Utility of Treemaps with Flexible Hierarchy
+Proc. International Conference on Information Visualization, (2004), 335-344.
+ HCIL-2004-10, CS-TR-4663, ISR-TR-2005-52
+ [HTML]  [Link to Report]
+ Golub, E. (March 2004)
+On Audience Activities During Presentations
+Journal of Computing Sciences in Colleges, 20, 3, February 2005, pp. 38-47.
+ HCIL-2004-09, CS-TR-4664
+ [HTML]  [Link to Report]
+ Golub, E. (March 2004)
+Supporting Faculty Goals During Student Presentations via Electronic Note-Taking
+Frontiers in Education 2, FIE 2004, pp. F4E13-F4E16 [Published Version]
+ HCIL-2004-08, CS-TR-4665
+ [HTML]  [Link to Report]
+ Mosolov, A., Bederson, B. (March 2004)
+Evaluation of Serial Periodic, Multi-Variable Data Visualizations
+ HCIL-2004-07, CS-TR-4666
+ [HTML]  [Link to Report]
+ Parr, C., Lee, B., Campbell, D., Bederson, B. (March 2004)
+Visualizations for Taxonomic and Phylogenetic Trees
+Bioinformatics, Oxford University Press, 20 (17), pp. 2997-3004.
+ HCIL-2004-06, CS-TR-4667
+ [HTML]  [Link to Report]
+ Kang, H., Shneiderman, B. (February 2004)
+Personal media exploration: A spatial interface to user-designed semantic regions
+Journal of Visual Languages and Computing 17, 3 (2006), 254-283.
+ HCIL-2004-05, CS-TR-4668, ISR-TR-2005-51
+ [HTML]  [Link to Report]
+ Zhao, H., Plaisant, C., Shneiderman, B., Duraiswami, R. (February 2004)
+Sonification of Geo-Referenced Data for Auditory Information Seeking: Design Principle and Pilot Study
+Proc. International Conference on Auditory Displays (2004), (http://www.icad.org)
+ HCIL-2004-04, CS-TR-4669, ISR-TR-2005-36
+ [HTML]  [Link to Report]
+ Seo, J., Shneiderman, B. (February 2004)
+Understanding Clusters in Multidimensional Spaces: Making Meaning by Combining Insights from Coordinated Views of Domain Knowledge
+ HCIL-2004-03, CS-TR-4670, ISR-TR-2005-50
+ [HTML]  [Link to Report]
+ Reuter, K., Druin, A. (January 2004)
+Bringing Together Children and Books: An Initial Descriptive Study of Children's Book Searching and Selection Behavior in a Digital Library
+Proc. American Society for Information Science and Technology Conference (ASIST), Providence, RI.
+ HCIL-2004-02, CS-TR-4671
+ [HTML]  [Link to Report]
+ Guha, M., Druin, A., Chipman, L., Fails, J., Simms, S. (January 2004)
+Mixing Ideas: A New Technique for Working with Young Children as Design Partners
+Proc of Interaction Design and Children (IDC) 2004 Conference, 35-42. [Published Version]
+ HCIL-2004-01, CS-TR-4672
+ [HTML]  [Link to Report]
+2003
+ Montemayor, J.
+Physical Programming: Tools for Kindergarten Children to Author Physical Interactive Environments
+ Ph.D. Dissertation from the Department of Computer Science
+ HCIL-2003-46
+ [Link to Report]
+ Eaton, C., Plaisant, C., Drizd, T. (December 2003)
+The Challenge of Missing and Uncertain Data
+ In Visualization 2003 Conference poster abstract compendium, IEEE, (2003) 40-41 [Published Version]
+ HCIL-2003-45, CS-TR-4673
+ [Link to Report]
+ Seo, J., Bakay, M., Chen, Y., Hilmer, S., Shneiderman, B., Hoffman, E. (December 2003)
+Building a Coherent Data Pipeline in Microarray Data Analyses: Optimization of Signal/Noise Ratios Using an Interactive Visualization Tool and a Novel Noise Filtering Method
+Bioinformatics 20, (2004), 2534-2544. http://bioinformatics.oupjournals.org/cgi/content/abstract/20/16/2534?etoc
+ HCIL-2003-44, CS-TR-4674, ISR-TR-2005-49
+ [HTML]  [Link to Report]
+ Kang, H. (November 2003)
+Managing and Exporing Personal Media Using Semantic Regions: A Spatial Interface Supporting User-Defined Mental Models
+ Ph.D. Dissertation from the Dept. of Computer Science
+ HCIL-2003-43, CS-TR-4675
+ [Link to Report]
+ Hutchinson, H. (November 2003)
+Children's Interface Design for Hierarchical Search and Browse
+ In ACM SIGCAPH Newsletter. ACM Press, pp. 11-12. [Published Version]
+ HCIL-2003-42, CS-TR-4676
+ [HTML]  [Link to Report]
+ Good, L. (October 2003)
+Zoomable User Interfaces for the Authoring and Delivery of Slide Presentations
+ Ph.D. Dissertation from the Dept. of Computer Science
+ HCIL-2003-41, CS-TR-4677
+ [HTML]  [Link to Report]
+ Parr, C., Lee, B., Campbell, D., Bederson, B. (October 2003)
+TaxonTree: Visualizing Biodiversity Information
+Proceedings of AVI, (2004), 320-327.
+ HCIL-2003-40, CS-TR-4678
+ [HTML]  [Link to Report]
+ Druin, A. (October 2003)
+What Children Can Teach Us: Developing Digital Libraries for Children with Children
+ A revised version of this paper will be published in Library Quarterly
+ HCIL-2003-39, CS-TR-4679
+ [HTML]  [Link to Report]
+ Plaisant, C., Bederson, B., Clamage, A., Hutchinson, H., Druin, A. (October 2003)
+Shared Family Calendars: Promoting Symmetry and Accessibility
+ACM Transactions on Computer-Human Interaction, 13, 3 (2006) 313 - 346. [Published Version]
+ HCIL-2003-38, CS-TR-4680
+ [HTML]  [Link to Report]
+ Bederson, B. (October 2003)
+Interfaces for Staying in the Flow
+ Published as:
+ Bederson, B. B. (2004) Interfaces for Staying in the Flow. In Ubiquity, ACM Press, (5) 27.
+ HCIL-2003-37, CS-TR-4681
+ [HTML]  [Link to Report]
+ Rivadeneira, A., Bederson, B. (October 2003)
+A Study of Search Result Clustering Interfaces: Comparing Textual and Zoomable User Interfaces
+ HCIL-2003-36, CS-TR-4682
+ [HTML]  [Link to Report]
+ Golub, E. (September 2003)
+Handwritten Slides on a TabletPC in a Discrete Mathematics Course
+ To appear in the Proceeding of the 35th SIGCSE Technical Symposium on Computer Science Education, 2004, 51-55. [Published Version]
+ HCIL-2003-35, CS-TR-4683
+ [HTML]  [Link to Report]
+ Golub, E. (September 2003)
+Using the BIRD Note-taking System During In-Class Presentations: An Example in an HCI Class
+ HCIL-2003-34, CS-TR-4684
+ [HTML]  [Link to Report]
+ Shneiderman, B. (September 2003)
+Promoting Universal Usability with Multi-Layer Interface Design
+ACM Conference on Universal Usability, ACM Press, New York (2003), 1-8. [Published Version]
+ HCIL-2003-33, CS-TR-4685, ISR-TR-2005-48
+ [HTML]  [Link to Report]
+ Fekete, J., Wang, D., Dang, N., Aris, A., Plaisant, C. (August 2003)
+Overlaying Graph Links on Treemaps
+In Information Visualization 2003 Symposium Poster Compendium, IEEE, (2003) 82-83
+ HCIL-2003-32, CS-TR-4686
+ [HTML]  [Link to Report]
+ Ceaparu, I., Shneiderman, B. (June 2003)
+Finding Governmental Statistical Data on the Web: A study of categorically organized links for the FedStats Topics Page
+Journal of the American Society of Information Science & Technology 55, 11 (2004), 1008-1015
+ HCIL-2003-31, CS-TR-4513, UMIACS-TR-2003-81, ISR-TR-2005-47
+ [HTML]  [Link to Report]
+ Baker, H., Duarte, N., Haririnia, A., Klinesmith, D., Lee, H., Velikovich, L., Wanga, A., Westhoff, M., Plaisant, C. (June 2003)
+A Design Study of the Integration of Email and Role Management for University Students
+ (This TR was revised and expanded into HCIL-2005-30)
+ HCIL-2003-30, CS-TR-4687
+ [HTML]  [Link to Report]
+ Lazar, J., Bessiere, K., Ceaparu, I., Robinson, J., Shneiderman, B. (May 2003)
+Help! I'm Lost: User Frustration in Web Navigation
+ IT&SOCIETY, (1), 3, WINTER 2003, 18-26. http://www.ITandSociety.org [Published Version]
+ HCIL-2003-29, CS-TR-4688, ISR-TR-2005-46
+ [HTML]  [Link to Report]
+ Munzner, T., Guimbretière, F., Tasiran, S., Zhang, L., Zhou, Y. (April 2003)
+TreeJuxtaposer: Scalable Tree Comparison using Focus+Context with Guaranteed Visibility
+ To appear in proceedings of SigGraph 2003. [Published Version]
+ HCIL-2003-28, CS-TR-4489, UMIACS-TR-2003-58
+ [Link to Report]
+ Knudtzon, K., Druin, A., Kaplan, N., Summers, K., Chisik, Y., Kulkarni, R., Moulthrop, S., Weeks, H., Bederson, B. (April 2003)
+Starting an Intergenerational Technology Design Team: A Case Study
+Proc. Interaction Design and Children (IDC' 2003), Lancashire, England, 51-58.
+ HCIL-2003-27, CS-TR-4689
+ [HTML]  [Link to Report]
+ Zhao, P., Seo, J., Wang, Z., Wang, Y., Shneiderman, B., Hoffman, E. (April 2003)
+In vivo filtering of in vitro MyoD target data: An approach for identification of biologically relevant novel downstream targets of transcription factors
+Comptes Rendus Biologies 326 (2003), 1049-1065.
+ HCIL-2003-26, CS-TR-4690, ISR-TR-2005-45
+ [Link to Report]
+ Seo, J., Shneiderman, B. (April 2003)
+Interactive Exploration of Multidimensional Microarray Data: Scatterplot Ordering, Gene Ontology Browser, and Profile Search
+ HCIL-2003-25, CS-TR-4486, UMIACS-TR-2003-55, ISR-TR-2005-68
+ [HTML]  [Link to Report]
+ Seo, J., Bakay, M., Zhao, P., Chen, Y., Clarkson, P., Shneiderman, B., Hoffman, E. (April 2003)
+Interactive Color Mosaic and Dendrogram Displays for Signal/Noise Optimization in Microarray Data Analysis
+Proceedings IEEE International Conference on Multimedia and Expo, July 6-9, 2003, Baltimore, MD (http://www.icme2003.com) [Published Version]
+ HCIL-2003-24, ISR-TR-2005-44
+ [HTML]  [Link to Report]
+ Norman, K., Zhao, H., Shneiderman, B., Golub, E. (June 2003)
+Dynamic Query Chloropleth Maps for Information Seeking and Decision Making
+Proc. Human-Computer Interaction International 2003: Volume 2 Theory and Practice, Lawrence Erlbaum Associates, Mahwah, NJ (June 2003), 1263-1267. [Published Version]
+ HCIL-2003-23, CS-TR-4484, UMIACS-TR-2003-53, ISR-TR-2005-43
+ [HTML]  [Link to Report]
+ Kules, B., Kang, H., Plaisant, C., Rose, A., Shneiderman, B. (April 2003)
+Immediate Usability: A Case Study of Public Access Design for a Community Photo Library
+Interacting with Computers, 16, 3, December 2004, 1171-1193.
+ HCIL-2003-22, CS-TR-4481, UMIACS-TR-2003-50, ISR-TR-2005-42
+ [HTML]  [Link to Report]
+ Hourcade, J. (April 2003)
+User Interface Technologies and Guidelines to Support Children's Creativity, Collaboration, and Learning
+ Ph.D. Dissertation from the Dept. of Computer Science
+ HCIL-2003-21, CS-TR-4480, UMIACS-TR-2003-49
+ [HTML]  [Link to Report]
+ Hochheiser, H. (April 2003)
+Interactive Graphical Querying of Time Series and Linear Sequence Data Sets
+ Ph.D. dissertation from the Dept. of Computer Science
+ HCIL-2003-20, CS-TR-4479, UMIACS-TR-2003-48
+ [Link to Report]
+ Hochheiser, H., Baehrecke, E., Mount, S., Shneiderman, B. (April 2003)
+Dynamic Querying for Pattern Identification in Microarray and Genomic Data
+Proceedings IEEE International Conference on Multimedia and Expo, July 6-9, 2003, Baltimore, MD (http://www.icme2003.com) [Published Version]
+ HCIL-2003-19, CS-TR-4478, UMIACS-TR-2003-47, ISR-TR-2005-41
+ [HTML]  [Link to Report]
+ Hourcade, J., Bederson, B., Druin, A. (April 2003)
+Building KidPad: An Application for Children's Collaborative Storytelling
+Software: Practice & Experience, 34(9), 895-914.
+ HCIL-2003-18, CS-TR-4474, UMIACS-TR-2003-44
+ [HTML]  [Link to Report]
+ Hourcade, J., Bederson, B., Druin, A., Rose, A., Takayama, Y. (April 2003)
+The International Children's Digital Library: Viewing Digital Books Online
+Interacting with Computers, 15, 151-167.
+ HCIL-2003-17, CS-TR-4473, UMIACS-TR-2003-43
+ [HTML]  [Link to Report]
+ Hourcade, J., Bederson, B., Druin, A., Guimbretière, F. (April 2003)
+Accuracy, Target Reentry and Fitts' Law Performance of Preschool Children Using Mice
+ACM Transactions on Computer Human Interaction(TOCHI). [Published Version]
+ HCIL-2003-16, CS-TR-4472, UMIACS-TR-2003-42
+ [HTML]  [Link to Report]
+ Chipman, L., Bederson, B., Golbeck, J. (April 2003)
+SlideBar: Analysis of a linear input device
+Journal of Behavior and Information Technology, 23 (1), pp 1-9.
+ HCIL-2003-15, CS-TR-4471, UMIACS-TR-2003-41
+ [HTML]  [Link to Report]
+ Guimbretière, F. (April 2003)
+Paper Augmented Digital Documents
+Proceedings of the 16th Annual ACM Symposium on User Interface Software and Technology, 2003, 51 - 60 [Published Version]
+ HCIL-2003-14, CS-TR-4470, UMIACS-TR-2003-40
+ [HTML]  [Link to Report]
+ Suh, B., Ling, H., Bederson, B., Jacobs, D. (April 2003)
+Automatic Thumbnail Cropping and its Effectiveness
+ACM Conference on User Interface and Software Technolgy (UIST 2003), pp. 95-104, and won best student paper award. [Published Version]
+ HCIL-2003-13, CS-TR-4469, UMIACS-TR-2003-39
+ [HTML]  [Link to Report]
+ Lee, B., Bederson, B. (April 2003)
+Favorite Folders: A Configurable, Scalable File Browser
+ HCIL-2003-12, CS-TR-4468, UMIACS-TR-2003-38
+ [HTML]  [Link to Report]
+ Zhao, H., Plaisant, C., Shneiderman, B. (March 2003)
+Improving Accessibility and Usability of Geo-referenced Statistical Data
+Proc. of the Digital Government Research Conference, 147-150, http://www.dgrc.org/dgo2004 [Published Version]
+ HCIL-2003-11, CS-TR-4467, UMIACS-TR-2003-37, ISR-TR-2005-40
+ [HTML]  [Link to Report]
+ Kang, H., Plaisant, C., Shneiderman, B. (March 2003)
+New Approaches to Help Users Get Started with Visual Interfaces: Multi-Layered Interfaces and Integrated Initial Guidance
+Proc. of the Digital Government Research Conference, 141-146, http://www.dgrc.org/dgo2004 [Published Version]
+ HCIL-2003-10, CS-TR-4466, UMIACS-TR-2003-36, ISR-TR-2005-39
+ [HTML]  [Link to Report]
+ Kules, B., Shneiderman, B., Plaisant, C. (March 2003)
+Data Exploration with Paired Hierarchical Visualizations: Initial Designs of PairTrees
+Proc. of the Digital Government Research Conference, 255-260, http://www.dgrc.org/dgo2004
+ HCIL-2003-09, CS-TR-4465, UMIACS-TR-2003-35, ISR-TR-2005-38
+ [HTML]  [Link to Report]
+ Kules, B., Shneiderman, B. (March 2003)
+Designing a Metadata-Driven Visual Information Browser for Federal Statistics
+Proc. of the Digital Government Research Conference, 117-122.
+ HCIL-2003-08, CS-TR-4464, UMIACS-TR-2003-34, ISR-TR-2005-37
+ [HTML]  [Link to Report]
+ He, D., Wang, J., Oard, D., Nossal, M. (February 2003)
+Comparing User-assisted and Automatic Query Translation
+Proceedings of the 26th Annual International ACM SIGIR Conference on Research and Development in Informaion Retrieval, 2003, 461. [Published Version]
+ HCIL-2003-07, CS-TR-4453, UMIACS-TR-2003-23
+ [HTML]  [Link to Report]
+ Kim, J., Oard, D., Soergel, D. (January 2003)
+Searching Large Collections of Recorded Speech: A Preliminary Study
+Proceedings of ASIS&T 2003 Annual Meeting, October 19-22, 2003, Long Beach, CA
+ HCIL-2003-06, CS-TR-4450, UMIACS-TR-2003-20
+ [HTML]  [Link to Report]
+ Montemayor, J., Druin, A., Chipman, L., Guha, M. (January 2003)
+Sensing, Storytelling, and Children: Putting Users in Control
+ HCIL-2003-05, CS-TR-4446, UMIACS-TR-2003-16
+ [HTML]  [Link to Report]
+ Kang, H., Shneiderman, B. (January 2003)
+MediaFinder: An Interface for Dynamic Personal Media Management with Semantic Regions
+Proceedings of the Extended Abstract conference on human factor and computing systems, CHI2003, 668-669, Fort Lauderdale, April, 2003. [Published Version]
+ HCIL-2003-04, CS-TR-4445, UMIACS-TR-2003-15
+ [HTML]  [Link to Report]
+ Kang, H. (January 2003)
+Personal Media Exploration with Semantic Regions
+ Proceedings of the Extended Abstract conference on human factor and computing systems, CHI2003, 764-765, Fort Lauderdale, April, 2003. [Published Version]
+ HCIL-2003-03, CS-TR-4444, UMIACS-TR-2003-14
+ [HTML]  [Link to Report]
+ Druin, A., Bederson, B., Weeks, A., Grosjean, J., Guha, M., Hourcade, J., Lee, J., Liao, S., Reuter, K., Rose, A., Takayama, Y., Zhang, L. (January 2003)
+The International Children's Digital Library: Description and Analysis of First Use
+First Monday,http://firstmonday.org/issues/issue8_5/
+ HCIL-2003-02, CS-TR-4433, UMIACS-TR-2003-04
+ [HTML]   [Link to Report]
+ Bederson, B., Grosjean, J., Meyer, J. (January 2003)
+Toolkit Design for Interactive Structured Graphics
+IEEE Transactions on Software Engineering(TSE).
+ HCIL-2003-01, CS-TR-4432, UMIACS-TR-2003-03
+ [HTML]   [Link to Report]
+2002
+ Zhao, H., Shneiderman, B. (December 2002)
+Colour-Coded Pixel-Based Highly Interactive Web Mapping for Georeferenced Data Exploration
+International Journal of Georgraphical Information Science, 19, 4, 2005.
+ HCIL-2002-26, CS-TR-4431, UMIACS-TR-2003-02, ISR-TR-2005-35
+ [HTML]   [Link to Report]
+ Herrnson, P., Bederson, B., Abbe, O. (December 2002)
+An Evaluation of Maryland's New Voting Machine
+ HCIL-2002-25, CS-TR-4429, UMIACS-TR-2002-107
+ [HTML]   [Link to Report]
+ Hourcade, J. (November 2002)
+It's Too Small! Implications of Children's Developing Motor Skills on Graphical User Interfaces
+ HCIL-2002-24, CS-TR-4425, UMIACS-TR-2002-104
+ [HTML]   [Link to Report]
+ Bederson, B., Lee, B., Sherman, R., Herrnson, P., Niemi, R. (October 2002)
+Electronic Voting System Usability Issues
+ACM Conference on Computer-Human Interaction (CHI 2003), 145-152. [Published Version]
+ HCIL-2002-23, CS-TR-4414, UMIACS-TR-2002-94
+ [HTML]   [Link to Report]
+ Ceaparu, I. (October 2002)
+Governmental Statistical Data on the Web: A Case Study of FedStats
+ Revised December, 2002
+ HCIL-2002-22, CS-TR-4413, UMIACS-TR-2002-93
+ [HTML]  [Link to Report]
+ Hutchinson, H., Bederson, B., Plaisant, C., Druin, A. (October 2002)
+Family Calendar Survey
+ HCIL-2002-21, CS-TR-4412, UMIACS-TR-2002-92
+ [HTML]   [Link to Report]
+ Guimbretière, F. (September 2002)
+On Merging Command Selection and Direct Manipulation
+ HCIL-2002-20, CS-TR-4411, UMIACS-TR-2002-91
+ [Link to Report]
+ Bessiere, K., Ceaparu, I., Lazar, J., Robinson, J., Shneiderman, B. (2004)
+Social and Psychological Influences on Computer User Frustration
+ In Bucy, E. and Newhagen, J. (eds.) Media Access: Social and Psychological Dimensions of New Technology Use. Mahwah, NJ: Lawrence Erlbaum Associates, 169-192.
+ HCIL-2002-19, CS-TR-4410, UMIACS-TR-2002-90, ISR-TR-2005-34
+ [HTML]   [Link to Report]
+ Lazar, J., Jones, A., Hackley, M., Shneiderman, B. (2006)
+Severity and Impact of Computer User Frustration: A Comparison of Student and Workplace Users
+Interacting with Computers18(2), 187-207.
+ HCIL-2002-18, CS-TR-4409, UMIACS-TR-2002-89, ISR-TR-2005-33
+ [HTML]  [Link to Report]
+ Guimbretière, F. (September 2002)
+Measuring FlowMenu Performance
+ HCIL-2002-17, CS-TR-4408, UMIACS-TR-2002-88
+ [Link to Report]
+ Hutchinson, H., Bederson, B., Druin, A., Plaisant, C., Mackay, W., Evans, H., Hansen, H., Conversy, S., Beaudouin-Lafon, M., Roussel, N., Lacomme, L., Eiderbäck, B., Lindquist, S., Sundblad, Y., Westerlund, B. (September 2002)
+Technology Probes: Inspiring Design for and with Families
+ ACM Conference on Computer-Human Interaction (CHI 2003), pp. 17-24.
+ HCIL-2002-16, CS-TR-4407, UMIACS-TR-2002-87
+ [HTML]   [Link to Report]
+ Keogh, E., Hochheiser, H., Shneiderman, B. (August 2002)
+An Augmented Visual Query Mechanism for Finding Patterns in Time Series Data
+Proc. Fifth International Conference on Flexible Query Answering Systems (October 27 - 29, 2002, Copenhagen, Denmark), Springer-Verlag, in the series Lecture Notes in Artificial Intelligence. [Published Version]
+ HCIL-2002-15, CS-TR-4398, UMIACS-TR-2002-78, ISR-TR-2005-32
+ [HTML]   [Link to Report]
+ Shneiderman, B., Kang, H., Kules, B., Plaisant, C., Rose, A., Rucheir, R. (August 2002)
+A Photo History of SIGCHI: Evolution of Design from Personal to Public
+ACM Interactions, 9, 3 (May 2002), 17-23. [Published Version]
+ HCIL-2002-14, CS-TR-4397, UMIACS-TR-2002-77, ISR-TR-2005-67
+ [Link to Report]
+ Druin, A., Chipman, L., Julian, D., Somashekhar, S. (June 2002)
+How Young Can Our Design Partners Be?
+Proc. Participatory Design Conference (PDC' 2003),  Malmo, Sweden, 127-131.
+ HCIL-2002-13, CS-TR-4396, UMIACS-TR-2002-76
+ [HTML]   [Link to Report]
+ Ceaparu, I., Shneiderman, B. (May 2002)
+Improving Web-based Civic Information Access: A Case Study of the 50 US States
+Proc. 2002 International Symposium on Technology and Society (ISTAS'02), IEEE. [Published Version]
+ HCIL-2002-12, CS-TR-4372, UMIACS-TR-2002-52, ISR-TR-2005-31
+ [HTML]   [Link to Report]
+ Ceaparu, I., Lazar, J., Bessiere, K., Robinson, J., Shneiderman, B. (May 2002)
+Determining Causes and Severity of End-User Frustration
+International Journal of Human-Computer Interaction, 17, 3, (2004), 333-356.
+ HCIL-2002-11, CS-TR-4371, UMIACS-TR-2002-51, ISR-TR-2005-30
+ [HTML]  [Link to Report]
+ Seo, J., Shneiderman, B. (May 2002)
+Understanding Hierarchical Clustering Results by Interactive Exploration of Dendrograms: A Case Study with Genomic Microarray Data
+ Final version: "Interactively Exploring Hierarchical Clustering Results", IEEE Computer, Volume 35, Number 7, pp. 80-86, July 2002.
+ HCIL-2002-10, CS-TR-4370, UMIACS-TR-2002-50, ISR-TR-2005-29
+ [HTML]   [Link to Report]
+ Bederson, B., Clamage, A., Czerwinski, M., Robertson, G. (May 2002)
+DateLens: A Fisheye Calendar Interface for PDAs.
+ Appeared as "DateLens: A Fisheye Calendar Interface for PDAs" in Transactions on Computer-Human Interaction [Published Version]
+ HCIL-2002-09, CS-TR-4368, UMIACS-TR-2002-48
+ [HTML]   [Link to Report]
+ Golub, E., Shneiderman, B. (May 2002)
+Dynamic Query Visualizations on World Wide Web Clients: A DHTML Approach for Maps and Scattergrams
+ To appear International Journal of Web Engineering and Technology 1, 1 (2003).
+ HCIL-2002-08, CS-TR-4367, UMIACS-TR-2002-47, ISR-TR-2005-28
+ [HTML]   [Link to Report]
+ Druin, A., Revelle, G., Bederson, B., Hourcade, J., Lee, J., Campbell, D. (May 2002)
+A Collaborative Digital Library for Children: A Descriptive Study of Children's Collaborative Behavior and Dialogue
+ Journal of Computer-Assisted Learning, 19 (2), pp. 239-248.
+ HCIL-2002-07, CS-TR-4366, UMIACS-TR-2002-46
+ [HTML]   [Link to Report]
+ Hochheiser, H., Shneiderman, B. (May 2002)
+Visual Queries for Finding Patterns in Time Series Data
+ HCIL-2002-06, CS-TR-4365, UMIACS-TR-2002-45, ISR-TR-2005-27
+ [Link to Report]
+ Plaisant, C., Grosjean, J., Bederson, B. (April 2002)
+SpaceTree: Supporting Exploration in Large Node Link Tree, Design Evolution and Empirical Evaluation
+INFOVIS 2002. IEEE Symposium on Information Visualization, 2002, Page(s): 57 -64, Boston, October 2002. [Published Version]
+ HCIL-2002-05, CS-TR-4360, UMIACS-TR-2002-40
+ [HTML]   [Link to Report]
+ Kang, H., Shneiderman, B. (March 2002)
+Dynamic Layout Management in a Multimedia Bulletin Board
+Proceeding of IEEE 2002 Symposia on Human Centric Computing Language and Environments, pp 51-53, Arlington, September 2002. [Published Version]
+ HCIL-2002-04, CS-TR-4346, UMIACS-TR-2002-27, ISR-TR-2005-26
+ [HTML]   [Link to Report]
+ Norman, K., Pleskac, T. (January 2002)
+Conditional Branching in Computerized Self-Administered Questionnaires: An Empirical Study
+ HCIL-2002-02, CS-TR-4323, UMIACS-TR-2002-05
+ [HTML]   [Link to Report]
+ Fekete, J., Plaisant, C. (January 2002)
+Interactive Information Visualization of a Million Items
+INFOVIS 2002. IEEE Symposium on Information Visualization, 2002, Page(s): 117 -124, Boston, October 2002. [Published Version]
+ HCIL-2002-01, CS-TR-4320, UMIACS-TR-2002-2
+ [HTML]   [Link to Report]
+2001
+ Tang, L., Shneiderman, B. (March 2001)
+Dynamic Aggregation to Support Pattern Discovery: A Case Study with Web Logs
+ University of Maryland, College Park, MD. Short version appears in Proc. Discovery Science: 4th International Conference 2001, Editors (Jantke, K. P. and Shinohara, A.), Springer-Verlag, Berlin, 464-469.
+ SHORT VERSION [Published Version]
+ HCIL-2001-27, CS-TR-4345, UMIACS-TR-2002-26, ISR-TR-2005-24
+ [HTML]   [Link to Report]
+ Norman, K. (December 2001)
+Implementation of Conditional Branching in Computerized Self-Administered Questionnaires
+ HCIL-2001-26, CS-TR-4319, UMIACS-TR-2002-1
+ [HTML]   [Link to Report]
+ Boltman, A., Druin, A. (November 2001)
+Children's Storytelling Technologies
+ An edited version was presented in the Proceedings of the American Educational Research Association.
+ HCIL-2001-25, CS-TR-4310, UMIACS-TR-2001-87
+ [HTML]   [Link to Report]
+ Boltman, A. (October 2001)
+Children's Storytelling Technologies: Differences in Elaboration and Recall
+ University of Maryland, College of Education, Human Development, Dissertation
+ HCIL-2001-24, CS-TR-4305, UMIACS-TR-2001-82
+ [HTML]   [Link to Report]
+ Kules, B., Kang, H., Plaisant, C., Rose, A., Shneiderman, B. (October 2001)
+Immediate Usability: Kiosk Design Principles from the CHI 2001 Photo Library
+ This paper has been updated and replaced by HCIL-2003-22
+ HCIL-2001-23, CS-TR-4293, UMIACS-TR-2001-71, ISR-TR-2005-25
+ [Link to Report]
+ Tanin, E. (September 2001)
+Browsing Large Online Data Using Generalized Query Previews
+ University of Maryland, Computer Science Dept., Dissertation
+ HCIL-2001-22, CS-TR-4292, UMIACS-TR-2001-70, ISR-TR-2005-18
+ [HTML]   [Video] [Link to Report]
+ Montemayor, J., Druin, A., Simms, S., Churaman, W., D'Armour, A. (September 2001)
+Physical Programming: Designing Tools for Children to Create Physical Interactive Environments
+CHI 2002, ACM Conference on Human Factors in Computing Systems, CHI Letters, 4(1), 299-306. [Published Version]
+ HCIL-2001-21, CS-TR-4288, UMIACS-TR-2001-67
+ [HTML]   [Link to Report]
+ Browne, H., Bederson, B., Plaisant, C., Druin, A. (September 2001)
+Designing an Interactive Message Board as a Technology Probe for Family Communication
+ HCIL-2001-20, CS-TR-4284, UMIACS-TR-2001-63
+ [HTML]   [Link to Report]
+ Mayer, M., Bederson, B. (August 2001)
+Browsing Icons: A Task-Based Approach for a Visual Web History
+ HCIL-2001-19, CS-TR-4308, UMIACS-TR-2001-85
+ [HTML]   [Link to Report]
+ Bederson, B., Shneiderman, B., Wattenberg, M. (July 2001)
+Ordered and Quantum Treemaps: Making Effective Use of 2D Space to Display Hierarchies
+ACM Transactions on Graphics (TOG), 21, (4), October 2002, 833-854. [Published Version]
+ HCIL-2001-18, CS-TR-4277, UMIACS-TR-2001-57, ISR-TR-2005-22
+ [HTML]   [Link to Report]
+ Shneiderman, B., Hochheiser, H. (July 2001)
+Universal Usability as a Stimulus to Advanced Interface Design
+Behaviour & Information Technology 20, 5 (Sept-Oct 2001), 367-376.
+ HCIL-2001-17, CS-TR-4276, UMIACS-TR-2001-56, ISR-TR-2001-17
+ [HTML]   [Link to Report]
+ Shneiderman, B. (July 2001)
+Inventing Discovery Tools: Combining Information Visualization with Data Mining
+ Information Visualization 1, 1 (2002), 5-12. Also appeared in Proc. Discovery Science 4th International Conference 2001. [Published Version]
+ HCIL-2001-16, CS-TR-4275, UMIACS-TR-2001-55, ISR-TR-2005-20
+ [HTML]   [Link to Report]
+ Konishi, M., Plaisant, C., Shneiderman, B. (July 2001)
+Enabling Commuters to Find the Best Route: An Interface for Analyzing Driving History Logs
+Proc. Interact 2001, IFIP IOS Press, (2001), 799-800.
+ HCIL-2001-15, CS-TR-4274, UMIACS-TR-2001-54, ISR-TR-2005-19
+ [HTML]   [Link to Report]
+ Druin, A., Fast, C. (July 2001)
+The Child as Learner, Critic, Inventor, and Technology Design Partner: An Analysis of Three Years of Swedish Student Journals
+International Journal for Technology and Design Education, 12(3), 189-213.
+ HCIL-2001-14, CS-TR-4273, UMIACS-TR-2001-53
+ [HTML]   [Link to Report]
+ Tanin, E., Shneiderman, B. (June 2001)
+Exploration of Large Online Data Tables Using Generalized Query Previews
+Information Systems(to appear, 2006).
+ HCIL-2001-13, CS-TR-4266, UMIACS-TR-2001-47
+ [HTML]   [Link to Report]
+ Plaisant, C. (Editor) (June 2001)
+2001 Human-Computer Interaction Laboratory Video Reports
+ HCIL-2001-12, CS-TR-4263, UMIACS-TR-2001-46
+ [HTML] [Video] [Link to Report]
+ Hornbæk, K., Bederson, B., Plaisant, C. (May 2001)
+Navigation Patterns and Usability of Overview+Detail and Zoomable User Interfaces for Maps
+ Revised version with new title, "Navigation Patterns and Usability of Zoomable User Interfaces with and without an Overview", ACM Transactions on Computer-Human Interaction, Vol. 9, No. 4, pp. 362-389, December 2002.
+ HCIL-2001-11, CS-TR-4267, UMIACS-TR-2001-48
+ [HTML]   [Link to Report]
+ Bederson, B. (May 2001)
+Quantum Treemaps and Bubblemaps for a Zoomable Image Browser
+ACM Conference on User Interface and Software Technology (UIST 2001) as PhotoMesa: A Zoomable Image Browser using Quantum Treemaps and Bubblemaps, pp. 71-80. [Published Version]
+ HCIL-2001-10, CS-TR-4256, UMIACS-TR-2001-39
+ [HTML]   [Video] [Link to Report]
+ Norman, K., Pleskac, T., Norman, K. (May 2001)
+Navigational Issues in the Design of On-Line Self-Administered Questionnaires: The Effect of Training and Familiarity
+ HCIL-2001-09, CS-TR-4255, UMIACS-TR-2001-38
+ [HTML]   [Link to Report]
+ Dang, G., North, C., Shneiderman, B. (April 2001)
+Dynamic Queries and Brushing on Choropleth Maps
+Proc. International Conference on Information Visualization 2001, 757-764. IEEE Press (July 2001). [Published Version]
+ HCIL-2001-08, CS-TR-4254, UMIACS-TR-2001-37, ISR-TR-2005-17
+ [HTML]   [Video] [Link to Report]
+ Chipman, L., Plaisant, C., Gahagan, S., Herrmann, J., Hewitt, S., Reaves, L. (April 2001)
+Understanding Manufacturing Systems with a Learning Historian for User-Directed Experimentation
+ HCIL-2001-07, CS-TR-4243, UMIACS-TR-2001-29
+ [HTML]   [Link to Report]
+ Shneiderman, B., Wattenberg, M. (April 2001)
+Ordered Treemap Layouts
+Proc. IEEE Symposium on Information Visualization 2001, 73-78. IEEE Press, Los Alamitos, CA (October 2001). [Published Version]
+ HCIL-2001-06, CS-TR-4237, UMIACS-TR-2001-26, ISR-TR-2005-16
+ [HTML]   [Link to Report]
+ Hochheiser, H., Shneiderman, B. (March 2001)
+Visual Specification of Queries for Finding Patterns in Time-Series Data
+Proceedings of Discovery Science 2001, 441-446. Washington, DC, November 2001. [Published Version]
+ HCIL-2001-05, CS-TR-4236, UMIACS-TR-2001-25, ISR-TR-2005-15
+ [HTML]  [Video] [Link to Report]
+ Suh, B., Bederson, B. (March 2001)
+OZONE: A Zoomable Interface for Navigating Ontology
+Proceedings of International Conference on Advanced Visual Interfaces (AVI 2002), ACM, Trento, Italy, 139-143, ACM Press.
+ HCIL-2001-04, CS-TR-4227, UMIACS-TR-2001-16
+ [HTML]   [Link to Report]
+ Good, L., Bederson, B. (March 2001)
+CounterPoint: Creating Jazzy Interactive Presentations
+ Published with a new name as "Zoomable User Interfaces as a Medium for Slide Show Presentations", (2002) Information Visualization, 1 (1), Palgrave Macmillan, 35-49.
+ HCIL-2001-03, CS-TR-4225, UMIACS-TR-2001-14
+ [HTML]   [Link to Report]
+ Hochheiser, H., Shneiderman, B. (February 2001)
+Universal Usability Statements: Marking the Trail for All Users
+ACM Interactions,Vol. 8, No. 2, 16-18 March/April 2001 [Published Version]
+ HCIL-2001-02, CS-TR-4307, UMIACS-TR-2001-84
+ [HTML]   [Link to Report]
+ Shneiderman, B. (February 2001)
+Bridging the Digital Divide with Universal Usability
+ACM Interactions,Vol. 8, No. 2, 11-15, March/April 2001 [Published Version]
+ HCIL-2001-01, CS-TR-4306, UMIACS-TR-2001-83, ISR-TR-2005-14
+ [HTML]   [Link to Report]
+2000
+ Hochheiser, H. (October 2000)
+Browsers with Changing Parts: A Catalog Explorer for Philip Glass' Website
+Proc. of the ACM Designing Interactive Systems Conference
+ HCIL-2000-26
+ [HTML]  [Link to Report]
+ Hochheiser, H., Shneiderman, B. (October 2000)
+Coordinating Overviews and Detail Views of WWW Log Data
+Proc. 2000 Workshop on New Paradigms in Information Visualization and Manipulation, ACM New York (November 2000).
+ HCIL-2000-25, ISR-TR-2005-13
+ [HTML]  [Link to Report]
+ Plaisant, C. (Editor) (October 2000)
+2000 and 1999-1991 Retrospective: Human-Computer Interaction Laboratory Video Reports
+ HCIL-2000-24, CS-TR-4196
+ [HTML] [Video] [Link to Report]
+ Plaisant, C., Bhamidipati, P. (October 2000)
+Vehicle Speed Information Displays for Public Websites: A Survey of User Preferences
+Proceeding of Conference on Intelligent Transportation Systems' 2001 (CD ROM proceedings), ITS'2001, Washington, DC, ITS America, Washington DC, June 2001 (http://www.its.org). Must be printed in color.
+ HCIL-2000-23, CS-TR-4194, UMIACS-TR-2000-73
+ [HTML]   [Link to Report]
+ Norman, K., Slaughter, L., Friedman, Z., Norman, K., Stevenson, R. (October 2000)
+Dual Navigation of Computerized Self-Administered Questionnaires and Organizational Records
+ HCIL-2000-22, CS-TR-4192, UMIACS-TR-2000-71
+ [HTML]   [Link to Report]
+ Kreitzberg, C., Shneiderman, B. (October 2000)
+Making Computer and Internet Usability a Priority
+Common Ground Anthology, Usability Professionals Association, 2000. Revised version reprinted in Branaghan, R. J. (Editor), Design by People for People: Essays on Usability, Usability Professionals Assn, 2001. Chicago, 7-20.
+ HCIL-2000-21, CS-TR-4191, UMAICS-TR-2000-70, ISR-TR-2005-65
+ [HTML]   [Link to Report]
+ Christian, K., Kules, B., Shneiderman, B., Youssef, A. (September 2000)
+A Comparison of Voice Controlled and Mouse Controlled Web Browsing
+Proc. ACM ASSETS 2000 Conference, ACM Press, New York (November 2000) [Published Version]
+ HCIL-2000-20, CS-TR-4188, UMIACS-TR-2000-69, ISR-TR-2005-11
+ [HTML]   [Link to Report]
+ Revelle, G., Druin, A., Platner, M., Weng, S., Bederson, B., Hourcade, J., Sherman, L. (September 2000)
+Young Children's Search Strategies and Construction of Search Queries
+ Revised version: A Visual Search Tool for Early Elementary Science Students, Journal of Science Education and Technology (2002), 11(1), 49-57
+ HCIL-2000-19, CS-TR-4187, UMIACS-TR-2000-68
+ [HTML]   [Link to Report]
+ Druin, A., Bederson, B., Hourcade, J., Sherman, L., Revelle, G., Platner, M., Weng, S. (September 2000)
+Designing a Digital Library for Young Children: An Intergenerational Partnership
+ Revised version in the Proceedings of ACM/IEEE Joint Conference on Digital Libraries (JCDL), Virginia, June 2001 (pp. 398-405).
+ HCIL-2000-18, CS-TR-4185, UMAICS-TR-2000-67
+ [HTML]   [Link to Report]
+ Browne, H., Bederson, B., Druin, A., Sherman, L., Westerman, W., Bederson, B. (Advisor) (September 2000)
+Designing a Collaborative Finger Painting Application for Children
+ HCIL-2000-17, CS-TR-4184, UMAICS-TR-2000-66
+ [HTML]   [Link to Report]
+ Plaisant, C., Druin, A., Lathan, C., Dakhane, K., Edwards, K., Vice, J., Montemayor, J. (September 2000)
+A Storytelling Robot for Pediatric Rehabilitation
+ Revised version: Proc. ASSETS '00, Washington, Nov. 2000, ACM, New York, 50-55.
+ HCIL-2000-16, CS-TR-4183, UMIACS-TR-2000-65
+ [HTML]   [Video] [Link to Report]
+ North, C. (May 2000)
+A User Interface for Coordinating Visualizations based on Relational Schemata: Snap-Together Visualization
+ University of Maryland, Computer Science Dept., Doctoral Dissertation [Published Version]
+ HCIL-2000-15
+ [Link to Report]
+ Tanin, E., Plaisant, C., Shneiderman, B. (May 2000)
+Broadening Access to Large Online Databases by Generalizing Query Previews
+Proc. of the Symposium on New Paradigms in Information Visualization and Manipulation - CIKM, pp. 80-85, 2000. [Published Version]
+ HCIL-2000-14, CS-TR-4139, UMIACS-TR-2000-32, ISR-TR-2005-10
+ [HTML]   [Link to Report]
+ Bederson, B., Meyer, J., Good, L. (May 2000)
+Jazz: An Extensible Zoomable User Interface Graphics ToolKit in Java
+UIST 2000, ACM Symposium on User Interface Software and Technology, CHI Letters, 2(2), pp. 171-180.
+ HCIL-2000-13, CS-TR-4137, UMIACS-TR-2000-30
+ [HTML]   [Link to Report]
+ Bederson, B. (May 2000)
+Fisheye Menus
+Proc. UIST 2000, pp. 217-225, ACM, New York.
+ HCIL-2000-12, CS-TR-4138, UMIACS-TR-2000-31
+ [HTML]  [Video] [Link to Report]
+ Kim, J., Oard, D., Romanik, K. (May 2000)
+User Modeling for Information Access Based on Implicit Feedback
+Proceedings of ISKO-France 2001, July 5-6, Nanterre, France.
+ HCIL-2000-11, CS-TR-4136, UMIACS-TR-2000-29
+ [HTML]   [Link to Report]
+ Norman, K., Friedman, Z., Norman, K., Stevenson, R. (May 2000)
+Navigational Issues in the Design of On-Line Self-Administered Questionnaires
+Behaviour and Information Technology, 20, 37-45.
+ HCIL-2000-10, CS-TR-4135, UMIACS-TR-2000-28, LAP-TR-2000-01
+ [HTML]   [Link to Report]
+ Plaisant, C., Komlodi, A. (May 2000)
+Evaluation Challenges for a Federation of Heterogeneous Information Providers: The Case of NASA's Earth Science Information Partnerships
+IEEE 9th Intl. Workshops on Enabling Technologies (WETICE'2000) Evaluating Collaborative Enterprises, June 14-16, Gaithersburg, MD, pp. 130-138, IEEE, Los Alamitos, CA. http://www.mel.nist.gov/msidevent/workshop/wetice-ece/ [Published Version]
+ HCIL-2000-09, CS-TR-4134, UMIACS-TR-2000-27
+ [HTML]  [Link to Report]
+ Marchionini, G., Hert, C., Liddy, L., Shneiderman, B. (May 2000)
+Extending User Understanding of Federal Statistics in Tables
+Proceedings on the 2000 conference on Universal Usability, Arlington, VA, 2000, pp. 132 - 138. [Published Version]
+ HCIL-2000-08, CS-TR-4131, UMIACS-TR-2000-24, ISR-TR-2005-9
+ [HTML]   [Link to Report]
+ Kang, H., Shneiderman, B. (May 2000)
+Visualization Methods for Personal Photo Collections: Browsing and Searching in the PhotoFinder
+ Proc. IEEE International Conference on Multimedia and Expo (ICME2000), New York City, New York.
+ HCIL-2000-07, CS-TR-4494, UMIACS-TR-2003-63, ISR-TR-2005-8
+ [HTML]   [Link to Report]
+ Shneiderman, B., Kang, H. (May 2000)
+Direct Annotation: A Drag-and-Drop Strategy for Labeling Photos
+Proc. International Conference Information Visualization (IV2000). London, England. Proc. International Conference on Information Visualization 2000, IEEE, Los Alamitos, CA (July 2000), 88-95.
+ HCIL-2000-06, CS-TR-4129, UMIACS-TR-2000-23, ISR-TR-2005-7
+ [HTML]   [Link to Report]
+ North, C., Shneiderman, B. (May 2000)
+Snap-Together Visualization: A User Interface for Coordinating Visualizations via Relational Schemata
+Conference Proc. Advanced Visual Interfaces 2000, ACM, New York.
+ HCIL-2000-05, CS-TR-4128, UMIACS-TR-2000-22, ISR-TR-2005-6
+ [HTML]   [Video] [Link to Report]
+ Semple, P., Allen, R., Rose, A. (2000)
+Developing an Educational Multimedia Digital Library: Content Preparation, Indexing, and Usage
+ED-MEDIA 2000, Montreal, and reprinted with permission of Assn. for the Advancement of Computing in Education.
+ HCIL-2000-04
+ [HTML]  [Link to Report]
+ Gandhi, R., Kumar, G., Bederson, B., Shneiderman, B. (March 2000)
+Domain Name Based Visualization of Web Histories in a Zoomable User Interface
+Proc. 11th International Workshop on Database and Expert Systems Applications, includes WebVis 2000: Second International Workshop on Web-Based Information Visualization, IEEE Computer Society, Los Alamitos, CA (2000), 591-598.
+ HCIL-2000-03, CS-TR-4114, UMIACS-TR-2000-12, ISR-TR-2000-8
+  [Link to Report]
+ Alborzi, H., Druin, A., Montemayor, J., Sherman, L., Taxén, G., Best, J., Hammer, J., Kruskal, A., Lal, A., Plaisant Schwenn, T., Sumida, L., Wagner, R., Hendler, J. (February 2000)
+Designing StoryRooms: Interactive Storytelling Spaces for Children
+Proc. ACM Desiging Interactive Systems (DIS'2000), NY, 95-100.
+ HCIL-2000-02, CS-TR-4106, UMIACS-TR-2000-06
+ [HTML]   [Video] [Link to Report]
+ Shneiderman, B. (January 2000)
+The Limits of Speech Recognition: Understanding Acoustic Memory and Appreciating Prosody
+Communications of the ACM 43, 9 (September 2000), 63-65.
+ HCIL-2000-01, ISR-TR-2005-5
+ [HTML]  [Link to Report]
+1999
+ Plaisant, C. (Editor) (October 2000)
+1999 Human-Computer Interaction Laboratory Video Reports
+ HCIL-99-34, CS-TR-4195
+ [HTML] [Link to Report]
+ Zhang, Z., Basili, V., Shneiderman, B. (1999)
+Perspective-based Usability Inspection: An Empirical Validation of Efficacy
+Empirical Software Engineering 4, 1 (March 1999), 43-69.
+ HCIL-99-33, CS-TR-4193, UMIACS-TR-2000-72
+  [Link to Report]
+ Rose, A., Allen, R., Fulton, K. (1999)
+Multiple Channels of Electronic Communication for Building a Distributed Learning Community
+Proceedings of the Computer Support for Collaborative Learning, CSCL '99, Stanford, CA, 495-502. [Published Version]
+ HCIL-99-32
+ [HTML]  [Link to Report]
+ Fredrikson, A., North, C., Plaisant, C., Shneiderman, B. (December 1999)
+Temporal, Geographical and Categorical Aggregations Viewed through Coordinated Displays: A Case Study with Highway Incident Data
+Proceedings of the Workshop on New Paradigms in Information Visualization and Manipulation, Kansas City, Missouri, November 6, 1999 (in conjunction with ACM CIKM'99), ACM New York, 26-34. [Published Version]
+ HCIL-99-31
+ [HTML]  [Link to Report]
+ Hochheiser, H., Shneiderman, B. (November 1999)
+Using Interactive Visualizations of WWW Log Data to Characterize Access Patterns and Inform Site Design
+ A revised version appears in ASIS'99 Proceedings of the 62nd Annual Meeting of the American Society for Information Science, Annual Conference October 31-November 4, 1999, Vol. 36, 331-344. Published as Understanding patterns of user visits to web sites: Interactive starfield visualizations of WWW log data, Journal of the American Society for Information Science and Technology 54, 4 (February 2001), 331-343.
+ HCIL-99-30, ISR-TR-99-70
+ [HTML]   [Link to Report]
+ Tse, T., Vegh, S., Marchionini, G., Shneiderman, B. (November 1999)
+An Exploratory Study of Video Browsing User Interface Designs and Research Methodologies: Effectiveness in Information Seeking Tasks
+ASIS'99 Proc. 62nd Annual Meeting of the American Society for Information Science, Medford, NJ (October 1999), 681-692.
+ HCIL-99-29
+ [HTML] [Link to Report]
+ Benford, S., Bederson, B., Åkesson, K., Bayon, V., Druin, A., Hansson, P., Hourcade, J., Ingram, R., Neale, H., O'Malley, C., Simsarian, K., Stanton, D., Sundblad, Y., Taxén, G. (November 1999)
+Designing Storytelling Technologies to Encourage Collaboration Between Young Children
+Proceedings of CHI 2000, The Hague, Netherlands, April 1-6, ACM, New York, 556-563.
+ HCIL-99-28, CS-TR-4087, UMIACS-TR-99-76
+ [HTML]  [Video] [Link to Report]
+ Bederson, B., Stewart, J., Druin, A. (November 1999)
+Single Display Groupware
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 1999, 286 - 293. [Published Version]
+ HCIL-99-27, CS-TR-4086, UMIACS-TR-99-75
+ [HTML]  [Link to Report]
+ North, C., Shneiderman, B. (October 1999)
+Snap-Together Visualization: Evaluating Coordination Usage and Construction
+Int'l Journal of Human-Computer Studies special issue on Empirical Studies of Information Visualization, Volume 53, 5 (November 2000), 715-739.
+ HCIL-99-26, CS-TR-4075, UMIACS-TR-99-68
+ [HTML]  [Link to Report]
+ Montemayor, J., Druin, A., Hendler, J. (October 1999)
+PETS: A Personal Electronic Teller of Stories
+ Druin, A., Hendler, J. (ed.) Robots for Kids: New Technologies for Learning. Morgan Kaufmann, San Francisco, CA (2000).
+ HCIL-99-25, CS-TR-4074, UMIACS-TR-99-67
+ [HTML]   [Link to Report]
+ Hochheiser, H., Shneiderman, B. (September 1999)
+Performance Benefits of Simultaneous Over Sequential Menus as Task Complexity Increases
+International Journal of Human Computer Interaction, Volume 12, #2, 173-192.
+ HCIL-99-24, CS-TR-4066, UMIACS-TR-99-60, ISR-TR-99-71
+ [HTML]   [Link to Report]
+ Druin, A. (September 1999)
+The Role of Children in the Design of New Technology
+Behaviour and Information Technology (BIT), 2002, 21 (1), 1-25.
+ HCIL-99-23, CS-TR-4058, UMIACS-TR-99-53
+ [HTML]  [Link to Report]
+ Salter, R. (September 1999)
+A Client-Server Architecture for Rich Visual History Interfaces
+ HCIL-99-22, CS-TR-4056, UMIACS-TR-99-52
+ [HTML]  [Link to Report]
+ Chapman, R., Shneiderman, B. (September 1999)
+Booksites as Web-based Dynamic Supplements to Computer Science Textbooks
+ HCIL-99-21
+ [HTML]  [Link to Report]
+ Cailleteau, L. (September 1999)
+Interfaces for Visualizing Multi-Valued Attributes: Design and Implementation Using Starfield Displays
+ (Summer Project report)
+ HCIL-99-20
+ [HTML]   [Link to Report]
+ Fredrikson, A. (August 1999)
+Temporal, Geographical and Categorical Aggregations Viewed through Coordinated Displays: A Case Study with Highway Incident Data (Summer Project Report)
+ HCIL-99-19
+ [HTML]  [Link to Report]
+ Harris, C., Allen, R., Plaisant, C., Shneiderman, B. (June 1999)
+Temporal Visualization for Legal Case Histories
+ ASIS'99 Proceedings of the 62nd Annual Meeting of the American Society for Information Sciences, Conference October 31-November 4, 1999, Vol. 36, 271-279.
+ HCIL-99-18, CS-TR-4047
+ [HTML]   [Link to Report]
+ Shneiderman, B. (July 1999)
+Universal Usability: Pushing Human-Computer Interaction Research to Empower Every Citizen
+ CACM 43, 5 (May 2000), ACM, New York, 84-91.
+ HCIL-99-17, CS-TR-4043, UMIACS-TR-99-43, ISR-TR-99-72
+ [HTML]  [Link to Report]
+ Shneiderman, B. (July 1999)
+Supporting Creativity with Advanced Information-Abundant User Interfaces
+ In Earnshaw, R., Guedj, R., Van Dam, A., and Vince, J. (Editors), Human-Centred Computing, Online Communities, and Virtual Environments, Springer-Verlag London (2001), 469-480.
+ HCIL-99-16, CS-TR-4042, UMIACS-TR-99-42, ISR-TR-99-73
+ [HTML]  [Link to Report]
+ Zaphiris, P., Shneiderman, B., Norman, K. (June 1999)
+Expandable Indexes Versus Sequential Menus for Searching Hierarchies on the World Wide Web
+Behaviour & Information Technology, 2002, Vol. 21, No. 3, 201-207.
+ HCIL-99-15
+ [HTML] [Link to Report]
+ Druin, A. (May 1999)
+Cooperative Inquiry: Developing New Technologies for Children with Children
+Proceedings of CHI'99, Pittsburgh, PA, USA, May 15-20, ACM, New York, 592-599
+ HCIL-99-14
+ [HTML]   [Link to Report]
+ Druin, A., Montemayor, J., Hendler, J., McAlister, B., Boltman, A., Fiterman, E., Plaisant, A., Kruskal, A., Olsen, H., Revett, I., Plaisant Schwenn, T., Sumida, L., Wagner, R. (May 1999)
+Designing PETS: A Personal Electronic Teller of Stories
+Proceedings of CHI'99, Pittsburgh, PA, USA, May 15-20, ACM, New York, 326-329 [Published Version]
+ HCIL-99-13
+ [HTML] [Video] [Link to Report]
+ Ghosh, P., Shneiderman, B. (May 1999)
+Zoom-Only vs Overview-Detail Pair: A Study in Browsing Techniques as Applied to Patient Histories
+ HCIL-99-12, CS-TR-4028, UMIACS-TR-99-35
+ [HTML] [Link to Report]
+ Plaisant, C., Rose, A., Rubloff, G., Salter, R., Shneiderman, B. (May 1999)
+The Design of History Mechanisms and Their Use in Collaborative Educational Simulations
+Proc. of the Computer Support for Collaborative Learning, CSCL' 99, Palo Alto, CA, 348-359. [Published Version]
+ HCIL-99-11, CS-TR-4027, UMIACS-TR-99-34, ISR-TR-99-74
+ [HTML]  [Video] [Link to Report]
+ North, C., Shneiderman, B. (May 1999)
+Snap-Together Visualization: Coordinating Multiple Views to Explore Information
+ HCIL-99-10, CS-TR-4020, UMIACS-TR-99-28
+ [HTML]  [Link to Report]
+ Potter, R., Shneiderman, B., Bederson, B. (May 1999)
+Pixel Data Access for End-User Programming and Graphical Macros
+ HCIL-99-09, CS-TR-4019, UMIACS-TR-99-27
+ [HTML] [Link to Report]
+ Hourcade, J., Bederson, B. (May 1999)
+Architecture and Implementation of a Java Package for Multiple Input Devices (MID)
+ HCIL-99-08, CS-TR-4018, UMIACS-TR-99-26
+ [HTML]  [Link to Report]
+ Bederson, B., McAlister, B. (May 1999)
+Jazz: An Extensible 2D+Zooming Graphics Toolkit in Java
+ See updated report #2000-13 on the same topic
+ HCIL-99-07, CS-TR-4015, UMIACS-TR-99-24
+ [HTML]  [Link to Report]
+ Hochheiser, H., Shneiderman, B. (March 1999)
+Understanding Patterns of User Visits to Web Sites: Interactive Starfield Visualization of WWW Log Data - Short Version
+ See 99-30 (November 1999).
+ HCIL-99-06, CS-TR-3989, UMIACS-TR-99-11, ISR-TR-99-3
+ [Link to Report]
+ Combs, T., Combs, T., Bederson, B. (February 1999)
+Does Zooming Improve Image Browsing?
+Proceedings of Digital Libraries '99, ACM, New York,1999, 130-137.
+ HCIL-99-05, CS-TR-3995, UMIACS-TR-99-14
+ [HTML]  [Link to Report]
+ Murphy, E., Norman, K., Moshinsky, D. (February 1999)
+VisAGE Usability Study
+ HCIL-99-04
+ [HTML] [Link to Report]
+ Shneiderman, B., Feldman, D., Rose, A., Ferre Grau, X. (February 1999)
+Visualizing Digital Library Search Results with Categorical and Hierarchial Axes
+Proc. 5th ACM International Conference on Digital Libraries (San Antonio, TX, June 2-7, 2000), ACM, New York, 57-66. [Published Version]
+ HCIL-99-03, CS-TR-3992, UMIACS-TR-99-12, ISR-TR-99-75
+ [HTML]   [Link to Report]
+ Hochheiser, H., Shneiderman, B. (February 1999)
+Understanding Patterns of User Visits to Web Sites: Interactive Starfield Visualization of WWW Log Data
+ See 99-30 (November 1999).
+ HCIL-99-02, CS-TR-3989, UMIACS-TR-99-11, ISR-TR-99-3
+ [Link to Report]
+ Shneiderman, B. (February 1999)
+Creating Creativity for Everyone: User Interfaces for Supporting Innovation
+ACM Transactions on Computer-Human Interaction 7, 1 (March 2000), 114-138. Also to appear in Carroll, J. (Ed.) (2001)  HCI in the Millennium, ACM, New York.
+ HCIL-99-01, CS-TR-3988, UMIACS-TR-99-10, ISR-TR-99-4
+ [HTML]   [Link to Report]
+1998
+ Zhang, Z., Basili, V., Shneiderman, B. (1998)
+An Empirical Study of Perspective Based Usability Inspection
+Proceedings of the Human Factors and Ergonomics Society 42nd Annual Meeting, Santa Monica, CA (1998), 1346-1350. [Published Version]
+ HCIL-98-18
+  [Link to Report]
+ Plaisant, C., Venkatraman, M., Ngamkajornwiwat, K., Barth, R., Harberts, B., Feng, W.
+Refining query previews techniques for data with multivalued attributes: The case of NASA EOSDIS
+IEEE Forum on Research and Technology Advances in Digital Libraries (ADL '99), IEEE Computer Society, Los Alamitos, CA, 50-59
+ HCIL-98-17, CS-TR-4010, UMIACS-TR-99-20
+ [HTML]  [Link to Report]
+ Plaisant, C. (Editor) (March 1999)
+1998 Human-Computer Interaction Laboratory Video Reports
+ HCIL-98-16, CS-TR-4007
+ [HTML] [Link to Report]
+ Shneiderman, B. (Nov/Dec 1998)
+Educational Journeys on the Web Frontier
+EDUCOM Review 33,6 (Nov/Dec 1998), 10,12-14
+ HCIL-98-15
+ [HTML] [Link to Report]
+ Stewart, J., Bederson, B., Druin, A. (December 1998)
+Single Display Groupware: A Model for Co-present Collaboration
+Proceedings of CHI'99, Pittsburgh, PA, USA, May 15-20, 1999, ACM, New York, 286-293.
+ HCIL-98-14, CS-TR-3966, UMIACS-98-75
+ [HTML]  [Link to Report]
+ Kandogan, E. (June 1998)
+Hierarchial Multi-Window Management with Elastic Layout Dynamics
+ Doctor of Philosophy, 1998
+ HCIL-98-13, CSC-TR-2007
+ [HTML] [Link to Report]
+ Meyer, J., Bederson, B. (September 1998)
+Does a Sketchy Appearance Influence Drawing Behavior?
+ HCIL-98-12, CS-TR-3965, UMIACS-TR-98-74
+ [HTML]  [Link to Report]
+ Bederson, B., Boltman, A. (September 1998)
+Does Animation Help Users Build Mental Maps of Spatial Information
+Proceedings of InfoViz '99, IEEE, Los Alamitos, CA, 28-35.
+ HCIL-98-11, CS-TR-3964, UMIACS-TR-98-73
+ [HTML]  [Link to Report]
+ Plaisant, C., Tarnoff, P., Keswani, S., Saraf, A., Rose, A. (October 1998)
+Understanding Transportation Management Systems Performance with a Simulation-Based Learning Environment
+Proceeding of Conference on Intelligent Transportation Systems' 99, ITS'99, Washington, DC, ITS America, Washington DC, http://www.itsa.org (CD ROM proceedings) 1999.
+ HCIL-98-10, CS-TR-3947, UMIACS-TR-98-60, ISR-TR-98-59
+ [HTML]  [Video] [Link to Report]
+ Fekete, J., Plaisant, C. (1998)
+Excentric Labeling: Dynamic Neighborhood Labeling for Data Visualization
+Proceedings of CHI'99, Pittsburgh, PA, USA, May 15-20, 1999, ACM, New York, 512-519.
+ HCIL-98-09, CS-TR-3946, UMIACS-TR-98-59
+ [HTML]  [Link to Report]
+ Plaisant, C., Mushlin, R., Snyder, A., Li, J., Heller, D., Shneiderman, B. (1998)
+LifeLines: Using Visualization to Enhance Navigation and Analysis of Patient Records
+ Revised version in 1998 American Medical Informatic Association Annual Fall Symposium (Orlando, Nov. 9-11, 1998), p. 76-80, AMIA, Bethesda MD.
+ HCIL-98-08, CS-TR-3943, UMIACS-TR-98-56
+ [HTML]  [Video] [Link to Report]
+ Rose, A., Eckard, D., Rubloff, G. (May 1998)
+An Application Framework for Creating Simulation-Based Learning Environments
+ HCIL-98-07, CS-TR-3907, UMIACS-TR-98-32
+ [HTML]  [Video] [Link to Report]
+ Hightower, R., Ring, L., Helfman, J., Bederson, B., Hollan, J. (1998)
+Graphical Multiscale Web Histories: A Study of PadPrints
+Proceedings of ACM Conference on Hypertext (Hypertext 98), ACM Press, 58-65. [Published Version]
+ HCIL-98-06, CS-TR-3908, UMIACS-TR-98-33
+ [HTML]  [Link to Report]
+ Li, J., Plaisant, C., Shneiderman, B. (1998)
+Data Object and Label Placement for Information Abundant Visualizations
+ Proceedings, Workshop on New Paradigms in Information Visualization and Manipulation (NPIV'98) In conjunction with the CIKM'98, ACM, New York, 41-48. [Published Version]
+ HCIL-98-05, CS-TR-3901, UMIACS-TR-98-28, ISR-TR-98-65
+ [HTML]  [Link to Report]
+ Shneiderman, B., Borkowski, E., Alavi, M., Norman, K. (1998)
+Emergent Patterns of Teaching/Learning in Electronic Classrooms
+Educational Technology Research and Development 46, 4 (1998, 23-42)
+ HCIL-98-04, CS-TR-3889, UMIACS-TR-98-21
+ [HTML]  [Link to Report]
+ Druin, A., Bederson, B., Boltman, A., Miura, A., Knotts-Callahan, D., Platt, M. (1998)
+Children as Our Technology Design Partners
+ In Druin, A. (Ed.), The Design of Children's Technology: How we design and why?, Morgan Kaufmann, 1998, pp. 51-72.
+ HCIL-98-03, CS-TR-3887, UMIACS-TR-98-20
+ [HTML] [Link to Report]
+ Tanin, E., Lotem, A., Haddadin, I., Shneiderman, B., Plaisant, C., Slaughter, L. (1998 (Revised 1999))
+Facilitating Network Data Exploration with Query Previews: A Study of User Performance and Preference
+Behaviour & Information Technology Vol. 19 No. 6 (2000), pp. 393-403.
+ HCIL-98-02, CS-TR-3879, UMIACS-TR-98-14
+ [HTML]  [Link to Report]
+ Marchionini, G., Plaisant, C., Komlodi, A. (1998)
+Interfaces and Tools for the Library of Congress National Digital Library Program
+Information Processing & Management, 34, 5, pp. 535-555, 1998. Also French version appeared in Document numerique. 2(1), 1998, pages 53-65, Hermes, Paris.
+ HCIL-98-01, CS-TR-3872, UMIACS-TR-98-09
+ [HTML]  [Link to Report]
+1997
+ Shneiderman, B.
+A Grander Goal: A Thousand-fold Increase in Human Capabilities
+Educom Review, 32, 6 (Nov/Dec 1997), 4-10.
+ HCIL-97-23
+ [HTML] [Link to Report]
+ Plaisant, C. (Editor) (March 1999)
+1997 Human-Computer Interaction Laboratory Video Reports
+ HCIL-97-22, CS-TR-4006
+ [HTML] [Link to Report]
+ Shneiderman, B. (1997)
+Codex, Memex, Genex: The Pursuit of Tranformational Technologies
+International Journal of Human-Computer Interaction 10,2 (1998), 87-106.
+ HCIL-97-21, CS-TR-3862, UMIACS-TR-97-89
+ [HTML] [Link to Report]
+ Greene, S., Tanin, E., Plaisant, C., Shneiderman, B., Olsen, L., Major, G., Johns, S. (1997)
+The End of Zero-Hit Queries: Query Previews for NASA's Global Change Master Directory
+International Journal Digital Libraries Vol. 2 No.2+3 (1999), pp.79-90
+ HCIL-97-20, CS-TR-3856, UMIACS-TR-97-84
+ [HTML] [Link to Report]
+ Plaisant, C., Shneiderman, B., Mushlin, R. (1997)
+An Information Architecture to Support the Visualization of Personal Histories
+Information Processing & Management, 34, 5, pp. 581-597, 1998.
+ HCIL-97-19, CS-TR-3855, UMIACS-TR-97-87
+ [HTML] [Link to Report]
+ North, C., Shneiderman, B. (1997)
+A Taxonomy of Multiple Window Coordinations
+ HCIL-97-18, CS-TR-3854, UMIACS-TR-9783
+ [HTML] [Link to Report]
+ Shneiderman, B. (1997)
+Relate-Create-Donate: An Educational Philosophy for the Cyber-Generation
+Computers & Education 31, 1 (1998), 25-39.
+ HCIL-97-17
+ [HTML] [Link to Report]
+ Greene, S., Marchionini, G., Plaisant, C., Shneiderman, B. (1997)
+Previews and Overviews in Digital Libraries: Designing Surrogates to Support Visual Information-Seeking
+ Journal of the American Society for Information Science 51, 3 (March 2000), 380-393.
+ HCIL-97-16, CS-TR-3838, UMIACS-TR-97-73, ISR-TR-97-80
+ [HTML]  [Link to Report]
+ Rose, A., Ding, W., Marchionini, G., Beale Jr., J., Nolet, V. (1997)
+Building an Electronic Learning Community: From Design to Implementation
+Proceedings of CHI 98, Los Angeles, CA, 18-23 April 1998, ACM, New York, 203-210
+ HCIL-97-15, CS-TR-3831, UMIACS-TR-97-67, CLIS-TR-97-12
+ [HTML] [Link to Report]
+ Tanin, E., Beigel, R., Shneiderman, B. (1997)
+Design and Evaluation of Incremental Data Structures and Algorithms for Dynamic Query Interfaces
+Proceedings of the 1997 IEEE Information Visualization Workshop, pp. 81-86, 1997
+ HCIL-97-14, CS-TR-3796, UMIACS-TR-97-46, ISR-TR-97-54
+ [HTML] [Link to Report]
+ Alonso, D., Rose, A., Plaisant, C., Norman, K. (1997)
+Viewing Personal History Records: A Comparison of Tabular Format and Graphical Presentation Using LifeLines
+Behavior and Information Technology 17, 5, 1998, 249-262.
+ HCIL-97-13, CS-TR-3795, UMIACS-TR-97-45
+ [HTML] [Link to Report]
+ Oard, D. (1997)
+Speech-Based Information Retrieval for Digital Libraries
+ HCIL-97-12, CS-TR-3778, UMIACS-TR-97-36, CLIS-TR-97-05, LAMP-TR-015
+ [HTML] [Link to Report]
+ Ding, W., Marchionini, G. (May 1997)
+A Study on Video Browsing Strategies
+ HCIL-97-11, CS-TR-3790, UMIACS-TR-97-40, CLIS-TR-97-06
+ [HTML] [Link to Report]
+ Nation, D., Plaisant, C., Marchionini, G., Komlodi, A. (May 1997)
+Visualizing Websites Using a Hierarchical Table of Contents Browser: WebTOC
+Proceedings of 3rd Conference on Human Factors and the Web, Denver, Colorado, June 12, 1997.
+ HCIL-97-10, CS-TR-3791, UMIACS-TR-97-41, CLIS-TR-97-08
+ [HTML] [Link to Report]
+ Doan, K., Plaisant, C., Shneiderman, B., Bruns, T. (1997)
+Interface and Data Architecture for Query Preview in Networked Information Systems
+ACM Transactions on Information Systems, July 1999, Vol. 17, No. 3, 320-341. A short early version also appeared in ACM SIGMOD Record, Vol.26, No.1, pp. 75-81 March 1997, as Query Previews for Networked Information Systems: A Case Study with NASA Environmental Data by Doan, K., Plaisant, C., Shneiderman, B., Bruns, B. [Published Version]
+ HCIL-97-09, CS-TR-3792, UMIACS-TR-97-42, ISR-TR-97-57
+ [HTML] [Link to Report]
+ Kandogan, E., Shneiderman, B. (1997)
+Elastic Windows: A Hierarchical Multi-Window World-Wide Web Browser
+Proc. ACM, UIST97, ACM New York (October 1997), 169-177 [Published Version]
+ HCIL-97-08, CS-TR-3789, ISR-TR-97-56
+ [Link to Report]
+ Marchionini, G., Nolet, V., Williams, H., Ding, W., Beale Jr., J., Rose, A., Gordon, A., Enomoto, E., Harbinson, L. (1997)
+Content + Connectivity => Community: Digital Resources for a Learning Community
+ HCIL-97-07, CS-TR-3785, CLIS-TR-97-07
+ [HTML] [Link to Report]
+ Lane, J., Kuester, S., Shneiderman, B. (January 1997)
+User Interfaces for a Complex Robotic Task: A Comparison of Tiled vs. Overlapped Windows
+ HCIL-97-06, CS-TR-3784, ISR-TR-97-55
+ [HTML] [Link to Report]
+ Shneiderman, B., Byrd, D., Croft, W. (January 1997)
+Clarifying Search: A User-Interface Framework for Text Searches
+D-Lib Magazine, January 1997Condensed versions published as: Shneiderman, B., A framework for search interfaces, IEEE Software (March/April 1997), 18-20. Revised and shortened version published as: Shneiderman, B., Byrd, D., and Croft, B., Sorting out searching: A user-interface framework for text searches, Communications of the ACM 41, 4 (April 1998), 95-98.
+ HCIL-97-05
+ [HTML] [Link to Report]
+ Shneiderman, B. (February 1997)
+Between Hope and Fear
+Communications of the ACM, February 1997, Vol. 40, No. 2 (59-62)
+ HCIL-97-04
+ [Link to Report]
+ Alonso, D., Norman, K. (1997)
+Apparency of Contingencies in Pull Down Menus
+ HCIL-97-03, CS-TR-3793, UMIACS-TR-97-43
+ [HTML] [Link to Report]
+ Doan, K., Plaisant, C., Shneiderman, B., Bruns, T. (1997)
+Query Previews for Networked Information Systems: A Case Study with NASA Environmental Data
+ACM SIGMOD Record, Vol. 26, No. 1 (75-81), March 1997
+ HCIL-97-02
+ [HTML]  [Link to Report]
+ Shneiderman, B. (January 1997)
+Direct Manipulation for Comprehensible, Predictable, and Controllable User Interfaces
+Proceedings of IUI97, 1997 International Conference on Intelligent User Interfaces, Orlando, FL, January 6-9, 1997, 33-39. [Published Version]
+ HCIL-97-01
+ [HTML]  [Link to Report]
+1996
+ Plaisant, C., Bruns, T., Shneiderman, B., Doan, K. (1996)
+Query Previews in Networked Information Systems: the Case of EOSDIS
+ Video in  CHI 97 Video program , Atlanta GA, 22-27 March 1997, ACM, New York NY. A two page summary also appears in CHI 97 Extended Abstracts, ACM New York, 202-203.
+ HCIL-96-19
+ [HTML] [Video] [Link to Report]
+ Tanin, E., Beigel, R., Shneiderman, B. (1996)
+Incremental Data Structures and Algorithms for Dynamic Query Interfaces
+ Workshop on New Paradigms in Information Visualization and Manipulation, Fifth ACM International Conference on Information and Knowledge Management (CIKM '96) (Rockville, MD, Nov. 16, 1996) 12-15. Also in SIGMOD Record, Vol. 25, No. 4 (21-24), December 1996 [Published Version]
+ HCIL-96-18, CS-TR-3730, ISR-TR-97-5
+ [HTML] [Link to Report]
+ Kandogan, E., Shneiderman, B. (October 1996)
+Elastic Windows: Evaluation of Multi-Window Operations
+CHI 97 Proceedings, Atlanta GA, 22-27 March 1997, ACM New York, 250-257 [Published Version]
+ HCIL-96-17, CS-TR-3695, ISR-TR-97-2
+ [HTML] [Link to Report]
+ Plaisant, C., Marchionini, G., Bruns, T., Komlodi, A., Campbell, L. (October 1996)
+Bringing Treasures to the Surface: Iterative Design for the Library of Congress National Digital Library Program
+CHI 97 Proceedings, Atlanta GA, 22-27 March 1997, ACM New York, 518-525
+ HCIL-96-16, CS-TR-3694, CLIS-TR-96-03
+ [Video] [Link to Report]
+ Ellis, J., Rose, A., Plaisant, C. (September 1996)
+Putting Visualization to Work: ProgramFinder for Youth Placement
+CHI 97 Proceedings, Atlanta GA, 22-27 March 1997, ACM New York, 502-509
+ HCIL-96-15, CS-TR-3692
+ [HTML] [Link to Report]
+ Kolker, R., Shneiderman, B. (July 1996)
+Tools for Creating and Exploiting Content
+Getty Art History Information Program, Research Agenda for Networked Cultural Heritage (Santa Monica, CA,1996) 27-30.
+ HCIL-96-14
+ [HTML] [Link to Report]
+ Shneiderman, B. (July 1996)
+The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations
+Proc. 1996 IEEE Conference on Visual Languages (Boulder, CO, Sept.3-6,1996) 336-343. [Published Version]
+ HCIL-96-13, CS-TR-3665, ISR-TR-96-66
+ [HTML] [Link to Report]
+ Plaisant, C. (Editor) (June 1996)
+1996 Human-Computer Interaction Laboratory Video Reports
+ HCIL-96-12, CS-TR-3664
+ [HTML] [Link to Report]
+ Alonso, D., Norman, K. (May 1996)
+Apparency of Contingencies in Single Panel Menus
+ HCIL-96-11, CS-TR-3644, CAR-TR-824
+ [HTML] [Link to Report]
+ Oard, D., Marchionini, G. (May 1996)
+A Conceptual Framework for Text Filtering
+ Appeared as The State of the Art in Text Filtering in User Modeling and User Adapted Interaction, 7(3)141-178, 1997.
+ HCIL-96-10, CS-TR-3643, CAR-TR-830, EE TR-96-25, CLIS TR-96-02
+ [HTML] [Link to Report]
+ Marchionini, G., Plaisant, C., Komlodi, A. (May 1996)
+User Needs Assessment for the Library of Congress National Digital Library
+ HCIL-96-09, CS-TR-3640, CAR-TR-829, CLIS-96-01
+ [HTML] [Link to Report]
+ Mahajan, R., Shneiderman, B. (May 1996)
+Visual & Textual Consistency Checking Tools for Graphical User Interfaces
+IEEE Transactions on Software Engineering 23, 11 (November 1997), 722-735.
+ HCIL-96-08, CS-TR-3639, CAR-TR-828, ISR-TR-96-46
+ [HTML] [Link to Report]
+ Rose, A., Ellis, J., Plaisant, C., Greene, S. (May 1996)
+Life Cycle of User Interface Techniques: The DJJ Information System Design Process
+ HCIL-96-07, CS-TR-3637, CAR-TR-826
+ [HTML] [Link to Report]
+ Greene, S., Rose, A. (May 1996)
+Information and Process Integration from User Requirements Elicitation: A Case Study of Documents in a Social Services Agency
+ Information and Process Integration in Enterprises: Rethinking Documents, Wakayama, T., et al., ed., Kluwer: Boston, 1998, 143-160. (Proceedings of IPIC '96: Information and Processes Integration Conference "Rethinking Documents", Sloan School of Management, MIT, Cambridge, MA, November 14-15, 1996.
+ HCIL-96-06, CS-TR-3638, CAR-TR-827
+ [HTML] [Link to Report]
+ Shneiderman, B. (April 1996)
+Designing Information-Abundant Websites
+International Journal of Human-Computer Studies 47 (1997), 5-29. Also  Designing the User Interface, 3rd edition, Addison Wesley.
+ HCIL-96-05, CS-TR-3634, CAR-TR-824, ISR-TR-96-40
+ [HTML] [Link to Report]
+ Plaisant, C., Rose, A. (March 1996)
+Exploring LifeLines to Visualize Patient Records
+ A short version of this report appeared as a poster summary in 1996 American Medical Informatic Association Annual Fall Symposium (Washington, DC, Oct. 26-30, 1996), pp. 884, AMIA, Bethesda MD. [Published Version]
+ HCIL-96-04, CS-TR-3620, CAR-TR-819
+ [HTML] [Link to Report]
+ Paton, N., Doan, K., Díaz, O., Jaime, A. (December 1995)
+Exploitation of Object-Oriented and Active Constructs in Database Interface Development
+Proceedings of the 3rd International Workshop on Database Interfaces (IDS3) (Edinburgh, Scotland, July 1996) Springer Verlag, 1-14. http://www.springer.co.uk/eWiC/eWiCAbstracts/IDS3.html
+ HCIL-96-03
+ [HTML]  [Link to Report]
+ Preece, J., Shneiderman, B. (December 1995)
+Survival of the Fittest: The Evolution of Multimedia User Interfaces
+ACM Computing Surveys, vol. 27, 4 (Dec. 1995) 558-559.
+ HCIL-96-02
+ [HTML]  [Link to Report]
+ Korn, F., Shneiderman, B. (February 1996)
+Navigating Terminology Hierarchies to Access a Digital Library of Medical Images
+ HCIL-96-01
+ [HTML]  [Link to Report]
+1995
+ Plaisant, C., Levy, R., Zhao, W. (November 1995)
+BizView: Managing Business and Network Alarms
+ Summary of the video available from HCIL as part of the  1995 HCIL Video report.
+ HCIL-95-22
+ [HTML] [Link to Report]
+ Pointek, J. (November 1995)
+Data Structures for Dynamic Query Browsing of EOS Data Directories
+ Presentation abstract appears in online Proc. of NASA Science Information Systems Interoperability Conference (University of Maryland, College Park, MD, Nov. 6-9, 1995)
+ HCIL-95-21
+ [HTML] [Link to Report]
+ North, C., Shneiderman, B., Plaisant, C. (October 1995)
+User Controlled Overviews of an Image Library: A Case Study of the Visible Human
+Proc. of the 1st ACM International Conference on Digital Libraries (Bethesda, MD, March 20-23, 1996) 74-82. ACM, New York. In addition a video "Browsing anatomical image databases: A case study of the Visible Human" appeared in CHI 96 Video Program with a two-page video summary in ACM CHI '96 Conference Companion (Vancouver, BC, Canada, April 13-18, 1996) 414-415, http://www.acm.org/sigchi/chi96/proceedings. The video is also available from HCIL as part of the  1995 HCIL Video report. [Published Version]
+ HCIL-95-20, CS-TR-3550, CAR-TR-798, ISR-TR-95-99.
+ [HTML] [Video] [Link to Report]
+ Shneiderman, B., Alavi, M., Norman, K., Borkowski, E. (September 1995)
+Windows of Opportunity in Electronic Classrooms
+Communications of the ACM, Log on Education column, vol. 38, 11 (Nov. 1995) 19-24.
+ HCIL-95-19, CS-TR-3542, CAR-TR-797
+ [HTML] [Link to Report]
+ Shneiderman, B., Rose, A. (September 1995)
+Social Impact Statements: Engaging Public Participation in Information Technology Design
+Proc. CQL'96, ACM SIGCAS Symposium on Computers and the Quality of Life (Feb. 1996) 90-96. Also appears in Friedman, B. (Editor), Human Values and the Design of Computer Technology, CSLI Publications and Cambridge Univ. Press (1997), 117-133.
+ HCIL-95-18, CS-TR-3537, CAR-TR-796.
+ [HTML] [Link to Report]
+ Plaisant, C. (Editor) (June 1995)
+1995 Human-Computer Interaction Laboratory Video Reports
+ HCIL-95-17, CS-TR-3532, CAR-TR-795
+ [HTML] [Link to Report]
+ Doan, K., Plaisant, C., Shneiderman, B. (September 1995)
+Query Previews in Networked Information Systems
+Proc. of the Third Forum on Research and Technology Advances in Digital Libraries, ADL '96 (Washington, DC, May 13-15, 1996) IEEE CS Press, 120-129. Also abstract appears as Architecture of dynamic query user interface for networked information systems in on-line Proc. of NASA Science Information Systems Interoperability Conference  (College Park, MD, Nov. 6-9, 1995)
+ HCIL-95-16, CS-TR-3524, CAR-TR-788, ISR-TR-95-90
+ [HTML] [Link to Report]
+ Plaisant, C., Milash, B., Rose, A., Widoff, S., Shneiderman, B. (September 1995)
+Life Lines: Visualizing Personal Histories
+ACM CHI '96 Conference Proc. (Vancouver, BC, Canada, April 13-18, 1996) 221-227, color plate 518, http://www.acm.org/sigchi/sigchi96/proceedings. The paper also has a corresponding video in the  CHI 96 Video Program ACM, New York. Video also available from HCIL in the  1996 HCIL Video report.
+ HCIL-95-15, CS-TR-3523, CAR-TR-787, ISR-TR-95-88.
+ [HTML] [Link to Report]
+ Kandogan, E., Shneiderman, B. (September 1995)
+Elastic Windows: Improved Spatial Layout and Rapid Multiple Window Operations
+ACM Proc. of the Workshop on Advanced Visual Interfaces, AVI '96 (Gubbio, Italy, May 27-29, 1996) 29-38.
+ HCIL-95-14, CS-TR-3522, CAR-TR-786, ISR-TR-95-89.
+ [HTML] [Video] [Link to Report]
+ Carr, D. (May 1995)
+A Compact Graphical Representation of User Interface Interaction Objects
+ 190 page Doctoral dissertation CSC 949, see 94-09 for condensed version.
+ HCIL-95-13
+ [Link to Report]
+ Kumar, H., Plaisant, C., Shneiderman, B. (March 1995)
+Browsing Hierarchical Data with Multi-Level Dynamic Queries and Pruning
+International Journal of Human-Computer Studies, Volume 46, No. 1, 103-124 (January 1997).
+ HCIL-95-12, CS-TR-3474, CAR-TR-772, ISR-TR-95-53.
+ [HTML] [Link to Report]
+ Plaisant, C., Shneiderman, B. (May 1995)
+Organization Overviews and Role Management: Inspiration for Future Desktop Environments
+ IEEE Proc. 4th Workshop on Enabling Technologies: Infrastructure for Collaborative Enterprises (Berkeley Springs, WV, April 20-22, 1995) 14-22. [Published Version]
+ HCIL-95-11, CS-TR-3473, CAR-TR-771.
+ [HTML] [Link to Report]
+ Mahajan, R., Shneiderman, B. (April 1995)
+A Family of User Interface Consistency Checking Tools
+Proc. of the Twentieth Annual Software Engineering Workshop, SEL-95-004 (Greenbelt, MD, Dec. 1995) NASA Pub., 169-188.
+ HCIL-95-10, CS-TR-3472, CAR-TR-770, ISR-TR-95-52.
+ [HTML] [Link to Report]
+ Slaughter, L., Norman, K., Shneiderman, B. (March 1995)
+Assessing Users' Subjective Satisfaction with the Information System for Youth Services (ISYS)
+VA Tech Proc. of Third Annual Mid-Atlantic Human Factors Conference (Blacksburg, VA, March 26-28, 1995) 164-170.
+ HCIL-95-09, CS-TR-3463, CAR-TR-768
+ [HTML] [Link to Report]
+ Plaisant, C., Rose, A., Shneiderman, B., Vanniamparampil, A. (Revised October 1996)
+User Interface Reengineering: Low Effort, High Payoff Strategies
+IEEE Software, vol.14, 4 (July/August 1997) 66-72. Also translated in Japanese in Nikkei Computer,Nikkei Business Publications, Inc., Tokyo, Japan, no. 430, pp. 151-159, Nov. 1997.
+ HCIL-95-08, CS-TR-3459, CAR-TR-767
+ [HTML] [Link to Report]
+ Rose, A., Shneiderman, B., Plaisant, C. (February 1995)
+An Applied Ethnographic Method for Redesigning User Interfaces
+ACM Proc. of DIS 95, Symposium on Designing Interactive Systems: Processes, Practices, Methods & Techniques (Ann Arbor, MI, Aug 23-25, 1995)115-122. [Published Version]
+ HCIL-95-07, CS-TR-3454, CAR-TR-765.
+ [HTML] [Link to Report]
+ Ellis, J., Tran, C., Ryoo, J., Shneiderman, B. (June 1995)
+Buttons vs. Menus: An Exploratory Study of Pull-Down Menu Selection as Compared to Button Bars
+ HCIL-95-06, CS-TR-3452, CAR-TR-764.
+ [HTML] [Link to Report]
+ Shneiderman, B., Chimera, R., Jog, N., Stimart, R., White, D. (May 1995)
+Evaluating Spatial and Textual Style of Displays
+Proc. of Getting the Best from State of the Art Display Systems, The Society for Information Display (Trafalgar Square, London, Feb. 21-23, 1995). Also appears in MacDonald, L., and Lowe, A. (1997), Display systems: Design and Applications, Chapter 5: Evaluating the spatial and textual style of diplays, pp 83-96. John Wiley & Sons.
+ HCIL-95-05, CS-TR-3451, CAR-TR-763, ISR-TR-95-51.
+ [HTML] [Link to Report]
+ Asahi, T., Turo, D., Shneiderman, B. (January 1995)
+Visual Decision-Making: Using Treemaps for the Analytic Hierarchy Process
+ Video in CHI '95 Video Program, ACM, New York. A two page video summary also appears in ACM CHI '95 Conference Companion, (Denver, Colorado, May 7-11, 1995) 405-406. Video also available through HCIL as part of the  1994 HCIL Video Report.
+ HCIL-95-04
+ [HTML]  [Link to Report]
+ Plaisant, C., Shneiderman, B. (May 1995)
+Organization Overviews and Role Management: Inspiration for Future Desktop Environments
+ Video in CHI '95 Video Program, ACM, New York. A two page video summary also appears in ACM CHI '95 Conference Companion, (Denver, Colorado, May 7-11, 1995) 419-420. Video also available through HCIL as part of the  1994 HCIL Video Report.
+ HCIL-95-03
+ [HTML]  [Link to Report]
+ Shneiderman, B. (October 1994)
+Looking for the Bright Side of User Interface Agents
+ACM Interactions, vol. 2, 1 (Jan. 1995) 13-15.
+ HCIL-95-02
+ [HTML]  [Link to Report]
+ Shneiderman, B. (January 1995)
+The Info Superhighway: For the People
+Communications of the ACM, Inside Risks column, vol. 38, 1 (Jan. 1995) 162.
+ HCIL-95-01
+ [HTML]  [Link to Report]
+1994
+ Atallah, G., Ball, M., Baras, J., Goli, S., Karne, R., Kelley, S., Kumar, H., Plaisant, C., Roussopoulos, N., Shneiderman, B., Srinivasarao, M., Stathatos, K., Teittinen, M., Whitefield, D.
+Next Generation Network Management Technology
+ ISR-TR-94-42 Proceedings of the 12th Symposium on Space Nuclear Power and Propulsion/Commercialization, pp. 75-82, Albuquerque, NM, January 8-12, 1995.
+ HCIL-94-19
+ [Link to Report]
+ Rosenfeld, A., Marchionini, G., Holliday, W., Ricart, G., Faloustos, C., Dick, J., Shneiderman, B. (June 1994)
+QUEST: QUery Environment for Science Teaching
+Proc. of Digital Libraries '94 (Texas A&M University, College Station, TX) 74-79. Also available at http://atg1.WUSTL.edu/DL94
+ HCIL-94-18
+ [Link to Report]
+ Plaisant, C. (Editor) (June 1994)
+1994 Human-Computer Interaction Laboratory Video Reports
+ HCIL-94-17, CS-TR-3531, CAR-TR-794.
+ [HTML] [Link to Report]
+ Plaisant, C., Jain, V. (April 1994)
+Dynamaps: Dynamic Queries on a Health Statistics Atlas
+ Video in CHI '94 Video Program, ACM, New York. A two page video summary also appears in ACM CHI '94 Conference Companion, (Boston, MA, April 24-28, 1994) 439-440. Video also available through HCIL as part of the  1993 HCIL Video Report.
+ HCIL-94-16
+ [HTML]  [Video] [Link to Report]
+ Turo, D. (April 1994)
+Hierarchical Visualization with Treemaps: Making Sense of Pro Basketball Data
+ Video in CHI '94 Video Program, ACM, New York. A two page video summary also appears in ACM CHI '94 Conference Companion, (Boston, MA, April 24-28, 1994) 441-442. Video also available through HCIL as part of the 1993 HCIL Video Report.
+ HCIL-94-15
+ [HTML]  [Link to Report]
+ Ahlberg, C., Shneiderman, B. (April 1994)
+Visual Information Seeking Using the FilmFinder
+ Video in CHI '94 Video Program, ACM, New York. A two page video summary also appears in ACM CHI '94 Conference Companion, (Boston, MA, April 24-28, 1994) 433-434. Video also available through HCIL as part of the  1994 HCIL Video Report.
+ HCIL-94-14
+ [Video] [Link to Report]
+ Marchionini, G., Barlow, D. (January 1994)
+Extending Retrieval Strategies to Networked Environments: Old Ways, New Ways, and a Critical Look at WAIS
+Journal of American Society for Information Science, 45 (8) 561-564.
+ HCIL-94-13
+ [Link to Report]
+ Shneiderman, B. (October 1994)
+The River Beyond the Rapids: Responsive Services for Responsible Users
+Connecting the DOE Community: Partnerships in Information, Info Tech '94 (Oak Ridge, TN, Oct. 25-26,1994) 1-9. Also appears as Comprehensible Predictable, and Controllable User Interfaces in American Programmer, vol.8, 4 (April 1995) 2-7.
+ HCIL-94-12
+ [HTML]  [Link to Report]
+ Barreau, D. (December 1994)
+Context as a Factor in Personal Information Management Systems
+Journal of American Society for Information Science, 46 (5) 327-339.
+ HCIL-94-11
+ [Link to Report]
+ Kumar, H. (December 1994)
+Browsing Hierarchical Data with Multi-Level Dynamic Queries and Pruning
+ Dissertation (105p.), see 95-12 (CS-TR-3474) for condensed version. ISR-MS-95-5.
+ HCIL-94-10
+ [Link to Report]
+ Carr, D., Jog, N., Kumar, H., Teittinen, M. (September 1994)
+Using Interaction Object Graphs to Specify and Develop Graphical Widgets
+ HCIL-94-09, CS-TR-3344, CAR-TR-734, ISR-TR-94-69
+ [Link to Report]
+ Asahi, T., Turo, D., Shneiderman, B. (June 1994)
+Using Treemaps to Visualize the Analytic Hierarchy Process
+Information Systems Research, vol. 6, 4 (Dec. 1995) 357-375.
+ HCIL-94-08, CS-TR-3293, CAR-TR-719, ISR-TR-94-57.
+ [HTML] [Link to Report]
+ Kumar, H., Plaisant, C., Teittinen, M., Shneiderman, B. (June 1994)
+Visual information management for network configuration
+ Part of this article was later published in: Next Generation Network Management Technology, G. Atallah, M. Ball, J. Baras, S. Goli, R. Karne, S. Kelley, H. Kumar, C. Plaisant, N. Roussopoulos, B. Shneiderman, M. Srinivasarao, K. Stathatos, M. Teittinen, and D. Whitefield, Proceedings of the 12th Symposium on Space Nuclear Power and Propulsion/Commercialization, pp. 75-82, Albuquerque, NM, January 8-12, 1995
+ HCIL-94-07, CS-TR-3288, CAR-TR-716, ISR-TR-94-45
+ [HTML] [Link to Report]
+ Jog, N., Shneiderman, B. (May 1994)
+Starfield Information Visualization with Interactive Smooth Zooming
+IFIP 2.6 Visual Databases Systems Proc. (Lausanne, Switzerland, March 27-29,1995) 1-10. [Published Version]
+ HCIL-94-06, CS-TR-3286, CAR-TR-714, ISR-TR-94-46.
+ [HTML] [Link to Report]
+ Shneiderman, B., Plaisant, C. (May 1994)
+The Future of Graphic User Interfaces: Personal Role Managers
+People and Computers IX, British Computer Society's HCI 94 (Glasgow, Scotland, Aug. 1994) CU Press (Cambridge, U.K.) 3-8. [Published Version]
+ HCIL-94-05, CS-TR-3285, CAR-TR-713, ISR-TR-94-48
+ [HTML]  [Link to Report]
+ Johnson, B. (August 1993)
+Treemaps: Visualizing Hierarchical and Categorical Data
+ HCIL-94-04, UMI-94-25057.
+ [Link to Report]
+ Carr, D., Plaisant, C., Hasegawa, H. (revised June 1995)
+Usability Experiments for the Redesign of a Telepathology Workstation
+ Based on The Design of a Telepathology Workstation: Exploring Remote Images. Interacting with Computers, 11(1), 1998, pp. 33-52.
+ HCIL-94-03, CS-TR-3270, CAR-TR-708
+ [Link to Report]
+ Plaisant, C., Carr, D., Shneiderman, B. (April 1994)
+Image Browsers: Taxonomy, Guidelines, and Informal Specifications
+IEEE Software, vol.12, 2 (March 1995) 21-32.
+ HCIL-94-02, CS-TR-3282, CAR-TR-712, ISR-TR-94-39
+ [HTML] [Link to Report]
+ Shneiderman, B., Lewis, C. (March 1992)
+Building HCI Partnerships and Infrastructure
+Behavior & Information Technology 12, 2, 1993, 130-135.
+ HCIL-94-01
+ [HTML]  [Link to Report]
+1993
+ Plaisant, C. (Editor) (June 1993)
+1993 Human-Computer Interaction Laboratory Video Reports
+ HCIL-93-25, CS-TR-3530, CAR-TR-793
+ [HTML] [Link to Report]
+ Plaisant, C., Carr, D., Hasegawa, H. (April 1993)
+Exploring Remote Images: A Telepathology Workstation
+ Video in ACM INTERCHI 93 Video Program (Amsterdam, Netherlands, April 24-29, 1993), video available through ACM SIGGRAPH Video Review, issue 88-89. A one page summary also appears in INTERCHI 93 Proceedings, 518. Video also available through HCIL as part of the  1992 HCIL Video Report.
+ HCIL-93-24
+ [HTML]  [Link to Report]
+ Potter, R. (April 1993)
+Guiding Automation with Pixels: A Technique for Programming in the User Interface
+ Video in ACM INTERCHI 93 Video Program (Amsterdam, Netherlands, April 24-29, 1993), video available through ACM SIGGRAPH Video Review, issue 88-89. A one page summary also appears in INTERCHI 93 Proceedings, 530. Video also available through HCIL as part of the  1992 HCIL Video Report.
+ HCIL-93-23
+ [Link to Report]
+ Norman, K., Wright, P. (Aug. 1993)
+HyperTools for HyperTexts: Supporting Readers of Electronic Documents
+ HCIL-93-22, CS-TR-3090, CAR-TR-675
+ [HTML] [Link to Report]
+ Plaisant, C. (Aug. 1993)
+Facilitating Data Exploration: Dynamic Queries on a Health Statistics Map
+ ASA (Alexandria, VA)1993 Proc. of the Annual Meeting of the American Statistical Association of the Government Statistics Section (San Francisco, CA, Aug. 1993) 18-23.
+ HCIL-93-21
+ [HTML]  [Link to Report]
+ Carr, D. (Sept. 1993)
+Specification of Interface Interaction Objects
+ACM CHI '94 Conference Proc. (Boston, MA, April 24-28, 1994) 372-378.
+ HCIL-93-20, CS-TR-3142, CAR-TR-687
+ [HTML] [Link to Report]
+ Potter, R., Maulsby, D. (May 1993)
+A Test Suite for Programming by Demonstration
+Watch What I Do: Programming By Demonstration, Allen Cypher, Ed., MIT Press, Cambridge, MA (1993) 539-591.
+ HCIL-93-19
+ [HTML]  [Link to Report]
+ Potter, R. (May 1993)
+Just-in-Time Programming
+Watch What I Do: Programming By Demonstration, Allen Cypher, Ed., MIT Press (1993) 513-526.
+ HCIL-93-18
+ [HTML]  [Link to Report]
+ Marchionini, G., Crane, H. (April 1994)
+Evaluating Hypermedia and Learning: Methods and Results from the Perseus Project
+ACM Transactions on Information Systems, vol. 12, 1 (Jan. 1994) 5-34.
+ HCIL-93-17
+ [Link to Report]
+ Jain, V., Shneiderman, B. (revised Sept. 1993)
+Data Structures for Dynamic Queries: An Analytical and Experimental Evaluation
+Proc. of the Workshop in Advanced Visual Interfaces, AVI 94 ( Bari, Italy, June 1-4, 1994) 1-11. Previous version referenced as CAR-TR-685 CS-TR-3133, ISR-TR-93-73. [Published Version]
+ HCIL-93-16, CS-TR-3287, CAR-TR-715, ISR-TR-94-47.
+ [Link to Report]
+ Ahlberg, C., Shneiderman, B. (Sept. 1993)
+The Alphaslider: A Compact and Rapid Selector
+ACM CHI '94 Conference Proc. (Boston, MA, April 24-28, 1994) 365-371. [Published Version]
+ HCIL-93-15, CS-TR-3132, CAR-TR-684, SRC-TR-93-72.
+ [HTML] [Link to Report]
+ Ahlberg, C., Shneiderman, B. (Sept. 1993)
+Visual Information Seeking: Tight Coupling of Dynamic Query Filters with Starfield Displays
+ACM CHI '94 Conference Proc. (Boston, MA, April 24-28, 1994) 313-317. Also appears in Readings in Human-Computer Interaction: Toward the Year 2000, Baecker, R.M., Grudin, J. , Buxton, W.A.S. & Greenberg, S., Eds., Morgan Kaufmann Pubs., Inc ., (1995) 450-456, inside back cover. [Published Version]
+ HCIL-93-14, CS-TR-3131, CAR-TR-638, SRC-TR-93-71
+ [HTML] [Link to Report]
+ Shneiderman, B. (1993)
+Preface to Sparks of Innovation in Human-Computer Interaction
+Sparks of Innovation in Human-Computer Interaction, B. Shneiderman, Ed., Ablex Publ. (1993) 385 pages. ACM Interactions, vol. 1, 1 (Jan. 1994) 67-71.
+ HCIL-93-13
+ [HTML]  [Link to Report]
+ Shneiderman, B. (1993)
+Declaration in Apple vs. Microsoft/Hewlett-Packard
+Sparks of Innovation in Human-Computer Interaction, B. Shneiderman, Ed., Ablex Publ. (1993) 355-363.
+ HCIL-93-12
+ [HTML]  [Link to Report]
+ Chimera, R., Shneiderman, B. (1993)
+User Interface Consistency: An Evaluation of Original and Revised Interfaces for a Videodisk Library
+Sparks of Innovation in Human-Computer Interaction, B. Shneiderman, Ed., Ablex Publ. (1993) 259-273.
+ HCIL-93-11
+ [HTML]  [Link to Report]
+ Marchionini, G., Ashley, M., Korzendorfer, L. (1993)
+ACCESS at the Library of Congress
+Sparks of Innovation in Human-Computer Interaction, B. Shneiderman, Ed., Ablex Publ., Norwood, NJ (1993) 251-258.
+ HCIL-93-10
+ [HTML]  [Link to Report]
+ Chimera, R. (March 1993)
+Evaluation of Platform Independent User Interface Builders
+ Complete paper version available with 100 page statistical data section.
+ HCIL-93-09
+ [HTML]  [Link to Report]
+ Osada, M., Liao, H., Shneiderman, B. (April 1993)
+AlphaSlider: Development and Evaluation of Text Retrieval Method Using Sliders
+9th Symposium on Human Interface (Kobe, Japan, Oct. 18-20, 1993) 91-94.
+ HCIL-93-08, CS-TR-3078, CAR-TR-673, ISR-93-52.
+ [HTML] [Link to Report]
+ Shneiderman, B. (March 1993)
+Education by Engagement and Construction: Experiences in the AT&T Teaching Theater
+ AACE (Charlotesville, VA) Education Multimedia and Hypermedia Annual, Maurer, H., Ed., 1993, Ed-Media 93 (Orlando, FL, June 23-26, 1993) 471-479.
+ HCIL-93-07
+ [HTML] [Link to Report]
+ Lindwarm, D., Norman, K. (May 1993)
+Student Evaluation of the Software in the AT&T Teaching Theater
+ HCIL-93-06, CS-TR-3069, CAR-TR-672
+ [HTML] [Link to Report]
+ Shneiderman, B. (April 1993)
+Engagement and Construction: Education Strategies for the Post-TV Era
+Computer Assisted Learning, International Conference on Computers and Learning, (Wolfville, Nova Scotia, Canada, June 17-20, 1992) 39-45. Also Journal of Computing in Higher Education, vol. 4 (2) (Spring 1993) 106-116. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 345-350.
+ HCIL-93-05
+ [HTML]  [Link to Report]
+ Sears, A. (March 1993)
+Layout Appropriateness: Guiding User Interface Design with Simple Task Descriptions
+ Dissertation (113p.), see 92-02 (CS-TR-2823) and 92-15(CS-TR-2997) for condensed version.
+ HCIL-93-04
+ [Link to Report]
+ Shneiderman, B. (Sept. 1993)
+Beyond Intelligent Machines: Just Do It!
+IEEE Software, vol. 10, 1 (Jan 1993) 100-103.
+ HCIL-93-03
+ [HTML]  [Link to Report]
+ Potter, R. (Jan. 1993)
+Triggers: Guiding Automation with Pixels to Achieve Data Access
+Watch What I Do: Programming by Demonstration, Cypher, A., Ed., MIT Press (1993) 360-380.
+ HCIL-93-02, CS-TR-3027, CAR-TR-658
+ [HTML] [Link to Report]
+ Shneiderman, B. (Jan. 1993)
+Dynamic Queries: For Visual Information Seeking
+IEEE Software, vol. 11, 6 (Nov. 1994) 70-77.
+ HCIL-93-01, CS-TR-3022, CAR-TR-655, SRC-TR-93-3.
+ [HTML]  [Link to Report]
+1992
+ Carter, L. (October 2006)
+The Effects of Spatial Information Presentation on Human Decision-Making
+ Ph.D. Dissertation from the Department of Psychology
+ HCIL-92-19
+ [Link to Report]
+ Shneiderman, B. (June 4, 1992)
+Socially Responsible Computing I: A Call to Action Following the L.A. Riot
+ Shneiderman, B., Socially Responsible Computing I: A call to action following the L. A. Riots, ACM SIGCHI Bulletin 24, 3 (July 1992), 14-15. Socially Responsible Computing II: First steps on the path to positive contributions, ACM SIGCHI Bulletin 24, 3 (July 1992), 16-17. Reprinted in revised form as a Viewpoint, Communications of the ACM 36, 1 (January 1993), 15-16.
+ HCIL-92-18
+ [HTML]  [Link to Report]
+ Plaisant, C. (Editor) (June 1992)
+1992 Human-Computer Interaction Laboratory Video Reports
+ HCIL-92-17, CS-TR-3529, CAR-TR-792
+ [HTML] [Link to Report]
+ Kuah, B., Shneiderman, B. (Nov. 1992)
+Providing advisory notices for UNIX command users: design, implementation, and empirical evaluations
+ HCIL-92-16, CS-TR-3007, CAR-TR-651
+ [Link to Report]
+ Sears, A., Shneiderman, B. (Nov. 1992)
+Split menus: effectively using selection frequency to organize menus
+ACM Transactions on Computer-Human Interaction, vol. 1, 1 (March 1994) 27-51.
+ HCIL-92-15, CS-TR-2997, CAR-TR-649
+ [HTML]  [Link to Report]
+ Jungmeister, W., Turo, D. (Nov. 1992)
+Adapting treemaps to stock portfolio visualization
+ HCIL-92-14, CS-TR-2996, CAR-TR-648, SRC-TR-92-120.
+ [Link to Report]
+ Plaisant, C., Carr, D., Hasegawa, H. (Oct. 1992)
+When an intermediate view matters: A 2D browser experiment
+ HCIL-92-13, CS-TR-2980, CAR-TR-645, SRC-TR-92-119.
+ [HTML] [Link to Report]
+ Plaisant, C. (May 1992)
+Touchscreen toggle design
+ Video in CHI `92 Video Program (Monterey, CA, May 3-7, 1992) Available through ACM SIGGRAPH Video Review, issue 77, ACM, New York. A two page video summary appears in CHI' 92 Proceedings, 667-668. Video also available through HCIL as part of the  1991 HCIL Video Report.
+ HCIL-92-12
+ [Video] [Link to Report]
+ Chimera, R. (May 1992)
+Value bars: An information visualization and navigation tool for multi-attribute listings, demonstration summary appears in ACM CHI `92 Conference Proc. (Monterey, CA, May 3-7, 1992) 293-294.
+ACM CHI `92 Conference Proceedings, (Monterey, CA, May 3-7, 1992) 293-294.
+ HCIL-92-11
+ [Link to Report]
+ Johnson, B. (May 1992)
+TreeViz: Treemap visualization of hierarchically structured information
+ Demonstration summary appears in ACM CHI `92 Conference Proc. (Monterey, CA, May 3-7, 1992) 369-370.
+ HCIL-92-10
+ [Link to Report]
+ Karl, L., Pettey, M., Shneiderman, B. (July 1992)
+Speech versus mouse commands for word processing: an empirical evaluation
+International Journal of Man-Machine Studies, vol. 39, 4 (Oct. 1993) 667-687.
+ HCIL-92-09, CS-TR-2925, CAR-TR-630, SRC-TR-92-86.
+ [HTML] [Link to Report]
+ Norman, K., Carter, L. (May 1992)
+A preliminary evaluation of the electronic classroom: The AT&T Teaching Theater at the University of Maryland
+ HCIL-92-08, CS-TR-2892, CAR-TR-621
+ [HTML] [Link to Report]
+ Young, D., Shneiderman, B. (May 1992)
+ A graphical filter/flow representation of boolean queries: a prototype implementation and evaluation
+Journal of American Society for Information Science, vol. 44, 6, (July 1993) 327-339.
+ HCIL-92-07, CS-TR-2905, CAR-TR-627
+ [Video] [Link to Report]
+ Turo, D., Johnson, B. (May 1992)
+Improving the visualization of hierarchies with treemaps: Design issues and experimentation
+Proc. Visualization `92 (Boston, MA, Oct. 19-23,1992) 124-131.
+ HCIL-92-06, CS-TR-2901, CAR-TR-626, SRC-TR-92-62.
+ [HTML] [Link to Report]
+ Carr, D., Hasegawa, H., Lemmon, D., Plaisant, C. (March 1992)
+The effects of time delays on a telepathology user interface
+Proc. of the 16th Annual Symposium on Computer Applications in Medical Care , SCAMC (Baltimore, MD, Nov. 7-11, 1992) 256-260.
+ HCIL-92-05, CS-TR-2874, CAR-TR-616, SRC-TR-92-49.
+ [Link to Report]
+ Rivlin, E., Botafogo, R., Shneiderman, B. (March 1992)
+Navigating in hyperspace: designing a structure based toolbox
+Communications of the ACM, vol. 37, 2, (Feb. 1994) 87-96.
+ HCIL-92-04, CS-TR-2861, CAR-TR-606
+ [Link to Report]
+ Liao, H., Osada, M., Shneiderman, B. (Feb. 1992)
+Browsing Unix directories with Dynamic Queries: An evaluation of three information display techniques
+9th Symposium on Human Interface (Kobe, Japan, Oct. 18-20, 1993) 95-98.
+ HCIL-92-03, CS-TR-2841, CAR-TR-605
+ [Link to Report]
+ Sears, A. (Dec. 1992)
+Layout appropriateness: a metric for user interface evaluation
+IEEE Transactions on Software Engineering, vol. 19, 7 (July 1993) 707-719.
+ HCIL-92-02, CS-TR-2823, CAR-TR-603
+ [Link to Report]
+ Williamson, C., Shneiderman, B. (Jan. 1992)
+The dynamic HomeFinder: Evaluating dynamic queries in a real-estate information exploration system
+Proc. ACM SIGIR `92 (Copenhagen, June 21-24, 1992) 338-346. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 295-307. [Published Version]
+ HCIL-92-01, CS-TR-2819, CAR-TR-602
+ [HTML] [Video] [Link to Report]
+1991
+ Plaisant, C. (Editor) (June 1991)
+1991 Human-Computer Interaction Laboratory Video Reports
+ HCIL-91-16, CS-TR-3528, CAR-TR-791
+ [HTML] [Link to Report]
+ Shneiderman, B. (1991)
+Education by engagement and construction: A strategic education initiative for a multimedia renewal of American education
+ Sociomedia: Multimedia, Hypermedia, and the Social Construction of Knowledge, Barrett, E., Ed., MIT Press (1992) 13-26.
+ HCIL-91-15
+ [Link to Report]
+ Chimera, R. (Oct. 1991)
+Value bars: an information visualization and navigation tool for multi-attribute listings and tables
+ HCIL-91-14, CS-TR-2773, CAR-TR-589
+ [Link to Report]
+ Shneiderman, B., Williamson, C., Ahlberg, C. (Nov. 1991)
+Dynamic queries: Database searching by direct manipulation
+ Video in CHI `92 Video Program (Monterey, CA, May 3-7, 1992) Available through ACM SIGGRAPH Video Review, issue 77, ACM, New York. A two page video summary appears in CHI' 92 Proceedings, 669-670. Video also available through HCIL as part of the  1992 HCIL Video Report.
+ HCIL-91-13
+ [Link to Report]
+ Plaisant, C., Sears, A. (Sept. 1991)
+Touchscreen interfaces for alphanumeric data entry
+Proc. of the Human Factors Society - 36th Annual Meeting, vol. 1, (Atlanta, GA, Oct. 12-16, 1992) 293-297. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 195-204. Also Human Factors Perspectiv es on Human-Computer Interaction,Selections from Proc. of Human Factors and Ergonomics Society Annual Meetings 1983-1994, Perlman, G., Green, G.K., Wogalter, M.S., Eds. (1995) 261-265.
+ HCIL-91-12, CS-TR-2764, CAR-TR-585
+ [Link to Report]
+ Ahlberg, C., Williamson, C., Shneiderman, B. (Sept. 1991)
+Dynamic queries for information exploration: An implementation and evaluation
+ACM CHI `92 Conference Proc. (Monterey, CA, May 3-7, 1992) 619-626. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 281-294. [Published Version]
+ HCIL-91-11, CS-TR-2763, CAR-TR-584
+ [HTML] [Link to Report]
+ Shneiderman, B. (July 1991)
+Visual user interfaces for information exploration
+ 1991 ASIS Proc., 379-384.
+ HCIL-91-10, CS-TR-2748, CAR-TR-577
+ [Link to Report]
+ Weiland, W., Shneiderman, B. (July 1991)
+A graphical query interface based on aggregation/generalization hierarchies
+Information Systems, vol. 18, 4 (1993) 215-232.
+ HCIL-91-09, CS-TR-2702, CAR-TR-562
+ [Link to Report]
+ Norman, K. (1991)
+Models of mind and machines, information flow and control between humans and computers
+Advances in Computers, vol. 32, M. Yovits, Ed., Academic Press Inc., NY, NY (1991) 201-254.
+ HCIL-91-08
+ [Link to Report]
+ Sears, A., Revis, D., Swatski, S., Crittenden, R., Shneiderman, B. (April 1991)
+Investigating touchscreen typing: The effect of keyboard size on typing speed
+Behavior & Information Technology, vol. 12, 1 (Jan-Feb 1993) 17-22.
+ HCIL-91-07, CS-TR-2662, CAR-TR-553
+ [Link to Report]
+ Johnson, B., Shneiderman, B. (April 1991)
+Treemaps: a space-filling approach to the visualization of hierarchical information structures
+Proc. of the 2nd International IEEE Visualization Conference (San Diego, Oct. 1991) 284-291. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 309-322. [Published Version]
+ HCIL-91-06, CS-TR-2657, CAR-TR-552, SRC-92-62.
+ [HTML] [Video] [Link to Report]
+ Keil-Slawik, R., Plaisant, C., Shneiderman, B. (April 1991)
+Remote direct manipulation: A case study of a telemedicine workstation
+Human Aspects in Computing: Design and Use of Interactive Systems and Information Management, 4th Int. Conf. on HCI (Stuttgart, Sept. 91) 1006-1011. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 51-61.
+ HCIL-91-05, CS-TR-2655, CAR-TR-551
+ [Link to Report]
+ Botafogo, R., Shneiderman, B. (April 1991)
+Identifying aggregates in hypertext structures
+ACM Proc.of Hypertext `91 (San Antonio, TX, Dec. 15-18) 63-74. [Published Version]
+ HCIL-91-04, CS-TR-2650, CAR-TR-550
+ [Link to Report]
+ Shneiderman, B. (March 1991)
+Tree visualization with treemaps: a 2-d space-filling approach
+ACM Transactions on Graphics, vol. 11, 1 (Jan. 1992) 92-99.
+ HCIL-91-03, CS-TR-2645, CAR-TR-548
+ [HTML] [Link to Report]
+ Shneiderman, B. (March 1991)
+Touch screens now offer compelling uses
+IEEE Software 8, 2, (March 1991) 93-94, 107. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 187-193.
+ HCIL-91-02
+  [Link to Report]
+ Chimera, R., Wolman, K., Mark, S., Shneiderman, B. (revised Sept. 1993)
+An exploratory evaluation of three interfaces for browsing large hierarchical tables of contents
+ACM Transactions on Information Systems, vol.12., 4 (Oct. 94) 383-406.
+ HCIL-91-01, CS-TR-2620, CAR-TR-539
+ [Link to Report]
+1990
+ Norman, K. (June 1990)
+The electronic teaching theater: interactive hypermedia and mental models of the classroom
+Current Psychology: Research & Reviews, Summer 90, vol. 9, 2, 141-161. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 133-151.
+ HCIL-90-13
+ [Link to Report]
+ Shneiderman, B. (Oct. 1990)
+Protecting rights in user interface designs
+ACM SIGCHI Bulletin, Oct. 1990. Excerpt of this paper also appeared as: Intellectual protection for user interfaces?, Communications of the ACM, 34, 4, (April 1991) 13-14. Also Sparks of Innovation in Human-Computer Interaction, Shneider man, B., Ed., Ablex (June 1993) 351-354.
+ HCIL-90-12
+ [HTML]  [Link to Report]
+ Botafogo, R., Rivlin, E., Shneiderman, B. (Dec. 1990)
+Structural analysis of hypertexts: identifying hierarchies and useful metrics
+ACM Transactions on Information Systems, vol. 10, 2, April 1992, 142-180.
+ HCIL-90-11, CS-TR-2574, CAR-TR-526
+ [Link to Report]
+ Plaisant, C., Shneiderman, B., Battaglia, J. (1990)
+Scheduling home-control devices: a case study of the transition from the research project to a product
+Human Factors in Practice, Computer Systems Technical Group, Human Factors Society (Santa Monica, CA, Dec. 1990) 7-13. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 205-215.
+ HCIL-90-10
+ [Link to Report]
+ Plaisant, C. (Nov. 1990)
+Guide to opportunities in volunteer archaeology - case study of the use of a hypertext system in a museum exhibit
+ Hypertext/Hypermedia Handbook, Berk E. & Devlin, J., Eds., McGraw-Hill (1991) 498-505. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 223-229.
+ HCIL-90-09, CS-TR-2559, CAR-TR-523
+ [Link to Report]
+ Plaisant, C., Wallace, D. (Nov. 1990)
+Touchscreen toggle switches: push or slide? Design issues and usability study
+ HCIL-90-08, CS-TR-2557, CAR-TR-521
+ [Video] [Link to Report]
+ Shneiderman, B. (Sept. 1990)
+Human values and the future of technology: a declaration of responsibility
+ Keynote address for the ACM SIGCAS 90 Conference: Computers and the Quality of Life. Also in the ACM SIGCHI Bulletin (Jan. 1991). Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 337-343.
+ HCIL-90-07
+ [Link to Report]
+ Sears, A. (revised March 1991)
+Improving touchscreen keyboards: design issues and a comparison with other devices
+Interacting with Computers, vol. 3, 3 (1991) 253-269.
+ HCIL-90-06, CS-TR-2536, CAR-TR-515
+ [Link to Report]
+ Jones, T., Shneiderman, B. (July 1990)
+Examining usability for a training oriented hypertext: can hyper-activity be good?
+Electronic Publishing, vol. 3 (4) (Nov. 1990) 207-225.
+ HCIL-90-05, CS-TR-2499, CAR-TR-509
+ [Link to Report]
+ Butler, S. (June 1990)
+The effect of method of instruction and spatial visualization ability on the subsequent navigation of a hierarchical database
+ HCIL-90-04, CS-TR-2398, CAR-TR-488
+ [Link to Report]
+ Lifshitz, J., Shneiderman, B. (March 1990)
+Window control strategies for hypertext traversal: an empirical study
+ Proc. 29th Annual ACM DC Technical Symposium (June 1991).
+ HCIL-90-03, CS-TR-2356, CAR-TR-475
+ [Link to Report]
+ Shneiderman, B., Plaisant, C., Botafogo, R., Hopkins, D., Weiland, W. (revised May 1991)
+Designing to facilitate browsing: a look back at the Hyperties work station browser
+Hypermedia, vol. 3, 2 (1991)101-117. Based on Visual engagement and low cognitive load in browsing hypertext.
+ HCIL-90-02, CS-TR-2433, CAR-TR-494
+ [Link to Report]
+ Sears, A., Plaisant, C., Shneiderman, B. (June 1990)
+A new era for high-precision touchscreens
+Advances in Human-Computer Interaction, vol. 3, Hartson, R. & Hix, D. Eds., Ablex (1992) 1-33.
+ HCIL-90-01, CS-TR-2487, CAR-TR-506
+ [Link to Report]
+1989
+ Furuta, R., Plaisant, C., Shneiderman, B. (Dec. 1989)
+Automatically transforming regularly structured linear documents into hypertext
+Electronic Publishing - Origination, Dissemination and Design, vol. 2, 4 (1990) 211-229.
+ HCIL-89-20
+ [Link to Report]
+ Koivunen, M. (Sept. 1989)
+WSE: an environment for exploring window strategies
+Proc. of Eurographics'90 (North-Holland, 1990) 495-506.
+ HCIL-89-19, CS-TR-2353, CAR-TR-473
+ [Link to Report]
+ Plaisant, C., Shneiderman, B. (revised Feb. 1991)
+Scheduling home control devices: design issues and usability evaluation of four touchscreen interfaces
+International Journal of Man-Machine Studies (1992) 36, 375-393. [Published Version]
+ HCIL-89-18, CS-TR-2352, CAR-TR-472
+ [Video] [Link to Report]
+ Sears, A., Shneiderman, B. (June 1989)
+High precision touchscreens: design strategies and comparisons with a mouse
+International Journal of Man-Machine Studies, (1991) 34, 4, 593-613. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 171-185.
+ HCIL-89-17, CS-TR-2268, CAR-TR-450
+ [Link to Report]
+ Faloustos, C., Lee, R., Plaisant, C., Shneiderman, B. (June 1989)
+Incorporating string search in a hypertext system: user interface and signature file design issues
+Hypermedia, vol. 2, 3 (1991).
+ HCIL-89-16, CS-TR-2266, CAR-TR-448
+ [Link to Report]
+ Furuta, R., Plaisant, C., Shneiderman, B. (May 1989)
+A spectrum of automatic hypertext constructions
+Hypermedia, vol. 1, 2 (1989) 179-195.
+ HCIL-89-15, CS-TR-2253, CAR-TR-443
+ [Link to Report]
+ Plaisant, C. (May 1989)
+Semi-automatic conversion to a hypertext database, the case study of the NCR management college course catalog
+ HCIL-89-14
+ [Link to Report]
+ Shneiderman, B. (Sept. 1989)
+Future directions for human-computer interaction
+Proc. Human-Computer Interaction '89 (Boston, Sept. 18-22, 1989). Also Designing and Using Human-Computer Interfaces and Knowledge Based Systems, Salvendy, G. & Smith, M. J. Eds., Elsevier Science B.V. Also International Journal of Huma n-Computer Interaction (1990) 2 (1) 73-90. [Published Version]
+ HCIL-89-13, CS-TR-2235, CAR-TR-436
+ [HTML] [Link to Report]
+ Weiland, W., Shneiderman, B. (Aug. 1989)
+Interactive graphics interfaces in hypertext systems
+Proc. 28th Annual ACM DC Technical Symposium, 23-28.
+ HCIL-89-12, CS-TR-2267, CAR-TR-449
+ [Link to Report]
+ Shneiderman, B. (1989)
+Intelligent interfaces: from fantasy to fact
+Proc. IFIP 11th World Computer Congress, (San Francisco, CA, Aug. 28-Sept. 1, 1989).
+ HCIL-89-11
+ [Link to Report]
+ Hobbs, J., Shneiderman, B. (1989)
+Design, implementation, and evaluation of automatic spelling correction for UNIX commands
+ HCIL-89-10, CS-TR-2243, CAR-TR-440
+ [Link to Report]
+ Jones, T. (May 1989)
+Incidental learning during information retrieval: a hypertext experiment
+Proc. International Conference on Computer-Assisted Learning, Springer Verlag (Berlin) 235-253.
+ HCIL-89-09
+ [Link to Report]
+ Shneiderman, B., Brethauer, D., Plaisant, C., Potter, R. (May 1989)
+Evaluating three museum installations of a hypertext
+Journal of the American Society for Information Science, 40(3) 172-182. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 231-250.
+ HCIL-89-08
+ [Link to Report]
+ Mitchell, J., Shneiderman, B. (April 1989)
+Dynamic versus static menus: an exploratory comparison
+ACM SIGCHI Bulletin, 20(4) (1989) 33-37.
+ HCIL-89-07
+ [Link to Report]
+ Shneiderman, B., Kearsley, G. (1989)
+Hypertext Hands-On!
+ Available through Addison-Wesley,192 pages + 2 PC disks.
+ HCIL-89-06
+ [Link to Report]
+ Shneiderman, B. (April 1989)
+A nonanthropomorphic style guide: overcoming the humpty dumpty syndrome
+ The Computing Teacher, 16(7), (1989) 5. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 331-335.
+ HCIL-89-05
+ [HTML]  [Link to Report]
+ Seabrook, R., Shneiderman, B. (April 1989)
+The user interface in a hypertext, multi-window program browser
+Interacting with Computers, 1(3) (1989) 299-337.
+ HCIL-89-04, CS-TR-2237, CAR-TR-437
+ [Link to Report]
+ Sears, A., Kochavy, Y., Shneiderman, B. (1989)
+Touchscreen field specification for public access database queries: let your fingers do the walking
+Proc. of the ACM Computer Science Conference `90 (Feb. 1990) 1-7.
+ HCIL-89-03
+ [Link to Report]
+ Norman, K., Butler, S. (Jan. 1989)
+Search by uncertainty: menu selection by target probability
+ HCIL-89-02, CS-TR-2230, CAR-TR-432
+ [Link to Report]
+ Shneiderman, B. (1989)
+Reflections on authoring, editing, and managing hypertext
+The Society of Text, Barrett, Ed., MIT Press (1989) 115-131.
+ HCIL-89-01, CS-TR-2160, CAR-TR-410
+ [Link to Report]
+1988
+ Wallace, D., Norman, K., Plaisant, C. (Sept. 1988)
+The american voice and robotics "guardian" system: a case study in user interface usability evaluation
+ HCIL-88-10, CS-TR-2113, CAR-TR-392
+ [Link to Report]
+ Potter, R., Berman, M., Shneiderman, B. (Nov. 1988)
+An experimental evaluation of three touchscreen strategies within a hypertext database
+International Journal of Human-Computer Interaction,1(1) (1989) 41-52.
+ HCIL-88-09, CS-TR-2141, CAR-TR-405
+ [Link to Report]
+ Chin, J. (Oct. 1988)
+A dynamic user adaptable menu system: linking it all together
+ HCIL-88-08, CS-TR-2120, CAR-TR-396
+ [Link to Report]
+ Norman, K., Mantel, W., Wallace, D. (Oct. 1988)
+User's guide to the menu selection prototyping system
+ HCIL-88-07, CS-TR-2114, CAR-TR-393
+ [Link to Report]
+ Shneiderman, B. (1988)
+We can design better user interfaces: a review of human-computer interaction styles
+Proc. International Ergonomics Association 10th Congress 31, vol. 5 (Sydney, Australia, Aug. 1-5, 1988) 699-710.
+ HCIL-88-06
+ [Link to Report]
+ Kreitzberg, C., Shneiderman, B. (1988)
+Restructuring knowledge for an electronic encyclopedia
+Proc. International Ergonomics Association 10th Congress 31, vol. 2, (Sydney, Australia, Aug. 1-5, 1988) 615-620. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed. , Ablex (June 1993) 123-131.
+ HCIL-88-05
+ [Link to Report]
+ Potter, R., Weldon, L., Shneiderman, B. (May 1988)
+Improving the accuracy of touch screens: an experimental evaluation of three strategies
+Proc. of the Conference on Human Factors in Computing Systems, CHI `88 (Washington, DC) 27-32. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 161-169. [Published Version]
+ HCIL-88-04
+ [Link to Report]
+ Chin, J., Norman, K. (June 1988)
+Declarative and procedural knowledge in menu systems: diagramming cognitive maps of phone and ATM commands
+ HCIL-88-03, CS-TR-2053, CAR-TR-366
+ [Link to Report]
+ Wang, X., Liebscher, P., Marchionini, G. (Jan. 1988)
+Improving information seeking performance in hypertext: roles of display format and search strategy
+ HCIL-88-02, CS-TR-2006, CAR-TR-353
+ [Link to Report]
+ Marchionini, G., Shneiderman, B. (Jan. 1988)
+Finding facts vs. browsing knowledge in hypertext systems
+IEEE Computer, 21, 1, 70-80. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 103-121.
+ HCIL-88-01
+ [Link to Report]
+1987
+ Norman, K., Schwartz, J. (1987)
+Memory for hierarchical menus: effects of study mode
+Bulletin of the Psychonomic Society, 25, 163-166.
+ HCIL-87-14
+ [Link to Report]
+ Wallace, D., Anderson, N., Shneiderman, B. (Oct. 1987)
+Time stress effects on two menu selection systems
+Proc. of the 31st Annual Meeting - Human Factors Society, (NY, NY) 727-731. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 89-97. Also Human Factors Perspectives on Human-Computer Interaction,Selections from Proc. of Human Factors and Ergonomics Society Annual Meetings 1983-1994, Perlman, G., Green, G.K., Wogalter, M.S., Eds. (1995) 105-109.
+ HCIL-87-13
+ [Link to Report]
+ Norman, K., Chin, J. (Oct. 1987)
+The menu metaphor: food for thought
+Behavior and Information Technology, 8, 125-134.
+ HCIL-87-12, CS-TR-1944, CAR-TR-334
+ [Link to Report]
+ Chin, J., Diehl, V., Norman, K. (Sept. 1987)
+Development of an instrument measuring user satisfaction of the human-computer interface
+Proc. ACM CHI '88 (Washington, DC) 213-218. [Published Version]
+ HCIL-87-11, CS-TR-1926, CAR-TR-328
+ [Link to Report]
+ Callahan, J., Hopkins, D., Weiser, M., Shneiderman, B. (Sept. 1987)
+An empirical comparison of pie vs. linear menus
+Proc. ACM CHI '88 (Washingotn, DC) 95-100. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 79-88.
+ HCIL-87-10, CS-TR-1919
+ [Video] [Link to Report]
+ Ostroff, D., Shneiderman, B. (Sept. 1987)
+Selection devices for users of an electronic encyclopedia: an empirical comparison of four possibilities
+Information Processing & Management, vol. 24, 6, 665-680.
+ HCIL-87-09, CS-TR-1910, CAR-TR-321
+ [Link to Report]
+ Shneiderman, B. (Aug. 1987)
+User interface design and evaluation for an electronic encyclopedia
+Proc. of the 2nd International Conference on Human-Computer Interaction, (Honolulu, HI, Aug. 1987). Cognitive Engineering in the Design of Human-Computer Interaction and Expert Systems, G. Salvendy, Ed., Elsevier (1987) 207-223.
+ HCIL-87-08, CS-TR-1819, CAR-TR-280
+ [Link to Report]
+ Lifshitz, J., Shneiderman, B. (July 1987)
+Window control strategies for on-line text traversal
+ Computer Science Internal Report.
+ HCIL-87-07
+ [Link to Report]
+ Chin, J., Norman, K., Shneiderman, B. (July 1987)
+Subjective user evaluation of CF Pascal programming tools
+ HCIL-87-06, CS-TR-1880, CAR-TR-304
+ [Link to Report]
+ Chin, J. (July 1987)
+Top-down and bottom-up processes in sorting computer menu system commands
+ HCIL-87-05, CS-TR-1879, CAR-TR-303
+ [Link to Report]
+ Margono, S., Shneiderman, B. (June 1987)
+A study of file manipulation by novices using commands vs. direct manipulation
+26th Annual Technical Symposium Washington DC Chapter of the ACM, (Gaithersburg, MD, June 11, 1987) 154-159. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 39-50.
+ HCIL-87-04, CS-TR-1775, CAR-TR-264
+ [Link to Report]
+ Shneiderman, B. (Feb. 1987)
+A taxonomy and rule-base for the selection of interaction styles
+Human Factors for Informatics Usability, Shackel, B. & Richardson, S., Eds., Cambridge University Press, 325-342. Also Readings in Human-Computer Interaction: Toward the Year 2000, Baecker, R.M., Grudin, J. , Buxton, W.A.S. & Greenberg, S., Eds., Morgan Kaufmann Pubs., Inc. (1995) 401-410.
+ HCIL-87-03, CS-TR-1776, CAR-TR-265
+ [Link to Report]
+ Mills, C., Weldon, L. (1987)
+Reading text from computer screens
+ACM Computing Surveys, 19 (4), 329-358.
+ HCIL-87-02, CS-TR-1449, CAR-TR-94
+ [Link to Report]
+ Shneiderman, B. (1987)
+User interface design for the Hyperties electronic encyclopedia
+Proc. Hypertext '87, 199-205. See 86-09 for previous version. [Published Version]
+ HCIL-87-01
+ [Link to Report]
+1986
+ Laverson, A., Norman, K., Shneiderman, B. (1986)
+An evaluation of jump-ahead techniques for frequent menu users
+Behaviour and Information Technology, 6, 2 (1987) 97-108.
+ HCIL-86-11, CS-TR-1591, CAR-TR-168
+ [Link to Report]
+ Baroff, J., Simon, R., Gilman, F., Shneiderman, B. (Dec. 1986)
+Direct manipulation user interfaces for expert systems
+Expert Systems: The User Interface, J. Hendler, Ed., Ablex (1987) 101-127.
+ HCIL-86-10, CS-TR-1745, CAR-TR-244
+ [Link to Report]
+ Morariu, J., Shneiderman, B. (Nov. 1986)
+Design and research on The Interactive Encyclopedia System (TIES)
+Proc. 29th Conference of the Association for the Development of Computer Based Instructional Systems, 19-21. See 87-01 for revised version.
+ HCIL-86-09
+ [Link to Report]
+ Reisel, J., Shneiderman, B. (Oct. 1986)
+Is bigger better? The effects of display size on program reading
+Ergonomic and Stress Aspects of Work with Computers, G. Salvendy, S. L. Sauter, & J. J. Hurrell, Jr., Eds., Elsevier (Aug. 1987) 113-122.
+ HCIL-86-08, CS-TR-1722, CAR-TR-231
+ [Link to Report]
+ Norman, K., Weldon, L., Shneiderman, B. (Aug. 1986)
+Cognitive layouts of windows and multiple screens for user interfaces
+International Journal of Man-Machine Studies, 25, 229-248.
+ HCIL-86-07, CS-TR-1498, CAR-TR-123
+ [Link to Report]
+ Shneiderman, B., Shafer, P., Simon, R., Weldon, L. (May 1986)
+Display strategies for program browsing: concepts and an experiment
+IEEE Software 3, 3 (May 1986) 7-15.
+ HCIL-86-06, CS-TR-1635, CAR-TR-192
+ [Link to Report]
+ Ostroff, D. (May 1986)
+Selection systems: interactive devices and strategies
+ 161 page masters thesis, see 87-09 for condensed published version.
+ HCIL-86-05
+ [Link to Report]
+ Koved, L., Shneiderman, B. (April 1986)
+Embedded menus: selecting items in context
+Communications of the ACM 29, 4, 312-318. Also (Aug. 13, 1985), IBM Research Report RC 11310. Reprinted in Hebrew in Maaseh-Hoshev. Also Sparks of Innovation in Human-Computer Interaction, Shneiderman, B., Ed., Ablex (June 1993) 67-77.
+ HCIL-86-04, CS-TR-1562, CAR-TR-153
+ [Link to Report]
+ Shneiderman, B. (March 1986)
+Designing menu selection systems
+Journal of American Society for Information Science, 37, 2, 57-70.
+ HCIL-86-03
+ [Link to Report]
+ Shneiderman, B. (Feb. 1986)
+Empirical studies of programmers: the territory, paths, and destinations
+ Keynote address for workshop, Empirical Studies of Programmers, E. Soloway & R. Iyengar, Eds., Ablex (June 1986) 1-12.
+ HCIL-86-02, CS-TR-1623, CAR-TR-187
+ [HTML] [Link to Report]
+ Ewing, J., Mehrabanzad, S., Sheck, S., Ostroff, D., Shneiderman, B. (Jan. 1986)
+An experimental comparison of a mouse and arrow-jump keys for an interactive encyclopedia
+International Journal of Man-Machine Studies, 24, 1, 29-45.
+ HCIL-86-01
+ [Link to Report]
+1985
+ Koved, L. (July 1985)
+Restructuring textual information for online retrieval
+ masters thesis
+ HCIL-85-04, CS-TR-1529, CAR-TR-133
+ [Link to Report]
+ Schwartz, J., Norman, K., Shneiderman, B. (March 1985)
+Performance on content free menus as a function of study method
+ HCIL-85-03, CS-TR-1477, CAR-TR-110
+ [Link to Report]
+ Parton, D., Huffman, K., Pridgen, P., Norman, K., Shneiderman, B. (1985)
+Learning a menu selection tree: training methods compared
+Behaviour and Information Technology, 4, 2, 81-91.
+ HCIL-85-02
+ [Link to Report]
+ Weldon, L., Mills, C., Koved, L., Shneiderman, B. (1985)
+The structure of information in online and paper technical manuals
+Proc. Human Factors Society - 29th Annual Conference (Santa Monica, CA) 1110-1113.
+ HCIL-85-01
+ [Link to Report]
+1984
+ Norman, K., Schwartz, J., Shneiderman, B. (May 1984)
+Memory for menus: effects of study mode
+ (revised 1987, see 87-14 Memory for hierarchical menus: effects of study mode).
+ HCIL-84-01, CS-TR-1412, CAR-TR-69
+ [Link to Report]
+1983
+ Shneiderman, B. (August 1983)
+Direct Manipulation: A Step Beyond Programming Languages
+IEEE Computer 9, 4 (August 1983), 57-69.
+ Please contact Ben Shneiderman (ben@cs.umd.edu) for a copy of this paper.
+ HCIL-83-01
+ [Link to Report]
